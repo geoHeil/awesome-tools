@@ -5,3 +5,7 @@ curated list of awesome tools and libraries for specific domains
 - python
   - plotting raster https://github.com/fmaussion/salem
   - raster handling http://xarray.pydata.org/en/stable/
+
+## operations & monitoring
+- general operations
+  - https://sentry.io/welcome/
