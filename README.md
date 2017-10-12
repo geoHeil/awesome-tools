@@ -9,3 +9,8 @@ curated list of awesome tools and libraries for specific domains
 ## operations & monitoring
 - general operations
   - https://sentry.io/welcome/
+
+## machine learning
+**model metadata***
+- https://www.comet.mln
+- Studio.ml (also hyper opt)
