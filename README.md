@@ -52,7 +52,7 @@ curated list of awesome tools and libraries for specific domains
   - http://www.chronix.io
 ## machine learning
 **model metadata**
-- https://www.comet.mln
+- https://www.comet.ml
 - http://studio.ml (also hyper opt)
 
 **model building**
@@ -67,8 +67,24 @@ curated list of awesome tools and libraries for specific domains
   
  **model serving**
 - own API wrapper around original model code
--
+- http://vespa.ai
 - https://github.com/RedisLabsModules/redis-ml
+- https://github.com/Hydrospheredata/mist
+
+**model serialization**
+- PMML
+- https://github.com/combust/mleap
+
+**hyperparameter tuning**
+
+**e2e**
+- https://www.seldon.io
+- http://pipeline.ai
+- https://datmo.com
+
+** ml solutions**
+- https://predictionio.incubator.apache.org
+- https://www.dominodatalab.com
 
 **bridiging python / r and big data**
 - http://blog.madhukaraphatak.com/pipe-in-spark/
