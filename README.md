@@ -67,6 +67,7 @@ curated list of awesome tools and libraries for specific domains
   
  **model serving**
 - own API wrapper around original model code
+- http://clipper.ai
 - http://vespa.ai
 - https://github.com/RedisLabsModules/redis-ml
 - https://github.com/Hydrospheredata/mist
