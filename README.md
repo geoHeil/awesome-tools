@@ -76,6 +76,7 @@ curated list of awesome tools and libraries for specific domains
 - https://github.com/combust/mleap
 
 **hyperparameter tuning**
+- https://sigopt.com
 
 **e2e**
 - https://www.seldon.io
