@@ -1,0 +1,10 @@
+# real world dataflow problems
+Some problems I observed in real dataflow pipelines
+
+## ETL
+- quality controlling data prior to ingest from source systems
+- actually knowing (responsibility for bought applications) where to find the data(base) and who knows about the format 
+
+## machine learning
+- no proper strategy for holdout group and prevention of feedback
+- model serving not scalable, no fully fledged ML solution available
