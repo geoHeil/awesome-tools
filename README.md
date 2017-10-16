@@ -102,3 +102,11 @@ curated list of awesome tools and libraries for specific domains
 ## cool videos
 - telco hadoop geospatial
   - https://www.youtube.com/watch?v=VtvP54Xo3Ek&feature=youtu.be
+
+
+## visualization
+- python
+  - https://python-graph-gallery.com for inspiration
+  - seaborn
+- R
+  - ggplot2 + grest themes
