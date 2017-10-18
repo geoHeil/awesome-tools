@@ -12,3 +12,4 @@ Some problems I observed in real dataflow pipelines
 
 ## hiring
 - if in doubt hire a data engineer and not a data scientist (especially when starting out to bring data driven processes into the company) assuming the engineer also has a feeling for strategy
+- make sure to have enough *process* and engineering in the team to build a solid and *regular* IT software development lifecycle process accoring to current standards
