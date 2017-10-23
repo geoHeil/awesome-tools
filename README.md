@@ -111,3 +111,7 @@ curated list of awesome tools and libraries for specific domains
   - seaborn
 - R
   - ggplot2 + grest themes
+
+**bi & dashboarding**
+- https://metabase.com
+- https://looker.com
