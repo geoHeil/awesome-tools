@@ -115,3 +115,6 @@ curated list of awesome tools and libraries for specific domains
 **bi & dashboarding**
 - https://metabase.com
 - https://looker.com
+
+**type safety**
+- https://github.com/typelevel/frameless
