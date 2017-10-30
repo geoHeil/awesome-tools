@@ -52,9 +52,10 @@ curated list of awesome tools and libraries for specific domains
   - http://www.chronix.io
 ## machine learning
 **model metadata**
-- https://www.comet.ml
+- https://github.com/IDSIA/sacred
 - http://studio.ml (also hyper opt)
 - https://github.com/mitdbg/modeldb
+- https://www.comet.ml
 
 **model building**
 - small
