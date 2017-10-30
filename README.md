@@ -54,6 +54,7 @@ curated list of awesome tools and libraries for specific domains
 **model metadata**
 - https://www.comet.ml
 - http://studio.ml (also hyper opt)
+- https://github.com/mitdbg/modeldb
 
 **model building**
 - small
