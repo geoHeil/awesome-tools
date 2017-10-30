@@ -55,7 +55,9 @@ curated list of awesome tools and libraries for specific domains
 - https://github.com/IDSIA/sacred
 - http://studio.ml (also hyper opt)
 - https://github.com/mitdbg/modeldb
+- https://dataversioncontrol.com
 - https://www.comet.ml
+- https://aetros.com
 
 **model building**
 - small
