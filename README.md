@@ -122,3 +122,8 @@ curated list of awesome tools and libraries for specific domains
 
 **type safety**
 - https://github.com/typelevel/frameless
+
+## probabiliiswtic programming
+- stan
+- pymc3
+- https://github.com/uber/pyro
