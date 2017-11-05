@@ -67,6 +67,9 @@ curated list of awesome tools and libraries for specific domains
   - https://spark.apache.org/mllib/
   - https://github.com/amidst/toolbox
   - https://github.com/tdunning/t-digest
+- ensembling
+  - http://ml-ensemble.com
+  - https://github.com/viisar/brew
   
   
  **model serving**
