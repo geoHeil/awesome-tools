@@ -118,6 +118,9 @@ curated list of awesome tools and libraries for specific domains
   - seaborn
 - R
   - ggplot2 + grest themes
+- javascript
+  - https://uber.github.io/deck.gl/#/
+  - https://dc-js.github.io/dc.js/
 
 **bi & dashboarding**
 - https://metabase.com
