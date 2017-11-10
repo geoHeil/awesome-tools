@@ -3,8 +3,15 @@ Some problems I observed in real dataflow pipelines
 
 ## ETL
 - quality controlling data prior to ingest from source systems
-- actually knowing (responsibility for bought applications) where to find the data(base) and who knows about the format 
+- actually knowing (responsibility for bought applications) where to find the data(base) and who knows about the format
+### security
+- know the difference between masking field values on the fly i.e. in ranger vs actually not having the permissions to view a column which often (at lest for hive) disallows then to execute the `DESCRIBE TABLE` statement so any tool like tableau which relies on this will subsequently fail
+- understand knox https://community.hortonworks.com/content/kbentry/113013/how-to-troubleshoot-and-application-behind-apache.html
 
+## operations
+- use HAproxy instead of mysql router for hive HA setups for metastore
+- centos os for locally installed cluster
+- make sure to really consider if the cluster is only meant for analytics or if it is not more reasonable to run the analytics cluster on kubernetes / openshift
 
 ## machine learning
 - no proper strategy for holdout group and prevention of feedback
@@ -18,3 +25,6 @@ Some problems I observed in real dataflow pipelines
 - but watch out that communication skills are great as well
 - make sure to have enough *process* and engineering in the team to build a solid and *regular* IT software development lifecycle process accoring to current standards
 - not any (great) developer is a great teamlead
+
+## big data
+**DO NOT do big data!** unless you really have big data and fully understand all the consequences of a distributed system.
