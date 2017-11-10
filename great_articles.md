@@ -14,6 +14,6 @@ collection of some nice articles
   - ml & pipelines
     - https://www.youtube.com/watch?v=B6xequGNM20&list=PLYX1a6mVbBmzZTnuB4niJHiyzEEqYsGLN&index=6
 - books
-  - covering all the basic concepts: http://shop.oreilly.com/product/0636920032175.do
+  - covering all the basic concepts: Designing Data-Intensive Applications http://shop.oreilly.com/product/0636920032175.do
   - streaming
     - kafka https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf
