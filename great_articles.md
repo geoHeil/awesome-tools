@@ -17,3 +17,5 @@ collection of some nice articles
   - covering all the basic concepts: Designing Data-Intensive Applications http://shop.oreilly.com/product/0636920032175.do
   - streaming
     - kafka https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf
+## podcasts
+- https://roaringelephant.org
