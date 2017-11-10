@@ -138,3 +138,8 @@ curated list of awesome tools and libraries for specific domains
 - stan
 - pymc3
 - https://github.com/uber/pyro
+
+## databases
+- https://www.cockroachlabs.com
+- https://www.snowflake.net/de/
+- https://snowplowanalytics.com/products/snowplow-open-source/
