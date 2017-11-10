@@ -15,6 +15,11 @@ curated list of awesome tools and libraries for specific domains
   - https://github.com/locationtech/geotrellis
   - https://github.com/Esri/spatial-framework-for-hadoop and https://github.com/Esri/gis-tools-for-hadoop as well as their java api
 
+## nlp
+- https://github.com/JohnSnowLabs/spark-nlp
+- https://github.com/databricks/spark-corenlp (check license extra carefully for commercial setup)
+- pyspark with https://spacy.io
+
 ## operations & monitoring
 - general operations
   - logging
