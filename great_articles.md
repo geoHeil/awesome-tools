@@ -13,3 +13,5 @@ collection of some nice articles
 - spark
   - ml & pipelines
     - https://www.youtube.com/watch?v=B6xequGNM20&list=PLYX1a6mVbBmzZTnuB4niJHiyzEEqYsGLN&index=6
+- streaming
+  - https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf
