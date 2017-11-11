@@ -128,6 +128,7 @@ curated list of awesome tools and libraries for specific domains
   - shingles and pipelines https://www.youtube.com/watch?v=qkrh35IF2SU, https://github.com/PacktPublishing/Mastering-Spark-for-Data-Science
 - streaming
   - kafka https://www.youtube.com/watch?v=MNPI925PFD0
+  - spark streaming in depth https://www.youtube.com/watch?v=hyZU_bw1-ow
 
 
 ## visualization
