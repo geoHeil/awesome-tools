@@ -96,7 +96,7 @@ curated list of awesome tools and libraries for specific domains
 - http://pipeline.ai
 - https://datmo.com
 
-** ml solutions**
+**ml solutions**
 - https://predictionio.incubator.apache.org
 - https://www.dominodatalab.com
 
@@ -136,7 +136,7 @@ curated list of awesome tools and libraries for specific domains
 **type safety**
 - https://github.com/typelevel/frameless
 
-## probabiliiswtic programming
+## probabilistic programming
 - stan
 - pymc3
 - https://github.com/uber/pyro
