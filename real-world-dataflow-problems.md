@@ -28,3 +28,4 @@ Some problems I observed in real dataflow pipelines
 
 ## big data
 **DO NOT do big data!** unless you really have big data and fully understand all the consequences of a distributed system.
+Instead, invest a couple of $$ into beefier single node computers. High single thread performance + lots of RAM will make you so much more productive.
