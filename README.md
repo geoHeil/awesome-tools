@@ -75,6 +75,11 @@ curated list of awesome tools and libraries for specific domains
 - ensembling
   - http://ml-ensemble.com
   - https://github.com/viisar/brew
+- specific great models
+  - gradient boosted trees
+    - xgboost
+    - lightgbm
+      - https://github.com/Azure/mmlspark
   
   
  **model serving**
