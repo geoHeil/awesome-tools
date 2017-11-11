@@ -22,8 +22,9 @@ curated list of awesome tools and libraries for specific domains
 
 ## operations & monitoring
 - general operations
-  - logging
+  - logging & alerting
     - https://sentry.io/welcome/
+    - https://bosun.org
  - certificates
     - https://certbot.eff.org and https://letsencrypt.org for free and automated https/ssl certificates
 - hadoop monitoring
