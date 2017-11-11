@@ -21,3 +21,8 @@ collection of some nice articles
     - kafka https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf
 ## podcasts
 - https://roaringelephant.org
+
+
+## developer tooling
+- formatting
+  - https://grysz.com/2015/11/13/reformat-java-code-in-intellij-according-to-uncle-bobs-stepdown-rule/
