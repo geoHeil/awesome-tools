@@ -124,7 +124,10 @@ curated list of awesome tools and libraries for specific domains
   - https://www.youtube.com/watch?v=VtvP54Xo3Ek&feature=youtu.be
   - streaming and declarative models: https://www.youtube.com/watch?v=Do7C4UJyWCM
 - ml
-  - https://www.youtube.com/watch?v=cpR6Vkp7ImA
+  - ml pipelines https://www.youtube.com/watch?v=cpR6Vkp7ImA
+  - shingles and pipelines https://www.youtube.com/watch?v=qkrh35IF2SU, https://github.com/PacktPublishing/Mastering-Spark-for-Data-Science
+- streaming
+  - kafka https://www.youtube.com/watch?v=MNPI925PFD0
 
 
 ## visualization
