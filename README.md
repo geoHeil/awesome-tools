@@ -122,6 +122,8 @@ curated list of awesome tools and libraries for specific domains
 - telco hadoop geospatial
   - https://www.youtube.com/watch?v=VtvP54Xo3Ek&feature=youtu.be
   - streaming and declarative models: https://www.youtube.com/watch?v=Do7C4UJyWCM
+- ml
+  - https://www.youtube.com/watch?v=cpR6Vkp7ImA
 
 
 ## visualization
