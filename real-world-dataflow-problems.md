@@ -12,6 +12,8 @@ Some problems I observed in real dataflow pipelines
 - use HAproxy instead of mysql router for hive HA setups for metastore
 - centos os for locally installed cluster
 - make sure to really consider if the cluster is only meant for analytics or if it is not more reasonable to run the analytics cluster on kubernetes / openshift
+### hardware
+- use intel CPUs. Hdoop 3.0 will use erasure coding. ISA-L intel library can greatly speed up compressions https://issues.apache.org/jira/browse/HDFS-7285
 
 ## machine learning
 - no proper strategy for holdout group and prevention of feedback
