@@ -167,3 +167,6 @@ curated list of awesome tools and libraries for specific domains
 - https://www.cockroachlabs.com
 - https://www.snowflake.net/de/
 - https://snowplowanalytics.com/products/snowplow-open-source/
+- hbase-spark
+  - via phenix spark
+  - https://github.com/hortonworks/shc-release/tree/HDP-2.6.3.0-235-tag
