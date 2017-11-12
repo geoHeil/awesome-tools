@@ -24,6 +24,8 @@ curated list of awesome tools and libraries for specific domains
 - parsing HTML
   - https://github.com/GravityLabs/goose
   - https://github.com/ruippeixotog/scala-scraper
+- clustering
+  - https://github.com/derrickburns/generalized-kmeans-clustering
 
 ## operations & monitoring
 - general operations
