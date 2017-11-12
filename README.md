@@ -19,6 +19,10 @@ curated list of awesome tools and libraries for specific domains
 - https://github.com/JohnSnowLabs/spark-nlp
 - https://github.com/databricks/spark-corenlp (check license extra carefully for commercial setup)
 - pyspark with https://spacy.io
+### textual preprocessing
+- parsing HTML
+  - https://github.com/GravityLabs/goose
+  - https://github.com/ruippeixotog/scala-scraper
 
 ## operations & monitoring
 - general operations
