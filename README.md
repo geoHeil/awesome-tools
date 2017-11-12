@@ -59,6 +59,7 @@ curated list of awesome tools and libraries for specific domains
   - https://spark-summit.org/2016/events/huohua-a-distributed-time-series-analysis-framework-for-spark/
   - https://github.com/twosigma/flint
   - https://databricks.gitbooks.io/databricks-spark-reference-applications/content/timeseries/index.html
+  - correlation https://github.com/Sotera/correlation-approximation
 - storage
   - http://www.chronix.io
 ## machine learning
