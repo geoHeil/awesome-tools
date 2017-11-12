@@ -121,6 +121,8 @@ curated list of awesome tools and libraries for specific domains
   - https://github.com/dbs-leipzig/gradoop
   - https://github.com/gchq/Gaffer
   - https://graphframes.github.io/index.html
+  - communities
+    - https://github.com/Sotera/distributed-graph-analytics/tree/master/dga-graphx
 - non hadoop
   - https://neo4j.com (single master, multi slave cluster possible)
 
