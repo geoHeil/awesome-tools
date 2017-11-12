@@ -15,6 +15,8 @@ collection of some nice articles
 - spark
   - ml & pipelines
     - https://www.youtube.com/watch?v=B6xequGNM20&list=PLYX1a6mVbBmzZTnuB4niJHiyzEEqYsGLN&index=6
+- hbase
+  - bulk loading from spark http://www.opencore.com/blog/2016/10/efficient-bulk-load-of-hbase-using-spark/
 - books
   - covering all the basic concepts: Designing Data-Intensive Applications http://shop.oreilly.com/product/0636920032175.do
   - streaming
