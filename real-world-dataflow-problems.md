@@ -4,6 +4,7 @@ Some problems I observed in real dataflow pipelines
 ## ETL
 - quality controlling data prior to ingest from source systems
 - actually knowing (responsibility for bought applications) where to find the data(base) and who knows about the format
+- parameterize everything, most importantly the fileds
 ### security
 - know the difference between masking field values on the fly i.e. in ranger vs actually not having the permissions to view a column which often (at lest for hive) disallows then to execute the `DESCRIBE TABLE` statement so any tool like tableau which relies on this will subsequently fail
 - understand knox https://community.hortonworks.com/content/kbentry/113013/how-to-troubleshoot-and-application-behind-apache.html
