@@ -62,6 +62,7 @@ curated list of awesome tools and libraries for specific domains
   - https://github.com/twosigma/flint
   - https://databricks.gitbooks.io/databricks-spark-reference-applications/content/timeseries/index.html
   - correlation https://github.com/Sotera/correlation-approximation
+  - https://github.com/sryza/spark-timeseries
 - storage
   - http://www.chronix.io
 ## machine learning
