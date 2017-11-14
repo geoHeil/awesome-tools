@@ -7,6 +7,7 @@ curated list of awesome tools and libraries for specific domains
   - raster handling http://xarray.pydata.org/en/stable/
   - multi dimensional arrays http://xarray.pydata.org/en/stable/
   - spatial data including joins (works with dask) http://geopandas.org
+  - cleaning of addresses: https://github.com/openvenues/libpostal
 - hadoop
   - http://www.geomesa.org
   - https://github.com/DataSystemsLab/GeoSpark
