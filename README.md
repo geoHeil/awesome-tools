@@ -163,6 +163,8 @@ curated list of awesome tools and libraries for specific domains
 **bi & dashboarding**
 - https://metabase.com
 - https://looker.com
+- python
+  - https://github.com/stitchfix/pyxley
 
 **type safety**
 - https://github.com/typelevel/frameless
