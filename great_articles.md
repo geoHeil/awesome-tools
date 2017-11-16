@@ -15,6 +15,8 @@ collection of some nice articles
 - spark
   - ml & pipelines
     - https://www.youtube.com/watch?v=B6xequGNM20&list=PLYX1a6mVbBmzZTnuB4niJHiyzEEqYsGLN&index=6
+  - etl
+    - custom encoders: https://github.com/vaquarkhan/vk-wiki-notes/wiki/Apache-Spark-custom-Encoder-example
 - hbase
   - bulk loading from spark http://www.opencore.com/blog/2016/10/efficient-bulk-load-of-hbase-using-spark/
 - books
