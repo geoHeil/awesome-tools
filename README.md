@@ -185,3 +185,9 @@ curated list of awesome tools and libraries for specific domains
 - hbase-spark
   - via phenix spark
   - https://github.com/hortonworks/shc-release/tree/HDP-2.6.3.0-235-tag
+
+## scala
+### configuration
+- typesafe configuration
+- https://cir.is/docs/validation
+- https://github.com/pureconfig/pureconfig
