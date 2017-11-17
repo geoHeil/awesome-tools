@@ -165,6 +165,10 @@ curated list of awesome tools and libraries for specific domains
 - https://looker.com
 - python
   - https://github.com/stitchfix/pyxley
+**notebooks**
+- jupyter
+  - http://beakerx.com
+- zeppelin
 
 **type safety**
 - https://github.com/typelevel/frameless
