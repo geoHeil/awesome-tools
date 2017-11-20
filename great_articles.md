@@ -29,6 +29,7 @@ collection of some nice articles
 
 ## nlp
 - https://www.datacamp.com/community/tutorials/lda2vec-topic-model
+- https://juliasilge.com/blog/tidy-word-vectors/
 
 ## podcasts
 - https://roaringelephant.org
