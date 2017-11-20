@@ -10,7 +10,8 @@ collection of some nice articles
 - http://briansp2020.github.io/2017/11/05/fast_ai_ROCm/
 - vision
   - https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/
-
+**handling images**
+- https://fullstackml.com/wavelet-image-hash-in-python-3504fdd282b5
 ## big data
 - spark
   - ml & pipelines
