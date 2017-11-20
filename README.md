@@ -22,6 +22,7 @@ curated list of awesome tools and libraries for specific domains
 - pyspark with https://spacy.io
 - https://github.com/clulab/processors
 - https://github.com/google/sling
+- https://github.com/facebookresearch/faiss
 
 ### textual preprocessing
 - parsing HTML
