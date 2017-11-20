@@ -38,3 +38,6 @@ collection of some nice articles
 ## developer tooling
 - formatting
   - https://grysz.com/2015/11/13/reformat-java-code-in-intellij-according-to-uncle-bobs-stepdown-rule/
+  
+## timeseries
+- https://www.kdnuggets.com/2017/11/automated-feature-engineering-time-series-data.html
