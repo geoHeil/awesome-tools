@@ -23,6 +23,7 @@ curated list of awesome tools and libraries for specific domains
 - https://github.com/clulab/processors
 - https://github.com/google/sling
 - https://github.com/facebookresearch/faiss
+- https://github.com/bplank/bilstm-aux
 
 ### textual preprocessing
 - parsing HTML
