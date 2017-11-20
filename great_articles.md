@@ -16,6 +16,8 @@ collection of some nice articles
 - spark
   - ml & pipelines
     - https://www.youtube.com/watch?v=B6xequGNM20&list=PLYX1a6mVbBmzZTnuB4niJHiyzEEqYsGLN&index=6
+  - hypothesis checkig
+    - https://fullstackml.com/how-to-check-hypotheses-with-bootstrap-and-apache-spark-cd750775286a
   - etl
     - custom encoders: https://github.com/vaquarkhan/vk-wiki-notes/wiki/Apache-Spark-custom-Encoder-example
 - hbase
