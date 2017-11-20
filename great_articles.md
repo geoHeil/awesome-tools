@@ -32,6 +32,9 @@ collection of some nice articles
 - https://juliasilge.com/blog/tidy-word-vectors/
 - https://www.youtube.com/watch?time_continue=23&v=-lx2shfA-5s
 
+**embeddings**
+- https://distill.pub/2016/misread-tsne/
+
 ## podcasts
 - https://roaringelephant.org
 
