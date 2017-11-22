@@ -98,6 +98,8 @@ curated list of awesome tools and libraries for specific domains
     - xgboost
     - lightgbm
       - https://github.com/Azure/mmlspark
+- visualization of results
+  - https://github.com/DistrictDataLabs/yellowbrick
   
   
  **model serving**
