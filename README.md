@@ -197,3 +197,6 @@ curated list of awesome tools and libraries for specific domains
 - typesafe configuration
 - https://cir.is/docs/validation
 - https://github.com/pureconfig/pureconfig
+
+## bio-informatics
+- https://github.com/MG-RAST/AWE
