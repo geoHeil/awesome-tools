@@ -142,6 +142,8 @@ curated list of awesome tools and libraries for specific domains
     - https://github.com/Sotera/distributed-graph-analytics/tree/master/dga-graphx
 - non hadoop
   - https://neo4j.com (single master, multi slave cluster possible)
+- tutorial
+  - paradise papers https://github.com/johnymontana/pp-viz/blob/master/jupyter/PP_Viz.ipynb
 
 ## cool videos
 - telco hadoop geospatial
