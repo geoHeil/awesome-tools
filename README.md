@@ -138,6 +138,7 @@ curated list of awesome tools and libraries for specific domains
   - https://github.com/dbs-leipzig/gradoop
   - https://github.com/gchq/Gaffer
   - https://graphframes.github.io/index.html
+  - connector to neo4j https://github.com/neo4j-contrib/neo4j-spark-connector
   - communities
     - https://github.com/Sotera/distributed-graph-analytics/tree/master/dga-graphx
 - non hadoop
