@@ -204,3 +204,6 @@ curated list of awesome tools and libraries for specific domains
 
 ## bio-informatics
 - https://github.com/MG-RAST/AWE
+
+## startup
+- founding / payments https://stripe.com/atlas
