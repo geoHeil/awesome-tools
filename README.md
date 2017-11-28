@@ -49,6 +49,8 @@ curated list of awesome tools and libraries for specific domains
 - data quality
   - hadoop
     - https://github.com/FRosner/drunken-data-quality
+- packer base images
+  - http://chef.github.io/bento/
 
 ## time series
 **small**
