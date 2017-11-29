@@ -37,6 +37,9 @@ collection of some nice articles
 **embeddings**
 - https://distill.pub/2016/misread-tsne/
 
+## timeseries
+- https://www.kdnuggets.com/2017/11/automated-feature-engineering-time-series-data.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgzlYOgbKSVemJoxvulGFZg%3D%3D
+
 ## podcasts
 - https://roaringelephant.org
 
