@@ -113,6 +113,7 @@ curated list of awesome tools and libraries for specific domains
 - https://github.com/Hydrospheredata/mist
 - https://github.com/Azure/ai-toolkit-iot-edge
 - https://www.dominodatalab.com and various other cloud data science work benches
+- https://datmo.com
 
 **model serialization**
 - PMML
