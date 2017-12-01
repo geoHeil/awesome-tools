@@ -31,6 +31,7 @@ Some problems I observed in real dataflow pipelines
 - but watch out that communication skills are great as well
 - make sure to have enough *process* and engineering in the team to build a solid and *regular* IT software development lifecycle process accoring to current standards
 - not any (great) developer is a great teamlead
+- https://rework.withgoogle.com holds great resources regarding hiring & team building
 
 ## big data
 **DO NOT do big data!** unless you really have big data and fully understand all the consequences of a distributed system.
