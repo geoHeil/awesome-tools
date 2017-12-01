@@ -27,6 +27,7 @@ collection of some nice articles
   - covering all the basic concepts: Designing Data-Intensive Applications http://shop.oreilly.com/product/0636920032175.do
   - streaming
     - kafka https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf
+  - mastering spark for data science - use cases end 2 end https://www.youtube.com/watch?v=B6xequGNM20&list=PLYX1a6mVbBmzZTnuB4niJHiyzEEqYsGLN&index=6
 
 ## nlp
 - https://www.datacamp.com/community/tutorials/lda2vec-topic-model
