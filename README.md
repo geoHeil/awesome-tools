@@ -57,6 +57,7 @@ curated list of awesome tools and libraries for specific domains
 - prediction
   - https://cran.r-project.org/web/packages/forecast/index.html
   - https://github.com/facebook/prophet
+  - bayesian structural https://cran.r-project.org/web/packages/bsts/index.html
   - multi prediction
     - https://cran.r-project.org/web/packages/forecastHybrid/index.html
     - https://cran.r-project.org/web/packages/opera/index.html
