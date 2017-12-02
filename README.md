@@ -90,6 +90,8 @@ curated list of awesome tools and libraries for specific domains
 - small
   - http://scikit-learn.org/stable/
   - R
+    - preprocessing
+      - https://cran.r-project.org/web/packages/vtreat/index.html
 - hadoop
   - https://spark.apache.org/mllib/
   - https://github.com/amidst/toolbox
