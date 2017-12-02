@@ -14,7 +14,7 @@ curated list of awesome tools and libraries for specific domains
   - https://github.com/harsha2010/magellan
   - https://github.com/locationtech/geowave
   - https://github.com/locationtech/geotrellis
-  - https://github.com/Esri/spatial-framework-for-hadoop and https://github.com/Esri/gis-tools-for-hadoop as well as their java api
+  - https://github.com/Esri/spatial-framework-for-hadoop and https://github.com/Esri/gis-tools-for-hadoop as well as their java api https://github.com/Esri/geometry-api-java
 
 ## nlp
 - https://github.com/JohnSnowLabs/spark-nlp
