@@ -55,3 +55,6 @@ collection of some nice articles
   
 ## timeseries
 - https://www.kdnuggets.com/2017/11/automated-feature-engineering-time-series-data.html
+
+## Bayesian stuff
+- http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
