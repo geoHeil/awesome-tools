@@ -1,6 +1,9 @@
 # great articles & books
 collection of some nice articles
 
+## general tips
+- http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html
+
 ## dashboarding
 - https://eng.uber.com/on-call-dashboard/
 
