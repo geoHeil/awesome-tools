@@ -58,3 +58,6 @@ collection of some nice articles
 
 ## Bayesian stuff
 - http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+
+## great EDA (exploratory data anylysis) tips
+- https://www.kaggle.com/thie1e/exploratory-analysis-rossmann
