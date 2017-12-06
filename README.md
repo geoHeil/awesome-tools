@@ -118,6 +118,7 @@ curated list of awesome tools and libraries for specific domains
 - https://github.com/Azure/ai-toolkit-iot-edge
 - https://www.dominodatalab.com and various other cloud data science work benches
 - https://datmo.com
+- https://aws.amazon.com/de/sagemaker/
 
 **model serialization**
 - PMML
