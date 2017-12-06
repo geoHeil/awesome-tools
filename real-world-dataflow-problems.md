@@ -8,6 +8,7 @@ Some problems I observed in real dataflow pipelines
 
 ### dataflow
 - understand the limits of your architecture / technology and dataflows regarding speed, capacity, latency, types of data handlable...
+
 ### security
 - know the difference between masking field values on the fly i.e. in ranger vs actually not having the permissions to view a column which often (at lest for hive) disallows then to execute the `DESCRIBE TABLE` statement so any tool like tableau which relies on this will subsequently fail
 - understand knox https://community.hortonworks.com/content/kbentry/113013/how-to-troubleshoot-and-application-behind-apache.html
@@ -16,6 +17,10 @@ Some problems I observed in real dataflow pipelines
 - use HAproxy instead of mysql router for hive HA setups for metastore
 - centos os for locally installed cluster
 - make sure to really consider if the cluster is only meant for analytics or if it is not more reasonable to run the analytics cluster on kubernetes / openshift
+- own the base and cloud the spike
+- consider hybrid cloud (cross cloud provider)
+- adhere to https://www.acm.org/binaries/content/assets/public-policy/2017_usacm_statement_algorithms.pdf and especially look out for any data provenance issues
+
 ### hardware
 - use intel CPUs. Hdoop 3.0 will use erasure coding. ISA-L intel library can greatly speed up compressions https://issues.apache.org/jira/browse/HDFS-7285
 
