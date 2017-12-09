@@ -140,6 +140,7 @@ curated list of awesome tools and libraries for specific domains
 **bridiging python / r and big data**
 - http://blog.madhukaraphatak.com/pipe-in-spark/
 - sparklyR
+- https://github.com/apple/turicreate out of core models on medium sized data
 
 **graph processing**
 - hadoop
