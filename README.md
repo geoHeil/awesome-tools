@@ -204,6 +204,7 @@ curated list of awesome tools and libraries for specific domains
 - hbase-spark
   - via phenix spark
   - https://github.com/hortonworks/shc-release/tree/HDP-2.6.3.0-235-tag
+- postgres on GPUs http://www.brytlyt.com
 
 ## scala
 ### configuration
