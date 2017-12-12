@@ -20,6 +20,7 @@ Some problems I observed in real dataflow pipelines
 - own the base and cloud the spike
 - consider hybrid cloud (cross cloud provider)
 - adhere to https://www.acm.org/binaries/content/assets/public-policy/2017_usacm_statement_algorithms.pdf and especially look out for any data provenance issues
+- make sure to setup a file quota in HDFS per user
 
 ### hardware
 - use intel CPUs. Hdoop 3.0 will use erasure coding. ISA-L intel library can greatly speed up compressions https://issues.apache.org/jira/browse/HDFS-7285
