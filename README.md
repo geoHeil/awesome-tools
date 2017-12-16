@@ -217,3 +217,6 @@ curated list of awesome tools and libraries for specific domains
 
 ## startup
 - founding / payments https://stripe.com/atlas
+
+## recommender
+- https://github.com/actionml/universal-recommender
