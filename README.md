@@ -10,6 +10,7 @@ curated list of awesome tools and libraries for specific domains
   - cleaning of addresses: https://github.com/openvenues/libpostal
 - hadoop
   - http://www.geomesa.org
+    - https://github.com/spatialcurrent/ansible-geomesa-accumulo-ubuntu
   - https://github.com/DataSystemsLab/GeoSpark
   - https://github.com/harsha2010/magellan
   - https://github.com/locationtech/geowave
