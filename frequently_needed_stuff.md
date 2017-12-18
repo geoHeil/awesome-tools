@@ -22,3 +22,10 @@ keytool -import -alias gateway-identity -keystore mykeystore.jks -file myfile.ce
 **tuning**
 - http://rea.tech/how-we-optimize-apache-spark-apps/
 - http://fdahms.com/2015/10/04/writing-efficient-spark-jobs/
+
+
+**aggregations**
+- multiple aggregations
+  - UADF
+  - rdd statCounter
+  - scalding: https://github.com/twitter/scalding/wiki/Aggregation-using-Algebird-Aggregators#composing-aggregators
