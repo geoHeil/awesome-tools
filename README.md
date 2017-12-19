@@ -221,3 +221,4 @@ curated list of awesome tools and libraries for specific domains
 
 ## recommender
 - https://github.com/actionml/universal-recommender
+- https://github.com/DataSystemsLab/recdb-postgresql
