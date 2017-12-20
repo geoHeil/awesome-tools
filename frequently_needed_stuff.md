@@ -29,3 +29,6 @@ keytool -import -alias gateway-identity -keystore mykeystore.jks -file myfile.ce
   - UADF
   - rdd statCounter
   - scalding: https://github.com/twitter/scalding/wiki/Aggregation-using-Algebird-Aggregators#composing-aggregators
+  
+**partition handling**
+- https://towardsdatascience.com/writing-into-dynamic-partitions-using-spark-2e2b818a007a
