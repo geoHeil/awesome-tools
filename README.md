@@ -93,6 +93,10 @@ curated list of awesome tools and libraries for specific domains
   - R
     - preprocessing
       - https://cran.r-project.org/web/packages/vtreat/index.html
+  - python
+    - automl
+      - teapot
+      - http://automl.github.io/auto-sklearn/stable/
 - hadoop
   - https://spark.apache.org/mllib/
   - https://github.com/amidst/toolbox
