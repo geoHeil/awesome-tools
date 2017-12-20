@@ -211,6 +211,9 @@ curated list of awesome tools and libraries for specific domains
   - https://github.com/hortonworks/shc-release/tree/HDP-2.6.3.0-235-tag
 - postgres on GPUs http://www.brytlyt.com
 
+**time series DBs**
+- https://timescale.com
+
 ## scala
 ### configuration
 - typesafe configuration
