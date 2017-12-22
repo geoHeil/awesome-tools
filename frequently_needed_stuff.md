@@ -36,3 +36,7 @@ keytool -import -alias gateway-identity -keystore mykeystore.jks -file myfile.ce
 
 ## python
 - date handling https://www.youtube.com/watch?v=Q97vDzaNQyU
+
+
+## yarn
+- overview https://de.hortonworks.com/blog/yarn-capacity-scheduler/
