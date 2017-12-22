@@ -97,6 +97,7 @@ curated list of awesome tools and libraries for specific domains
     - automl
       - teapot
       - http://automl.github.io/auto-sklearn/stable/
+    - lambda https://www.youtube.com/watch?v=eF-4CrS_j_4
 - hadoop
   - https://spark.apache.org/mllib/
   - https://github.com/amidst/toolbox
