@@ -11,6 +11,8 @@ collection of some nice articles
 ### evaluation
 - https://www.youtube.com/watch?v=WKAuXlsq6xw
 - scoring process in production https://www.youtube.com/watch?v=-rGRHrED94Y
+### meta modeling
+- https://www.youtube.com/watch?v=Q0QmziFcfU0
 
 ## deeplearning
 - https://medium.com/towards-data-science/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32
