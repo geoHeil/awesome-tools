@@ -40,3 +40,7 @@ keytool -import -alias gateway-identity -keystore mykeystore.jks -file myfile.ce
 
 ## yarn
 - overview https://de.hortonworks.com/blog/yarn-capacity-scheduler/
+
+## machine learning
+### categorical handling
+- http://www.win-vector.com/blog/2016/11/you-should-re-encode-high-cardinality-categorical-variables/
