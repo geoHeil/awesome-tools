@@ -173,6 +173,7 @@ curated list of awesome tools and libraries for specific domains
 - streaming
   - kafka https://www.youtube.com/watch?v=MNPI925PFD0
   - spark streaming in depth https://www.youtube.com/watch?v=hyZU_bw1-ow
+  - python https://github.com/mrocklin/streamz
 
 
 ## visualization
