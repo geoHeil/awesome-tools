@@ -10,6 +10,7 @@ collection of some nice articles
 ## machine learning
 ### evaluation
 - https://www.youtube.com/watch?v=WKAuXlsq6xw
+- scoring process in production https://www.youtube.com/watch?v=-rGRHrED94Y
 
 ## deeplearning
 - https://medium.com/towards-data-science/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32
