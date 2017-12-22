@@ -32,3 +32,7 @@ keytool -import -alias gateway-identity -keystore mykeystore.jks -file myfile.ce
   
 **partition handling**
 - https://towardsdatascience.com/writing-into-dynamic-partitions-using-spark-2e2b818a007a
+
+
+## python
+- date handling https://www.youtube.com/watch?v=Q97vDzaNQyU
