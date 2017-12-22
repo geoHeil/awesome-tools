@@ -104,6 +104,7 @@ curated list of awesome tools and libraries for specific domains
 - ensembling
   - http://ml-ensemble.com
   - https://github.com/viisar/brew
+  - https://github.com/civisanalytics/civisml-extensions
 - specific great models
   - gradient boosted trees
     - xgboost
