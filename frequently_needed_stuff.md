@@ -44,3 +44,6 @@ keytool -import -alias gateway-identity -keystore mykeystore.jks -file myfile.ce
 ## machine learning
 ### categorical handling
 - http://www.win-vector.com/blog/2016/11/you-should-re-encode-high-cardinality-categorical-variables/
+
+### cross validation
+- https://www.google.at/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjTtunBu53YAhXGZFAKHTkcAhoQFggqMAA&url=https%3A%2F%2Fgithub.com%2Fyandexdataschool%2Fml-training-website%2Fraw%2Fgh-pages%2Fpresentations%2FSavenkov_KaggleMercedes_2017_eng.pdf&usg=AOvVaw3Zle9OmWU-FhS9QSB_dUVK
