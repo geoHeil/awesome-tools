@@ -39,6 +39,7 @@ Some problems I observed in real dataflow pipelines
 - make sure to have enough *process* and engineering in the team to build a solid and *regular* IT software development lifecycle process accoring to current standards
 - not any (great) developer is a great teamlead
 - https://rework.withgoogle.com holds great resources regarding hiring & team building
+- in case working for a small company read https://medium.com/apteo/what-makes-a-good-data-scientist-at-a-small-company-3f445d421dff
 
 ## big data
 **DO NOT do big data!** unless you really have big data and fully understand all the consequences of a distributed system.
