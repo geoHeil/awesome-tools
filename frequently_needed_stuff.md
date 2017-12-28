@@ -19,6 +19,9 @@ keytool -import -alias gateway-identity -keystore mykeystore.jks -file myfile.ce
 - it might have worked just fine in yarn client - but will no longer work in yarn cluster without these files.
 - dependency clashes: shading, but with some tricks. http://asyncified.io/2016/04/07/spark-uber-jars-and-shading-with-sbt-assembly/
 - sql optimization: https://blog.deepsense.ai/optimize-spark-with-distribute-by-and-cluster-by/
+
+**data sources**
+- REST API as enrichment https://github.com/sourav-mazumder/Data-Science-Extensions/tree/master/spark-datasource-rest
 **tuning**
 - http://rea.tech/how-we-optimize-apache-spark-apps/
 - http://fdahms.com/2015/10/04/writing-efficient-spark-jobs/
