@@ -55,3 +55,5 @@ keytool -import -alias gateway-identity -keystore mykeystore.jks -file myfile.ce
 
 ### geospatial data
 - https://github.com/dice-cyfronet/ascii-grid-source/blob/master/src/main/java/pl/cyfronet/urbanflood/ogc/geoserver/data/ASCIIGridDataReader.java
+- https://stackoverflow.com/a/33473452/5200303
+- https://en.wikipedia.org/wiki/Ramer–Douglas–Peucker_algorithm
