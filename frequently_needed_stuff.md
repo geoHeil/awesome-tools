@@ -50,3 +50,8 @@ keytool -import -alias gateway-identity -keystore mykeystore.jks -file myfile.ce
 
 ### cross validation
 - https://www.google.at/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjTtunBu53YAhXGZFAKHTkcAhoQFggqMAA&url=https%3A%2F%2Fgithub.com%2Fyandexdataschool%2Fml-training-website%2Fraw%2Fgh-pages%2Fpresentations%2FSavenkov_KaggleMercedes_2017_eng.pdf&usg=AOvVaw3Zle9OmWU-FhS9QSB_dUVK
+
+## conversions of data
+
+### geospatial data
+- https://github.com/dice-cyfronet/ascii-grid-source/blob/master/src/main/java/pl/cyfronet/urbanflood/ogc/geoserver/data/ASCIIGridDataReader.java
