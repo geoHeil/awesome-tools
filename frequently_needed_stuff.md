@@ -36,6 +36,9 @@ keytool -import -alias gateway-identity -keystore mykeystore.jks -file myfile.ce
 **partition handling**
 - https://towardsdatascience.com/writing-into-dynamic-partitions-using-spark-2e2b818a007a
 
+**spark on yarn**
+- vcores not chosen correctly https://stackoverflow.com/questions/25563736/yarn-is-not-honouring-yarn-nodemanager-resource-cpu-vcores/25570709#25570709
+
 
 ## python
 - date handling https://www.youtube.com/watch?v=Q97vDzaNQyU
