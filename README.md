@@ -208,7 +208,7 @@ curated list of awesome tools and libraries for specific domains
 - https://github.com/uber/pyro
 
 ## databases
-- https://www.cockroachlabs.com
+- https://www.cockroachlabs.com (spanner)
 - https://www.snowflake.net/de/
 - https://snowplowanalytics.com/products/snowplow-open-source/
 - hbase-spark
