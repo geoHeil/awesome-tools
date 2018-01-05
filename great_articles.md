@@ -68,3 +68,7 @@ collection of some nice articles
 
 ## great EDA (exploratory data anylysis) tips
 - https://www.kaggle.com/thie1e/exploratory-analysis-rossmann
+
+## databases
+### postgres
+- https://www.pgcon.org/2017/schedule/attachments/443_lies-damned-lies-and-statistics.pdf
