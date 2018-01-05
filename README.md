@@ -236,3 +236,11 @@ curated list of awesome tools and libraries for specific domains
 ## recommender
 - https://github.com/actionml/universal-recommender
 - https://github.com/DataSystemsLab/recdb-postgresql
+
+
+## governance
+- apache atlas
+- cloudera navigator
+- https://www.waterlinedata.com (hadoop only)
+- https://alation.com (all)
+- https://www.privitar.com
