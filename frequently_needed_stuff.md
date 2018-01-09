@@ -41,7 +41,7 @@ keytool -import -alias gateway-identity -keystore mykeystore.jks -file myfile.ce
 
 ## hdfs shell
 
-- counting of files in directory `hdfs dfs -count -v -h /path/to/data`
+- counting of files in directory `hdfs dfs -count -v -h /path/to/data/*`
 
 ## python
 - date handling https://www.youtube.com/watch?v=Q97vDzaNQyU
