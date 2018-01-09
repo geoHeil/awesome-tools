@@ -39,6 +39,9 @@ keytool -import -alias gateway-identity -keystore mykeystore.jks -file myfile.ce
 **spark on yarn**
 - vcores not chosen correctly https://stackoverflow.com/questions/25563736/yarn-is-not-honouring-yarn-nodemanager-resource-cpu-vcores/25570709#25570709
 
+## hdfs shell
+
+- counting of files in directory `hdfs dfs -count -v -h /path/to/data`
 
 ## python
 - date handling https://www.youtube.com/watch?v=Q97vDzaNQyU
