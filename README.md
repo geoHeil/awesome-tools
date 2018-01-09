@@ -48,6 +48,7 @@ curated list of awesome tools and libraries for specific domains
   - https://sites.google.com/site/sparkbigdebug/home
   - https://github.com/SparkMonitor/varOne (not maintained)
   - performance test https://github.com/databricks/spark-perf
+  - https://github.com/conversant/spark-profiler
 - data quality
   - hadoop
     - https://github.com/FRosner/drunken-data-quality
