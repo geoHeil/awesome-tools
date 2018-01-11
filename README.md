@@ -137,6 +137,7 @@ curated list of awesome tools and libraries for specific domains
 **hyperparameter tuning**
 - https://sigopt.com
 - https://github.com/scikit-optimize/scikit-optimize
+- https://github.com/Yelp/MOE
 
 **e2e**
 - https://www.seldon.io
