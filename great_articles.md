@@ -8,6 +8,10 @@ collection of some nice articles
 - https://eng.uber.com/on-call-dashboard/
 
 ## machine learning
+### robust training
+- https://www.youtube.com/watch?v=5vlkVjGLsLc
+- https://www.youtube.com/watch?v=5vlkVjGLsLc
+
 ### evaluation
 - https://www.youtube.com/watch?v=WKAuXlsq6xw
 - scoring process in production https://www.youtube.com/watch?v=-rGRHrED94Y
