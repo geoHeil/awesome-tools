@@ -3,23 +3,87 @@ collection of some nice articles
 
 ## general tips
 - http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html
+- http://designingcx.com/cx-journey-mapping-toolkit
+- great and cheap resources
+  - http://startupstash.com
+  - https://github.com/toddmotto/public-apis
+- reproducible research: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285
 
-## dashboarding
+## statistics
+- https://www.statisticsdonewrong.com
+
+## processes
+- https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview
+
+## great demos
+- https://community.hortonworks.com/repos/index.html
+
+## dashboarding / visualization
 - https://eng.uber.com/on-call-dashboard/
+- https://plot.ly/products/dash/
+- http://pbpython.com/effective-matplotlib.html
+- https://resourcecards.com
+- https://blog.bufferapp.com/53-design-terms-explained-for-marketers
+- jupyter slides http://echorand.me/presentation-slides-with-jupyter-notebook.html
+- mapbox and http://leafletjs.com
+- https://uber.github.io/deck.gl/#/
+### streams
+- https://github.com/TU-Berlin-DIMA/i2
+
+
+## dataflow
+- apache nifi
+- apache camel
+- https://kylo.io
+
+## geospatial data
+- https://thehftguy.com/2017/07/19/what-does-it-really-take-to-track-100-million-cell-phones/
+- https://matthewrocklin.com/blog//work/2017/09/21/accelerating-geopandas-1
 
 ## machine learning
+
+- https://michelleful.github.io/code-blog/2015/06/20/pipelines/
+- tutorial python ml http://nbviewer.jupyter.org/github/mdeff/python_tour_of_data_science/blob/with_outputs/python_tour_of_data_science.ipynb
+- advanced numpy tricks http://nbviewer.jupyter.org/github/vlad17/np-learn/blob/master/presentation.ipynb?flush_cache=true
+### platforms
+- https://eng.uber.com/michelangelo/
+- fb-learner flow
+- h2o.ai
+
+### categorical data
+- https://stats.stackexchange.com/q/263009/68300
+
 ### robust training
 - https://www.youtube.com/watch?v=5vlkVjGLsLc
 - https://www.youtube.com/watch?v=5vlkVjGLsLc
 
+### deployment
+- https://github.com/Verizon/trapezium
+- http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+- https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf
+- https://loads.pickle.me.uk/2016/04/04/deploying-a-scikit-learn-classifier-to-production/
+- https://news.ycombinator.com/item?id=13821217
+- https://www.kdnuggets.com/2016/11/moving-machine-learning-practice-production.html
+- https://github.com/lyg5623/lightgbm_predict4j
+- https://www.slideshare.net/xamat/10-more-lessons-learned-from-building-machine-learning-systems/12-However_It_is_not_always
+#### model explanation
+- https://github.com/marcotcr/lime
+- https://github.com/datascienceinc/Skater/blob/master/README.rst
+
 ### evaluation
 - https://www.youtube.com/watch?v=WKAuXlsq6xw
+- https://sebastianraschka.com/blog/2016/model-evaluation-selection-part3.html
 - scoring process in production https://www.youtube.com/watch?v=-rGRHrED94Y
 - security e2e tutorial https://github.com/albahnsen/ML_SecurityInformatics
+- scoring https://www.r-bloggers.com/a-budget-of-classifier-evaluation-measures/
+- imbalanced scoring http://www.kdnuggets.com/2016/08/learning-from-imbalanced-classes.html
+
 ### meta modeling
 - https://www.youtube.com/watch?v=Q0QmziFcfU0
 
 ## deeplearning
+- http://course.fast.ai/start.html
+- https://github.com/astorfi/TensorFlow-World-Resources/blob/master/README.rst
 - https://medium.com/towards-data-science/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32
 - https://medium.com/towards-data-science/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9
 - http://briansp2020.github.io/2017/11/05/fast_ai_ROCm/
@@ -29,9 +93,13 @@ collection of some nice articles
 **handling images**
 - https://fullstackml.com/wavelet-image-hash-in-python-3504fdd282b5
 ## big data
+- scalability
+  - https://www.cakesolutions.net/teamblogs/scaling-machine-learning
+  - 
 - spark
   - improve spark performance
     - https://github.com/high-performance-spark/high-performance-spark-examples
+    - http://www.stephenzoio.com/creating-composable-data-pipelines-spark/
   - ml & pipelines
     - https://www.youtube.com/watch?v=B6xequGNM20&list=PLYX1a6mVbBmzZTnuB4niJHiyzEEqYsGLN&index=6
   - hypothesis checkig
@@ -45,6 +113,12 @@ collection of some nice articles
   - streaming
     - kafka https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf
   - mastering spark for data science - use cases end 2 end https://www.youtube.com/watch?v=B6xequGNM20&list=PLYX1a6mVbBmzZTnuB4niJHiyzEEqYsGLN&index=6
+- spark akka http://www.stephenzoio.com/spark-cluster-execution-with-akka/
+- spark functional programming
+  - https://www.iravid.com/posts/fp-and-spark.html
+- spark deployment
+  - http://data-informed.com/spark-ml-from-lab-to-production-picking-the-right-deployment-architecture-for-your-business/
+  - e2e config https://github.com/cloudera-labs/envelope
 
 ## nlp
 - https://www.datacamp.com/community/tutorials/lda2vec-topic-model
@@ -58,6 +132,24 @@ collection of some nice articles
 ## timeseries
 - https://www.kdnuggets.com/2017/11/automated-feature-engineering-time-series-data.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgzlYOgbKSVemJoxvulGFZg%3D%3D
 - http://www.unofficialgoogledatascience.com/2017/07/fitting-bayesian-structural-time-series.html
+- https://www.kdnuggets.com/2016/11/combining-different-methods-create-advanced-time-series-prediction.html
+- https://facebookincubator.github.io/prophet/
+- http://www.unofficialgoogledatascience.com/2017/04/our-quest-for-robust-time-series.html
+- anomaly detection https://github.com/htm-community/flink-htm
+
+### filtering
+- kalman filter and big data https://www.crcpress.com/authors/news/i3194-kalman-filter-at-the-age-of-big-data-programming-in-spark-scala
+
+## streaming data
+- probabilistic streaming data types
+  - http://nuit-blanche.blogspot.co.at/2016/12/datasketches-sketches-library-from.html
+- spark
+  - https://www.inovex.de/blog/247-spark-streaming-on-yarn-in-production/
+- akka streams
+  - api scraping http://pascalbugnion.net/blog/scraping-apis-with-akka-streams.html
+  
+### streaming intro
+- https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102
 
 ## podcasts
 - https://roaringelephant.org
@@ -69,6 +161,7 @@ collection of some nice articles
   
 ## timeseries
 - https://www.kdnuggets.com/2017/11/automated-feature-engineering-time-series-data.html
+- https://eng.uber.com/neural-networks/
 
 ## Bayesian stuff
 - http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
@@ -76,6 +169,39 @@ collection of some nice articles
 ## great EDA (exploratory data anylysis) tips
 - https://www.kaggle.com/thie1e/exploratory-analysis-rossmann
 
+## graphs
+- https://www.slideshare.net/SparkSummit/finding-graph-isomorphisms-in-graphx-and-graphframes
+- https://towardsdatascience.com/record-linking-with-apache-sparks-mllib-graphx-d118c5f31f83
+- distributed large RDF processing http://sansa-stack.net
+
+### interactive graphs
+- https://github.com/nationalsecurityagency/lemongraph
+
+## small graphs
+- c++ efficient stuff
+  - https://github.com/BorgwardtLab/graph-kernels
+
+## A/B testing
+- https://blog.insightdatascience.com/statistical-advice-for-a-b-testing-28654a24b9f0
+
+
 ## databases
 ### postgres
 - https://www.pgcon.org/2017/schedule/attachments/443_lies-damned-lies-and-statistics.pdf
+
+### graph databases
+- neo4j
+- http://janusgraph.org
+
+### hadoop replacements?
+- http://pachyderm.io
+- http://dask.pydata.org
+- google spanner DB
+
+## mobile apps
+- https://github.com/infinitered/ignite
+
+## security
+### fingerprinting
+- https://medium.com/@rukavitsya/canvas-fingerprinting-cookies-on-steroids-253f43c7e293
+- https://www.blackhat.com/docs/eu-17/materials/eu-17-Shuster-Passive-Fingerprinting-Of-HTTP2-Clients-wp.pdf
