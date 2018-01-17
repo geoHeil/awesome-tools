@@ -65,7 +65,7 @@ curated list of awesome tools and libraries for specific domains
   - bayesian structural https://cran.r-project.org/web/packages/bsts/index.html
   - multi prediction
     - https://cran.r-project.org/web/packages/forecastHybrid/index.html
-    - https://cran.r-project.org/web/packages/opera/index.html
+    - https://cran.r-project.org/web/packages/opera/index.html https://github.com/Dralliag/opera
   - https://github.com/ellisp/forecastxgb-r-package
 - feature extration
   - https://github.com/blue-yonder/tsfresh
