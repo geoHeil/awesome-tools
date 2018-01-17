@@ -39,6 +39,9 @@ keytool -import -alias gateway-identity -keystore mykeystore.jks -file myfile.ce
 **spark on yarn**
 - vcores not chosen correctly https://stackoverflow.com/questions/25563736/yarn-is-not-honouring-yarn-nodemanager-resource-cpu-vcores/25570709#25570709
 
+## hive 
+- jdbc for other tools https://github.com/timveil/hive-jdbc-uber-jar
+
 ## hdfs shell
 
 - counting of files in directory `hdfs dfs -count -v -h /path/to/data/*`
