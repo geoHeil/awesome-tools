@@ -11,6 +11,7 @@ collection of some nice articles
 ### evaluation
 - https://www.youtube.com/watch?v=WKAuXlsq6xw
 - scoring process in production https://www.youtube.com/watch?v=-rGRHrED94Y
+- security e2e tutorial https://github.com/albahnsen/ML_SecurityInformatics
 ### meta modeling
 - https://www.youtube.com/watch?v=Q0QmziFcfU0
 
@@ -25,6 +26,8 @@ collection of some nice articles
 - https://fullstackml.com/wavelet-image-hash-in-python-3504fdd282b5
 ## big data
 - spark
+  - improve spark performance
+    - https://github.com/high-performance-spark/high-performance-spark-examples
   - ml & pipelines
     - https://www.youtube.com/watch?v=B6xequGNM20&list=PLYX1a6mVbBmzZTnuB4niJHiyzEEqYsGLN&index=6
   - hypothesis checkig
