@@ -18,6 +18,8 @@ keytool -import -alias gateway-identity -keystore mykeystore.jks -file myfile.ce
 ```bash
 jar tf foo.jar | grep MyClass
 ```
+- reload the service / restart it in case you modify the same class (just to be sure)
+
 ## spark
 - assuming your cluster does not install all client code on each data node remember to ship hive-site.xml as well as the tez xml file when submitting a spark job in yarn cluster mode
 - it might have worked just fine in yarn client - but will no longer work in yarn cluster without these files.
