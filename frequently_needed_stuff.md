@@ -13,7 +13,11 @@ base64 -d myfile.pem > myfile.cer
 keytool -import -alias gateway-identity -keystore mykeystore.jks -file myfile.cer
 ```
 
-
+## java
+- checking classpath
+```bash
+jar tf foo.jar | grep MyClass
+```
 ## spark
 - assuming your cluster does not install all client code on each data node remember to ship hive-site.xml as well as the tez xml file when submitting a spark job in yarn cluster mode
 - it might have worked just fine in yarn client - but will no longer work in yarn cluster without these files.
