@@ -44,3 +44,6 @@ Some problems I observed in real dataflow pipelines
 ## big data
 **DO NOT do big data!** unless you really have big data and fully understand all the consequences of a distributed system.
 Instead, invest a couple of $$ into beefier single node computers. High single thread performance + lots of RAM will make you so much more productive.
+
+**scalability**
+Sometimes extreme scalability is not required! Do not get stuck in thinking you actually need it. Think of a scenario of many events for each user but the number of users being alsmost constant. Such a scenario can warrant some different algorithms to optimally process the data.
