@@ -183,6 +183,7 @@ collection of some nice articles
 
 ## A/B testing
 - https://blog.insightdatascience.com/statistical-advice-for-a-b-testing-28654a24b9f0
+- http://www.unofficialgoogledatascience.com/2018/01/designing-ab-tests-in-collaboration.html
 
 
 ## databases
