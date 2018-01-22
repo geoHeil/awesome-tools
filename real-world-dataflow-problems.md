@@ -8,6 +8,7 @@ Some problems I observed in real dataflow pipelines
 
 ### dataflow
 - understand the limits of your architecture / technology and dataflows regarding speed, capacity, latency, types of data handlable...
+- define clear APIs (schemata) between different data sources and pipelines to allow building workflows on top of the ingested data streams
 
 ### security
 - know the difference between masking field values on the fly i.e. in ranger vs actually not having the permissions to view a column which often (at lest for hive) disallows then to execute the `DESCRIBE TABLE` statement so any tool like tableau which relies on this will subsequently fail
