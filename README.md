@@ -219,6 +219,7 @@ curated list of awesome tools and libraries for specific domains
   - via phenix spark
   - https://github.com/hortonworks/shc-release/tree/HDP-2.6.3.0-235-tag
 - postgres on GPUs http://www.brytlyt.com
+- improved cassandra scylla http://www.scylladb.com
 
 **time series DBs**
 - https://timescale.com
