@@ -125,6 +125,7 @@ collection of some nice articles
 - https://juliasilge.com/blog/tidy-word-vectors/
 - https://www.youtube.com/watch?time_continue=23&v=-lx2shfA-5s
 - https://arxiv.org/abs/1508.07909
+- https://streamhacker.com/2008/12/29/how-to-train-a-nltk-chunker/
 
 **embeddings**
 - https://distill.pub/2016/misread-tsne/
