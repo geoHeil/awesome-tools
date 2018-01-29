@@ -13,6 +13,12 @@ base64 -d myfile.pem > myfile.cer
 keytool -import -alias gateway-identity -keystore mykeystore.jks -file myfile.cer
 ```
 
+## ansible
+
+```bash
+ansible-galacy init rolename
+```
+
 ## java
 - checking classpath
 ```bash
