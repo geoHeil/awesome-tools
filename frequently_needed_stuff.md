@@ -13,6 +13,11 @@ base64 -d myfile.pem > myfile.cer
 keytool -import -alias gateway-identity -keystore mykeystore.jks -file myfile.cer
 ```
 
+## kerberos
+- see contents (principals) of keytab
+```bash
+klist -k keytab.keytab
+```
 ## ansible
 
 ```bash
