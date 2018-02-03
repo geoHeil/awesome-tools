@@ -51,6 +51,8 @@ curated list of awesome tools and libraries for specific domains
   - https://github.com/SparkMonitor/varOne (not maintained)
   - performance test https://github.com/databricks/spark-perf
   - https://github.com/conversant/spark-profiler
+- testing
+  - https://www.slideshare.net/hkarau/testing-and-validating-distributed-systems-with-apache-spark-and-apache-beam-fosdem-2018-1?trk=v-feed
 - data quality
   - hadoop
     - https://github.com/FRosner/drunken-data-quality
