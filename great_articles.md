@@ -107,6 +107,8 @@ collection of some nice articles
     - https://fullstackml.com/how-to-check-hypotheses-with-bootstrap-and-apache-spark-cd750775286a
   - etl
     - custom encoders: https://github.com/vaquarkhan/vk-wiki-notes/wiki/Apache-Spark-custom-Encoder-example
+    - testing
+      - https://github.com/dwestheide/kontextfrei
 - hbase
   - bulk loading from spark http://www.opencore.com/blog/2016/10/efficient-bulk-load-of-hbase-using-spark/
 - books
