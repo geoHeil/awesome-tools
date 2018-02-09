@@ -42,6 +42,8 @@ collection of some nice articles
 
 ## machine learning
 
+- jupyter notebook tricks
+  - https://codeburst.io/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-95f98d3adee4
 - https://michelleful.github.io/code-blog/2015/06/20/pipelines/
 - xgboost lightgbm tuning https://medium.com/@Laurae2/getting-the-most-of-xgboost-and-lightgbm-speed-compiler-cpu-pinning-374c38d82b86
 - tutorial python ml http://nbviewer.jupyter.org/github/mdeff/python_tour_of_data_science/blob/with_outputs/python_tour_of_data_science.ipynb
