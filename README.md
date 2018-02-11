@@ -29,6 +29,7 @@ curated list of awesome tools and libraries for specific domains
 - https://github.com/facebookresearch/faiss
 - https://github.com/bplank/bilstm-aux
 - https://github.com/facebookresearch/fastText
+- https://github.com/facebookresearch/InferSent
 
 ### textual preprocessing
 - parsing HTML
