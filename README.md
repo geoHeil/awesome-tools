@@ -8,6 +8,9 @@ curated list of awesome tools and libraries for specific domains
   - multi dimensional arrays http://xarray.pydata.org/en/stable/
   - spatial data including joins (works with dask) http://geopandas.org
   - cleaning of addresses: https://github.com/openvenues/libpostal
+- postgis
+  - multi dimensional
+    - http://www.nearimprov.com/nd-spatial-index-in-postgis/
 - hadoop
   - http://www.geomesa.org
     - https://github.com/spatialcurrent/ansible-geomesa-accumulo-ubuntu
@@ -17,6 +20,7 @@ curated list of awesome tools and libraries for specific domains
   - https://github.com/locationtech/geotrellis
     - http://rasterframes.io
   - https://github.com/Esri/spatial-framework-for-hadoop and https://github.com/Esri/gis-tools-for-hadoop as well as their java api https://github.com/Esri/geometry-api-java
+  
 
 ## nlp
 - http://www.nltk.org/book/
