@@ -34,10 +34,11 @@ collection of some nice articles
 ## dataflow
 - apache nifi
 - apache camel
+- akka + alpakka
 - https://kylo.io
 
 **governance**
-- nifi
+- apache atlas
 - https://github.com/linkedin/WhereHows
 
 ## geospatial data
