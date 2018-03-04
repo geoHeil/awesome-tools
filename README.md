@@ -108,6 +108,7 @@ curated list of awesome tools and libraries for specific domains
     - automl
       - teapot
       - http://automl.github.io/auto-sklearn/stable/
+    - https://github.com/kingfengji/gcForest
     - lambda https://www.youtube.com/watch?v=eF-4CrS_j_4
     - improved python https://software.intel.com/en-us/articles/using-intel-distribution-for-python-with-anaconda
 - hadoop
