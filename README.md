@@ -228,6 +228,7 @@ curated list of awesome tools and libraries for specific domains
 - postgres on GPUs http://www.brytlyt.com
 - improved cassandra scylla http://www.scylladb.com
 - https://www.mapd.com/platform/
+- https://clickhouse.yandex
 
 **time series DBs**
 - https://timescale.com
