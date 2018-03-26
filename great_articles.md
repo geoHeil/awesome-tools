@@ -106,6 +106,7 @@ collection of some nice articles
   - 
 - spark
   - improve spark performance
+    - calculate statistics https://jaceklaskowski.gitbooks.io/mastering-spark-sql/spark-sql-cost-based-optimization.html
     - https://github.com/high-performance-spark/high-performance-spark-examples
     - http://www.stephenzoio.com/creating-composable-data-pipelines-spark/
   - ml & pipelines
