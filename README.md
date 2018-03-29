@@ -52,6 +52,7 @@ curated list of awesome tools and libraries for specific domains
     - https://certbot.eff.org and https://letsencrypt.org for free and automated https/ssl certificates
 - hadoop monitoring
   - https://github.com/linkedin/dr-elephant
+  - https://github.com/qubole/sparklens
   - https://sites.google.com/site/sparkbigdebug/home
   - https://github.com/SparkMonitor/varOne (not maintained)
   - performance test https://github.com/databricks/spark-perf
