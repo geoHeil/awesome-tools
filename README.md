@@ -74,6 +74,7 @@ curated list of awesome tools and libraries for specific domains
     - https://cran.r-project.org/web/packages/forecastHybrid/index.html
     - https://cran.r-project.org/web/packages/opera/index.html https://github.com/Dralliag/opera
   - https://github.com/ellisp/forecastxgb-r-package
+  - https://github.com/dmbee/seglearn
 - feature extration
   - https://github.com/blue-yonder/tsfresh
 
