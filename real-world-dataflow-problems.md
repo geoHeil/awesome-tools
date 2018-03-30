@@ -50,6 +50,13 @@ Instead, invest a couple of $$ into beefier single node computers. High single t
 **scalability**
 Sometimes extreme scalability is not required! Do not get stuck in thinking you actually need it. Think of a scenario of many events for each user but the number of users being alsmost constant. Such a scenario can warrant some different algorithms to optimally process the data.
 
+**small files problem**
+many small files (a lot smaller than HDFS block size) cause a performance degredation.
+workarounds:
+- combine input format (spark whole textfiles)
+- Hadoop archives HAR https://github.com/ZuInnoTe/hadoopoffice/wiki/Improve-performance-for-processing-a-lot-of-small-Office-files-with-Hadoop-Archives-(HAR)
+- kafka
+
 ## java stuff
 ### containers
 - java and containers still do not play nicely (java9) https://mesosphere.com/blog/java-container/
