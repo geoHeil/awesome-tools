@@ -117,6 +117,8 @@ collection of some nice articles
     - custom encoders: https://github.com/vaquarkhan/vk-wiki-notes/wiki/Apache-Spark-custom-Encoder-example
     - testing
       - https://github.com/dwestheide/kontextfrei
+  - streaming
+    - https://github.com/jbonofre/beam-samples
 - hbase
   - bulk loading from spark http://www.opencore.com/blog/2016/10/efficient-bulk-load-of-hbase-using-spark/
 - books
