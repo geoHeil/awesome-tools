@@ -34,6 +34,7 @@ Some problems I observed in real dataflow pipelines
 - proper understanding of the data. Cehck for errors (too much / not ehough / wrong units / ...)
 - work with and talk to the department to prevent data leakage into the model
 - reproducibility is a problem (https://petewarden.com/2018/03/19/the-machine-learning-reproducibility-crisis/) and the overall pipeline E2E needs to be thought out very well
+- model management is a big problem. This book https://mapr.com/ebooks/machine-learning-logistics/ describes it nicely
 
 ## hiring
 - if in doubt hire a data engineer and not a data scientist (especially when starting out to bring data driven processes into the company) assuming the engineer also has a feeling for strategy
