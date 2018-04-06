@@ -150,7 +150,11 @@ collection of some nice articles
 - https://www.kdnuggets.com/2016/11/combining-different-methods-create-advanced-time-series-prediction.html
 - https://facebookincubator.github.io/prophet/
 - http://www.unofficialgoogledatascience.com/2017/04/our-quest-for-robust-time-series.html
+
+### anomaly detection
 - anomaly detection https://github.com/htm-community/flink-htm
+- robfilter (r)
+- https://zedoul.github.io/cbar/articles/quickstart.html
 
 ### filtering
 - kalman filter and big data https://www.crcpress.com/authors/news/i3194-kalman-filter-at-the-age-of-big-data-programming-in-spark-scala
