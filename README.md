@@ -101,6 +101,8 @@ curated list of awesome tools and libraries for specific domains
 - https://aetros.com
 
 **model building**
+- feature engineering
+  - https://www.featuretools.com
 - small
   - http://scikit-learn.org/stable/
   - R
