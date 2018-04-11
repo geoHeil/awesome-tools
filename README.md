@@ -78,6 +78,7 @@ curated list of awesome tools and libraries for specific domains
   - https://github.com/dmbee/seglearn
 - feature extration
   - https://github.com/blue-yonder/tsfresh
+  - https://robjhyndman.com/hyndsight/tspackages/
 
 **hadoop**
 - handling & prediction
