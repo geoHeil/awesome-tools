@@ -232,3 +232,7 @@ collection of some nice articles
 ### fingerprinting
 - https://medium.com/@rukavitsya/canvas-fingerprinting-cookies-on-steroids-253f43c7e293
 - https://www.blackhat.com/docs/eu-17/materials/eu-17-Shuster-Passive-Fingerprinting-Of-HTTP2-Clients-wp.pdf
+
+
+## computational geometry
+- https://www.cgal.org
