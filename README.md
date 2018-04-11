@@ -268,3 +268,7 @@ curated list of awesome tools and libraries for specific domains
 - https://www.waterlinedata.com (hadoop only)
 - https://alation.com (all)
 - https://www.privitar.com
+
+## blockchain
+- data mining
+  - https://www.openmined.org
