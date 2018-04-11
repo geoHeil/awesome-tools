@@ -23,6 +23,9 @@ Some problems I observed in real dataflow pipelines
 - adhere to https://www.acm.org/binaries/content/assets/public-policy/2017_usacm_statement_algorithms.pdf and especially look out for any data provenance issues
 - make sure to setup a file quota in HDFS per user
 
+### llap
+llap might not start (in case of a small development cluster) if not enough memory is available or a node is down. However, currently in HDP 2.6.4 no meaningful error message is displayed
+
 ### hardware
 - use intel CPUs. Hdoop 3.0 will use erasure coding. ISA-L intel library can greatly speed up compressions https://issues.apache.org/jira/browse/HDFS-7285
 
@@ -55,6 +58,7 @@ Sometimes extreme scalability is not required! Do not get stuck in thinking you 
 many small files (a lot smaller than HDFS block size) cause a performance degredation.
 workarounds:
 - combine input format (spark whole textfiles)
+- use sequence files
 - Hadoop archives HAR https://github.com/ZuInnoTe/hadoopoffice/wiki/Improve-performance-for-processing-a-lot-of-small-Office-files-with-Hadoop-Archives-(HAR)
 - kafka
 
