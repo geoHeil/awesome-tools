@@ -237,3 +237,7 @@ collection of some nice articles
 ## computational geometry
 - https://www.cgal.org
 - geospatial algorithms https://i11www.iti.kit.edu/teaching/sommer2013/algokartografie/index
+
+
+## messaging & RPC
+- https://github.com/uber/prototool
