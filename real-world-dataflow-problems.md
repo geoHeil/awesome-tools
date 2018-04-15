@@ -46,6 +46,10 @@ llap might not start (in case of a small development cluster) if not enough memo
 - not any (great) developer is a great teamlead
 - https://rework.withgoogle.com holds great resources regarding hiring & team building
 - in case working for a small company read https://medium.com/apteo/what-makes-a-good-data-scientist-at-a-small-company-3f445d421dff
+### teams & organization
+great article: https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/ usually a problem
+- either too many data engineers / site reliability engineers
+- or a gap (no holistic approach) as separated into segregated teams in different parts of company hierarchy
 
 ## big data
 **DO NOT do big data!** unless you really have big data and fully understand all the consequences of a distributed system.
