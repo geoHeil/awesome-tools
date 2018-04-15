@@ -115,6 +115,7 @@ curated list of awesome tools and libraries for specific domains
       - http://automl.github.io/auto-sklearn/stable/
     - lambda https://www.youtube.com/watch?v=eF-4CrS_j_4
     - improved python https://software.intel.com/en-us/articles/using-intel-distribution-for-python-with-anaconda
+    - https://github.com/mthh/jenkspy breaks
 - hadoop
   - https://spark.apache.org/mllib/
   - https://github.com/amidst/toolbox
