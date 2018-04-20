@@ -81,6 +81,7 @@ collection of some nice articles
 - https://github.com/lyg5623/lightgbm_predict4j
 - https://www.slideshare.net/xamat/10-more-lessons-learned-from-building-machine-learning-systems/12-However_It_is_not_always
 - https://github.com/opendatagroup/hadrian
+- https://docs.microsoft.com/de-de/azure/machine-learning/desktop-workbench/model-management-overview
 
 #### model explanation
 - https://github.com/marcotcr/lime
