@@ -80,6 +80,8 @@ collection of some nice articles
 - https://www.kdnuggets.com/2016/11/moving-machine-learning-practice-production.html
 - https://github.com/lyg5623/lightgbm_predict4j
 - https://www.slideshare.net/xamat/10-more-lessons-learned-from-building-machine-learning-systems/12-However_It_is_not_always
+- https://github.com/opendatagroup/hadrian
+
 #### model explanation
 - https://github.com/marcotcr/lime
 - https://github.com/datascienceinc/Skater/blob/master/README.rst
