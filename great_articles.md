@@ -57,6 +57,9 @@ collection of some nice articles
 - tutorial python ml http://nbviewer.jupyter.org/github/mdeff/python_tour_of_data_science/blob/with_outputs/python_tour_of_data_science.ipynb
 - advanced numpy tricks http://nbviewer.jupyter.org/github/vlad17/np-learn/blob/master/presentation.ipynb?flush_cache=true
 
+### visualization & data exploration
+- https://github.com/ContextLab/hypertools
+
 ### learning
 - https://www.kaggle.com/learn/overview
 ### platforms
