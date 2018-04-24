@@ -142,6 +142,8 @@ collection of some nice articles
 - spark deployment
   - http://data-informed.com/spark-ml-from-lab-to-production-picking-the-right-deployment-architecture-for-your-business/
   - e2e config https://github.com/cloudera-labs/envelope
+- pdf
+  - https://github.com/EDS-APHP/SparkPdfExtractor?files=1
 
 ## nlp
 - https://www.datacamp.com/community/tutorials/lda2vec-topic-model
