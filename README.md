@@ -144,6 +144,7 @@ curated list of awesome tools and libraries for specific domains
 - https://polyaxon.com
 - http://vespa.ai
 - https://github.com/RedisLabsModules/redis-ml
+- https://riseml.com
 - https://github.com/Hydrospheredata/mist
 - https://github.com/Azure/ai-toolkit-iot-edge
 - https://www.dominodatalab.com and various other cloud data science work benches
