@@ -202,6 +202,10 @@ collection of some nice articles
 ## great EDA (exploratory data anylysis) tips
 - https://www.kaggle.com/thie1e/exploratory-analysis-rossmann
 
+## sequence prediction & rankiong
+- lambdamart / learning to rank
+- https://github.com/tedgueniche/IPredict compact prediction tree
+
 ## graphs
 - https://www.slideshare.net/SparkSummit/finding-graph-isomorphisms-in-graphx-and-graphframes
 - https://towardsdatascience.com/record-linking-with-apache-sparks-mllib-graphx-d118c5f31f83
