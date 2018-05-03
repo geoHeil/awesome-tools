@@ -259,3 +259,5 @@ collection of some nice articles
 ## use cases
 ### machine learning
 - machine learning on source code https://github.com/src-d/awesome-machine-learning-on-source-code
+  - https://engine.sourced.tech/v0.6.1/
+  - https://github.com/src-d/ml
