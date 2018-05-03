@@ -2,6 +2,8 @@
 - devOps
   - https://github.com/ansible/awx
 - dataOPs
+  - https://github.com/selinon/selinon
+  - https://airflow.apache.org
 - secOps
 
 ## standardization & containers
