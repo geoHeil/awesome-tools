@@ -254,3 +254,8 @@ collection of some nice articles
 
 ## messaging & RPC
 - https://github.com/uber/prototool
+
+
+## use cases
+### machine learning
+- machine learning on source code https://github.com/src-d/awesome-machine-learning-on-source-code
