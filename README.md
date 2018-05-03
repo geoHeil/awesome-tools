@@ -278,3 +278,6 @@ curated list of awesome tools and libraries for specific domains
 ## blockchain
 - data mining
   - https://www.openmined.org
+
+## next gen big data tools
+- https://www.weld.rs
