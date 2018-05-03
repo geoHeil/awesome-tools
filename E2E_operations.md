@@ -1,5 +1,6 @@
 # E2E operations
 - devOps
+  - https://github.com/ansible/awx
 - dataOPs
 - secOps
 
