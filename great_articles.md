@@ -244,6 +244,9 @@ collection of some nice articles
 - http://dask.pydata.org
 - google spanner DB
 
+### db comparisons
+- accumulo cassandra hbase http://accumulosummit.com/program/talks/comparing-accumulo-cassandra-hbase/
+
 ## mobile apps
 - https://github.com/infinitered/ignite
 
