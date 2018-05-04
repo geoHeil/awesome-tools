@@ -30,6 +30,12 @@ collection of some nice articles
 ### streams
 - https://github.com/TU-Berlin-DIMA/i2
 
+## flink
+- comcast ML pipeline https://data-artisans.com/flink-forward/resources/embedding-flink-throughout-an-operationalized-streaming-ml-lifecycle
+- CQRS event sourcing drive tribe platform on flink https://data-artisans.com/flink-forward/resources/panta-rhei-designing-distributed-applications-with-streams
+- spatio temporal event aggregation UBER https://data-artisans.com/flink-forward/resources/scaling-ubers-realtime-optimization-with-apache-flink
+- optimization of flink at netflix https://data-artisans.com/flink-forward/resources/scaling-flink-in-cloud
+- 
 
 ## dataflow
 - apache nifi
