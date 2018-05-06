@@ -281,3 +281,6 @@ curated list of awesome tools and libraries for specific domains
 
 ## next gen big data tools
 - https://www.weld.rs
+- https://datafusion.rs
+- http://pachyderm.io
+- https://github.com/frankmcsherry/differential-dataflow
