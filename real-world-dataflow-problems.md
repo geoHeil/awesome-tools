@@ -6,6 +6,11 @@ Some problems I observed in real dataflow pipelines
 - actually knowing (responsibility for bought applications) where to find the data(base) and who knows about the format
 - parameterize everything, most importantly the fileds
 
+### SQL
+SQL nowadays is so much more than SQL92 (which most people are familiar with). Arrays, json, xml ... can be handled. In case of distributed systems ordering (total ordering vs partial ordering within partitions) turn out to be important concepts to master as well:
+- spark https://blog.deepsense.ai/optimize-spark-with-distribute-by-and-cluster-by/
+- hive https://saurzcode.in/2015/01/hive-sort-order-distribute-cluster/
+
 ### dataflow
 - understand the limits of your architecture / technology and dataflows regarding speed, capacity, latency, types of data handlable...
 - define clear APIs (schemata) between different data sources and pipelines to allow building workflows on top of the ingested data streams
