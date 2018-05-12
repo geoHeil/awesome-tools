@@ -270,3 +270,6 @@ collection of some nice articles
 - machine learning on source code https://github.com/src-d/awesome-machine-learning-on-source-code
   - https://engine.sourced.tech/v0.6.1/
   - https://github.com/src-d/ml
+
+## terminal tools
+- https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019
