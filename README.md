@@ -201,7 +201,8 @@ curated list of awesome tools and libraries for specific domains
   - kafka https://www.youtube.com/watch?v=MNPI925PFD0
   - spark streaming in depth https://www.youtube.com/watch?v=hyZU_bw1-ow
   - python https://github.com/mrocklin/streamz
-
+- SQL hadoop & BI https://www.youtube.com/watch?v=v40HWIlsE_w&t=0s&list=PLSAiKuajRe2kGgi-GhMVE8IXzr5Pb3b5y&index=13
+- BMW self driving car & spark https://www.youtube.com/watch?v=ub2ufKrrAIs&t=0s&list=PLSAiKuajRe2kGgi-GhMVE8IXzr5Pb3b5y&index=27
 
 ## visualization
 - python
