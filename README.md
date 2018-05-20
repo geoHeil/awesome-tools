@@ -37,6 +37,9 @@ curated list of awesome tools and libraries for specific domains
 - https://github.com/facebookresearch/InferSent
 - https://github.com/google/sentencepiece
 
+## clustering & distances
+- https://github.com/nmslib/nmslib
+
 ### textual preprocessing
 - parsing HTML
   - https://github.com/GravityLabs/goose
