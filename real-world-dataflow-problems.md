@@ -55,6 +55,7 @@ llap might not start (in case of a small development cluster) if not enough memo
 great article: https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/ usually a problem
 - either too many data engineers / site reliability engineers
 - or a gap (no holistic approach) as separated into segregated teams in different parts of company hierarchy
+- do **not** use cannons to kill flies https://towardsdatascience.com/what-frustrates-data-scientists-in-machine-learning-projects-3398919a7c79
 
 ## big data
 **DO NOT do big data!** unless you really have big data and fully understand all the consequences of a distributed system.
