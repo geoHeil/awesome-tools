@@ -69,6 +69,8 @@ collection of some nice articles
 
 ### learning
 - https://www.kaggle.com/learn/overview
+- gbm https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d
+
 ### platforms
 - https://eng.uber.com/michelangelo/
 - fb-learner flow
