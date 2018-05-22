@@ -74,6 +74,10 @@ collection of some nice articles
 - fb-learner flow
 - h2o.ai
 
+### obtaining labelled data
+- https://github.com/Labelbox/Labelbox
+- https://prodi.gy
+
 ### categorical data
 - https://stats.stackexchange.com/q/263009/68300
 
