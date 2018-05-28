@@ -4,7 +4,8 @@ Some problems I observed in real dataflow pipelines
 ## ETL
 - quality controlling data prior to ingest from source systems
 - actually knowing (responsibility for bought applications) where to find the data(base) and who knows about the format
-- parameterize everything, most importantly the fileds
+- parameterize everything, most importantly the columns.
+- always describe all the columns directly - even when loading data in spark
 
 ### SQL
 SQL nowadays is so much more than SQL92 (which most people are familiar with). Arrays, json, xml ... can be handled. In case of distributed systems ordering (total ordering vs partial ordering within partitions) turn out to be important concepts to master as well:
@@ -14,6 +15,8 @@ SQL nowadays is so much more than SQL92 (which most people are familiar with). A
 ### dataflow
 - understand the limits of your architecture / technology and dataflows regarding speed, capacity, latency, types of data handlable...
 - define clear APIs (schemata) between different data sources and pipelines to allow building workflows on top of the ingested data streams
+- be clear what type of data you want to process (batch vs. streaming). Do not force batch semantics for a stream processor. Idempotent jobs will make your life much easier.
+- for batch workloads consider oozie over nifi. *it just works TM*
 
 ### security
 - know the difference between masking field values on the fly i.e. in ranger vs actually not having the permissions to view a column which often (at lest for hive) disallows then to execute the `DESCRIBE TABLE` statement so any tool like tableau which relies on this will subsequently fail
@@ -27,6 +30,9 @@ SQL nowadays is so much more than SQL92 (which most people are familiar with). A
 - consider hybrid cloud (cross cloud provider)
 - adhere to https://www.acm.org/binaries/content/assets/public-policy/2017_usacm_statement_algorithms.pdf and especially look out for any data provenance issues
 - make sure to setup a file quota in HDFS per user
+
+### monitoring
+- build in monitoring E2E by design
 
 ### llap
 llap might not start (in case of a small development cluster) if not enough memory is available or a node is down. However, currently in HDP 2.6.4 no meaningful error message is displayed
@@ -56,6 +62,9 @@ great article: https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-sho
 - either too many data engineers / site reliability engineers
 - or a gap (no holistic approach) as separated into segregated teams in different parts of company hierarchy
 - do **not** use cannons to kill flies https://towardsdatascience.com/what-frustrates-data-scientists-in-machine-learning-projects-3398919a7c79
+
+- start by working on a high profile use case, preferably for an external customer
+- work on a single team. Do not fight on multiple frontiers (use cases) but learn together. Remember kanban. Better to get a single pipeline fully into production then several only half functioning, and then speed up later on.
 
 ## big data
 **DO NOT do big data!** unless you really have big data and fully understand all the consequences of a distributed system.
