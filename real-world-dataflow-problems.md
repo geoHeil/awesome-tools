@@ -73,6 +73,9 @@ Instead, invest a couple of $$ into beefier single node computers. High single t
 **scalability**
 Sometimes extreme scalability is not required! Do not get stuck in thinking you actually need it. Think of a scenario of many events for each user but the number of users being alsmost constant. Such a scenario can warrant some different algorithms to optimally process the data.
 
+Still, if required build for scale, i.e. for many users.
+But even more important have a scalable architecture of small and reuasable components. Git submoduels can be a tool which supports this even for otherwise hard to version artifacts.
+
 **small files problem**
 many small files (a lot smaller than HDFS block size) cause a performance degredation.
 workarounds:
