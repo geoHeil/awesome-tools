@@ -187,6 +187,7 @@ collection of some nice articles
 
 ### filtering
 - kalman filter and big data https://www.crcpress.com/authors/news/i3194-kalman-filter-at-the-age-of-big-data-programming-in-spark-scala
+- introductory book http://nbviewer.jupyter.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb
 
 ## streaming data
 - probabilistic streaming data types
