@@ -39,6 +39,7 @@ curated list of awesome tools and libraries for specific domains
 
 ## clustering & distances
 - https://github.com/nmslib/nmslib
+- T-SNE interactive https://js.tensorflow.org
 
 ### textual preprocessing
 - parsing HTML
