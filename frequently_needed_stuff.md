@@ -18,6 +18,18 @@ keytool -import -alias gateway-identity -keystore mykeystore.jks -file myfile.ce
 ```bash
 klist -k keytab.keytab
 ```
+- add new user (principal / keytab)
+
+```
+sudo kadmin.local
+kadmin.local:  addprinc -randkey <<username>>
+kadmin.local:  ktadd -k /etc/security/keytabs/<<username>>.keytab -norandkey <<username>>
+sudo chown <<username>> /etc/security/keytabs/<<username>>.keytab
+sudo chmod 400 /etc/security/keytabs/<<username>>.keytab
+kinit -kt /etc/security/keytabs/<<username>>.keytab <<username>>
+klist
+```
+
 ## ansible
 
 ```bash
