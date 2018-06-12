@@ -62,6 +62,8 @@ great article: https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-sho
 - either too many data engineers / site reliability engineers
 - or a gap (no holistic approach) as separated into segregated teams in different parts of company hierarchy
 - do **not** use cannons to kill flies https://towardsdatascience.com/what-frustrates-data-scientists-in-machine-learning-projects-3398919a7c79
+- inspiration for teams
+  - https://code.facebook.com/posts/396395830836861/building-data-science-teams-to-have-an-impact-at-scale/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed
 
 - start by working on a high profile use case, preferably for an external customer
 - work on a single team. Do not fight on multiple frontiers (use cases) but learn together. Remember kanban. Better to get a single pipeline fully into production then several only half functioning, and then speed up later on.
