@@ -248,6 +248,8 @@ curated list of awesome tools and libraries for specific domains
 - https://www.mapd.com/platform/
 - https://clickhouse.yandex
 - https://github.com/biokoda/actordb
+### graph dbs
+- streaming graphs https://github.com/NationalSecurityAgency/lemongraph
 
 **time series DBs**
 - https://timescale.com
