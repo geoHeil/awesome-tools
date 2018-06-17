@@ -247,6 +247,7 @@ curated list of awesome tools and libraries for specific domains
 - improved cassandra scylla http://www.scylladb.com
 - https://www.mapd.com/platform/
 - https://clickhouse.yandex
+- https://github.com/biokoda/actordb
 
 **time series DBs**
 - https://timescale.com
