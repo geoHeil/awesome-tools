@@ -103,6 +103,7 @@ collection of some nice articles
 - https://github.com/marcotcr/lime
 - https://github.com/datascienceinc/Skater/blob/master/README.rst
 - https://github.com/slundberg/shap
+- https://github.com/pbiecek/DALEX/
 
 ### evaluation
 - https://www.youtube.com/watch?v=WKAuXlsq6xw
