@@ -145,6 +145,7 @@ curated list of awesome tools and libraries for specific domains
  **model serving**
 - own API wrapper around original model code
 - http://clipper.ai
+- https://mlflow.org
 - https://www.acumos.org
 - https://polyaxon.com
 - http://vespa.ai
