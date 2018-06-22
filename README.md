@@ -27,6 +27,7 @@ curated list of awesome tools and libraries for specific domains
 - https://github.com/keon/awesome-nlp
 - https://github.com/JohnSnowLabs/spark-nlp
 - https://github.com/databricks/spark-corenlp (check license extra carefully for commercial setup)
+- NLP spark https://github.com/JohnSnowLabs/spark-nlp
 - pyspark with https://spacy.io
 - https://explosion.ai
 - https://github.com/clulab/processors
