@@ -283,3 +283,7 @@ collection of some nice articles
 
 ## terminal tools
 - https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019
+
+
+## optimization
+- https://multithreaded.stitchfix.com/blog/2018/06/21/constrained-optimization/
