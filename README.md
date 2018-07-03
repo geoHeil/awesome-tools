@@ -127,7 +127,7 @@ curated list of awesome tools and libraries for specific domains
 - hadoop
   - https://spark.apache.org/mllib/
   - https://github.com/amidst/toolbox
-  - https://github.com/tdunning/t-digest
+  - fast aggregation in spark https://github.com/tdunning/t-digest
 - ensembling
   - http://ml-ensemble.com
   - https://github.com/viisar/brew
