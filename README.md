@@ -21,6 +21,10 @@ curated list of awesome tools and libraries for specific domains
     - http://rasterframes.io
   - https://github.com/Esri/spatial-framework-for-hadoop and https://github.com/Esri/gis-tools-for-hadoop as well as their java api https://github.com/Esri/geometry-api-java
   
+ ### indexing
+ - https://github.com/riskaware-ltd/open-eaggr
+ - https://github.com/uber/h3
+  
 
 ## nlp
 - http://www.nltk.org/book/
