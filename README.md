@@ -253,6 +253,7 @@ curated list of awesome tools and libraries for specific domains
 - https://www.mapd.com/platform/
 - https://clickhouse.yandex
 - https://github.com/biokoda/actordb
+- https://clemenswinter.com/2018/07/09/how-to-analyze-billions-of-records-per-second-on-a-single-desktop-pc/amp/
 ### graph dbs
 - streaming graphs https://github.com/NationalSecurityAgency/lemongraph
 
