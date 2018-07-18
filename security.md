@@ -7,6 +7,9 @@
 ## big data
 - apache metron
 
+### metron tips
+- https://datahovel.com/2018/07/18/how-to-onboard-a-new-data-source-in-apache-metron/
+
 ## device identification
 - user agent / SSDP simple service discovery protocol
 - ntopng & DNS queries
