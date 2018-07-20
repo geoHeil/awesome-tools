@@ -254,6 +254,9 @@ collection of some nice articles
 - http://dask.pydata.org
 - google spanner DB
 
+### db tuning
+- https://tech.gotinder.com/geosharded-recommendations-part-1-sharding-approach-2/
+
 ### db comparisons
 - accumulo cassandra hbase http://accumulosummit.com/program/talks/comparing-accumulo-cassandra-hbase/
 
