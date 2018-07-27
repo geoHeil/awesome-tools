@@ -148,6 +148,8 @@ collection of some nice articles
     - https://github.com/jbonofre/beam-samples
 - hbase
   - bulk loading from spark http://www.opencore.com/blog/2016/10/efficient-bulk-load-of-hbase-using-spark/
+  - coprocessors
+    - good bad and ugly of coprocessors from bloomberg https://www.youtube.com/watch?v=9NAPLmCB2sA
 - books
   - covering all the basic concepts: Designing Data-Intensive Applications http://shop.oreilly.com/product/0636920032175.do
   - streaming
