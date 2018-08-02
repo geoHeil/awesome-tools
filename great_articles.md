@@ -47,6 +47,9 @@ collection of some nice articles
 - apache atlas
 - https://github.com/linkedin/WhereHows
 
+## data management principles
+- https://www.youtube.com/watch?v=DbViPBTq8Xc
+
 ## geospatial data
 - https://thehftguy.com/2017/07/19/what-does-it-really-take-to-track-100-million-cell-phones/
 - https://matthewrocklin.com/blog//work/2017/09/21/accelerating-geopandas-1
