@@ -8,6 +8,7 @@ collection of some nice articles
   - http://startupstash.com
   - https://github.com/toddmotto/public-apis
 - reproducible research: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285
+- https://medium.com/data-engineering/modeling-madly-8b2c72eb52be
 
 ## statistics
 - https://www.statisticsdonewrong.com
