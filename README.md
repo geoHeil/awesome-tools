@@ -232,6 +232,7 @@ curated list of awesome tools and libraries for specific domains
 **notebooks**
 - jupyter
   - http://beakerx.com
+  - https://medium.com/netflix-techblog/notebook-innovation-591ee3221233
 - zeppelin
 
 **type safety**
