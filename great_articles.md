@@ -40,6 +40,7 @@ collection of some nice articles
 
 ## dataflow
 - apache nifi
+  - https://pierrevillard.com/2018/08/29/monitoring-driven-development-with-nifi-1-7/
 - apache camel
 - akka + alpakka
 - https://kylo.io
