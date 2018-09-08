@@ -6,6 +6,8 @@ Some problems I observed in real dataflow pipelines
 - actually knowing (responsibility for bought applications) where to find the data(base) and who knows about the format
 - parameterize everything, most importantly the columns.
 - always describe all the columns directly - even when loading data in spark
+- make sure column names can be refactored with IDE support (centralized at single place / module / library)
+- https://www.kdnuggets.com/2018/08/self-service-data-prep-tools-6-lessons-learned.html
 
 ### SQL
 SQL nowadays is so much more than SQL92 (which most people are familiar with). Arrays, json, xml ... can be handled. In case of distributed systems ordering (total ordering vs partial ordering within partitions) turn out to be important concepts to master as well:
