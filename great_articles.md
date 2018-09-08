@@ -261,6 +261,8 @@ collection of some nice articles
 ### hadoop replacements?
 - http://pachyderm.io
 - http://dask.pydata.org
+  - deploy python on yarn
+    - https://conda.github.io/conda-pack/
 - google spanner DB
 
 ### db tuning
