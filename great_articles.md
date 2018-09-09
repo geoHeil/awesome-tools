@@ -69,6 +69,11 @@ collection of some nice articles
 - tutorial python ml http://nbviewer.jupyter.org/github/mdeff/python_tour_of_data_science/blob/with_outputs/python_tour_of_data_science.ipynb
 - advanced numpy tricks http://nbviewer.jupyter.org/github/vlad17/np-learn/blob/master/presentation.ipynb?flush_cache=true
 
+## python tools
+
+### ioc dependency injection
+- https://github.com/twgOren/roroioc
+
 ### hypothesis validation
 - https://eng.uber.com/maze/
 
