@@ -37,6 +37,7 @@ collection of some nice articles
 - spatio temporal event aggregation UBER https://data-artisans.com/flink-forward/resources/scaling-ubers-realtime-optimization-with-apache-flink
 - optimization of flink at netflix https://data-artisans.com/flink-forward/resources/scaling-flink-in-cloud
 - pravega https://data-artisans.com/flink-forward/resources/scaling-stream-data-pipelines
+- SQL motifs patterns https://www.slideshare.net/FlinkForward/flink-forward-berlin-2018-dawid-wysakowicz-detecting-patterns-in-event-streams-with-flink-sql
 
 ## dataflow
 - apache nifi
