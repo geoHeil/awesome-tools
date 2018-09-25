@@ -32,6 +32,7 @@ SQL nowadays is so much more than SQL92 (which most people are familiar with). A
 - consider hybrid cloud (cross cloud provider)
 - adhere to https://www.acm.org/binaries/content/assets/public-policy/2017_usacm_statement_algorithms.pdf and especially look out for any data provenance issues
 - make sure to setup a file quota in HDFS per user
+- real world ops pains https://drive.google.com/file/d/15nxAaVXZwNFnJNVvgtKonNbzxNgTUCxP/view
 
 ### monitoring
 - build in monitoring E2E by design
