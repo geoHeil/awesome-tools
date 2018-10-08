@@ -54,6 +54,7 @@ llap might not start (in case of a small development cluster) if not enough memo
 - reproducibility is a problem (https://petewarden.com/2018/03/19/the-machine-learning-reproducibility-crisis/) and the overall pipeline E2E needs to be thought out very well
 - model management is a big problem. This book https://mapr.com/ebooks/machine-learning-logistics/ describes it nicely
 - planning http://deon.drivendata.org
+- spark pipeline example https://engineering.autotrader.co.uk/2018/10/03/productionizing-days-to-sell.html
 
 ## hiring
 - if in doubt hire a data engineer and not a data scientist (especially when starting out to bring data driven processes into the company) assuming the engineer also has a feeling for strategy
