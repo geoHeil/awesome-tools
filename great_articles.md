@@ -179,6 +179,9 @@ collection of some nice articles
   - e2e config https://github.com/cloudera-labs/envelope
 - pdf
   - https://github.com/EDS-APHP/SparkPdfExtractor?files=1
+  
+### spark ml
+- https://transmogrif.ai/
 
 ## nlp
 - https://www.datacamp.com/community/tutorials/lda2vec-topic-model
