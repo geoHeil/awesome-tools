@@ -93,6 +93,9 @@ workarounds:
 - Hadoop archives HAR https://github.com/ZuInnoTe/hadoopoffice/wiki/Improve-performance-for-processing-a-lot-of-small-Office-files-with-Hadoop-Archives-(HAR)
 - kafka
 
+**serving results of big data computation**
+- https://lambda.grofers.com/why-physical-storage-of-your-database-tables-might-matter-74b563d664d9
+
 ## java stuff
 ### containers
 - java and containers still do not play nicely (java9) https://mesosphere.com/blog/java-container/
