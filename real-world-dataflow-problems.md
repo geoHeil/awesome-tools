@@ -35,6 +35,9 @@ SQL nowadays is so much more than SQL92 (which most people are familiar with). A
 - real world ops pains https://drive.google.com/file/d/15nxAaVXZwNFnJNVvgtKonNbzxNgTUCxP/view
 - java https://adoptopenjdk.net/releases.html
 
+## scale out over multiple datacenters
+- https://medium.com/adobetech/creating-the-adobe-experience-platform-pipeline-with-kafka-4f1057a11ef
+
 ### monitoring
 - build in monitoring E2E by design
 
