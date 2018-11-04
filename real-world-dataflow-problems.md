@@ -59,6 +59,9 @@ llap might not start (in case of a small development cluster) if not enough memo
 - planning http://deon.drivendata.org
 - spark pipeline example https://engineering.autotrader.co.uk/2018/10/03/productionizing-days-to-sell.html
 
+### business value
+- evaluation of models and presentation to non technical audience https://modelplot.github.io
+
 ## hiring
 - if in doubt hire a data engineer and not a data scientist (especially when starting out to bring data driven processes into the company) assuming the engineer also has a feeling for strategy
 - but watch out that communication skills are great as well
