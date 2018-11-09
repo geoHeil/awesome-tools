@@ -81,6 +81,9 @@ great article: https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-sho
 - start by working on a high profile use case, preferably for an external customer
 - work on a single team. Do not fight on multiple frontiers (use cases) but learn together. Remember kanban. Better to get a single pipeline fully into production then several only half functioning, and then speed up later on.
 
+### culture
+- https://www.youtube.com/watch?v=VkeleGIUSM8
+
 ## big data
 **DO NOT do big data!** unless you really have big data and fully understand all the consequences of a distributed system.
 Instead, invest a couple of $$ into beefier single node computers. High single thread performance + lots of RAM will make you so much more productive.
