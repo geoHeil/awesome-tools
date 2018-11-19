@@ -170,6 +170,7 @@ collection of some nice articles
     - kafka https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf
       - security kafka https://www.confluent.io/kafka-summit-london18/kafka-as-a-service-a-tale-of-security-and-multi-tenancy
       - monitoring kafka https://www.confluent.io/kafka-summit-london18/monitor-kafka-like-a-pro
+      - kafka for micro service communication https://github.com/confluentinc/qcon-microservices
   - mastering spark for data science - use cases end 2 end https://www.youtube.com/watch?v=B6xequGNM20&list=PLYX1a6mVbBmzZTnuB4niJHiyzEEqYsGLN&index=6
 - spark akka http://www.stephenzoio.com/spark-cluster-execution-with-akka/
 - spark functional programming
