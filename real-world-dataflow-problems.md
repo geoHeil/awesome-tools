@@ -108,6 +108,7 @@ workarounds:
 
 **specific helpufl issues**
 - spark HBase kerberized: https://community.hortonworks.com/content/supportkb/198599/how-to-config-spark-to-connect-to-hbase-in-a-kerbe.html
+- approximation design patterns https://streaml.io/blog/eda-real-time-analytics-with-pulsar-functions
 
 **serving results of big data computation**
 - https://lambda.grofers.com/why-physical-storage-of-your-database-tables-might-matter-74b563d664d9
