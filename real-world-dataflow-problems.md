@@ -23,6 +23,7 @@ SQL nowadays is so much more than SQL92 (which most people are familiar with). A
 - define clear APIs (schemata) between different data sources and pipelines to allow building workflows on top of the ingested data streams
 - be clear what type of data you want to process (batch vs. streaming). Do not force batch semantics for a stream processor. Idempotent jobs will make your life much easier.
 - for batch workloads consider oozie over nifi. *it just works TM*
+- some great NiFi tipps https://pierrevillard.com/best-of-nifi/
 
 ### security
 - know the difference between masking field values on the fly i.e. in ranger vs actually not having the permissions to view a column which often (at lest for hive) disallows then to execute the `DESCRIBE TABLE` statement so any tool like tableau which relies on this will subsequently fail
