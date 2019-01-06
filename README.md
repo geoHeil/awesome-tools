@@ -41,6 +41,7 @@ curated list of awesome tools and libraries for specific domains
 - https://github.com/facebookresearch/fastText
 - https://github.com/facebookresearch/InferSent
 - https://github.com/google/sentencepiece
+- https://github.com/zalandoresearch/flair
 
 ## clustering & distances
 - https://github.com/nmslib/nmslib
