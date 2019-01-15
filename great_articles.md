@@ -271,6 +271,7 @@ collection of some nice articles
 
 ### hadoop replacements?
 - http://pachyderm.io
+- https://github.com/vaexio/vaex
 - http://dask.pydata.org
   - deploy python on yarn
     - https://conda.github.io/conda-pack/
