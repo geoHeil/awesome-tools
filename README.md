@@ -47,6 +47,7 @@ curated list of awesome tools and libraries for specific domains
 - https://github.com/nmslib/nmslib
 - T-SNE interactive https://js.tensorflow.org
 - UMAP (faster alternative to T-SNE) https://github.com/lmcinnes/umap
+- fast DBSCAN. https://github.com/scikit-learn-contrib/hdbscan
 
 ### textual preprocessing
 - parsing HTML
