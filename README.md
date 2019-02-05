@@ -43,6 +43,9 @@ curated list of awesome tools and libraries for specific domains
 - https://github.com/google/sentencepiece
 - https://github.com/zalandoresearch/flair
 
+### chatbots
+- https://rasa.com
+
 ## clustering & distances
 - https://github.com/nmslib/nmslib
 - T-SNE interactive https://js.tensorflow.org
