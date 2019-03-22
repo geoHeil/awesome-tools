@@ -119,6 +119,7 @@ curated list of awesome tools and libraries for specific domains
 - https://dataversioncontrol.com
 - https://www.comet.ml
 - https://aetros.com
+- https://github.com/ModelChimp/modelchimp
 
 **model building**
 - feature engineering
