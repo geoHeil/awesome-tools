@@ -118,6 +118,7 @@ collection of some nice articles
 - https://github.com/datascienceinc/Skater/blob/master/README.rst
 - https://github.com/slundberg/shap
 - https://github.com/pbiecek/DALEX/
+- https://github.com/EthicalML/XAI
 
 ### evaluation
 - https://www.youtube.com/watch?v=WKAuXlsq6xw
