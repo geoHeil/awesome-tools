@@ -42,6 +42,7 @@ curated list of awesome tools and libraries for specific domains
 - https://github.com/facebookresearch/InferSent
 - https://github.com/google/sentencepiece
 - https://github.com/zalandoresearch/flair
+- https://github.com/Microsoft/BlingFire
 
 ### chatbots
 - https://rasa.com
