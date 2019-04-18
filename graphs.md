@@ -7,3 +7,8 @@
 ## graph processing
 - tinkerpop
 - opencypher
+
+## deeplarning
+
+### embeddings
+- https://github.com/facebookresearch/PyTorch-BigGraph
