@@ -2,6 +2,10 @@
 
 ## spatial indicies
 
-### R trees
+- https://github.com/uber/h3
+- R trees
+  - https://github.com/mourner/flatbush
 
-- https://github.com/mourner/flatbush
+## tutorials
+
+- https://github.com/jsignell/pydata_ann_arbor_2019
