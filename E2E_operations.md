@@ -22,3 +22,7 @@
 - spinnaker
 - https://github.com/GoogleCloudPlatform/skaffold
 - https://fabric8.io
+- https://argoproj.github.io/
+
+**git native changes**
+- https://github.com/weaveworks/flux
