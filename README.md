@@ -177,6 +177,7 @@ curated list of awesome tools and libraries for specific domains
 - https://github.com/combust/mleap
 
 **hyperparameter tuning**
+- https://github.com/kubeflow/katib
 - https://sigopt.com
 - https://github.com/scikit-optimize/scikit-optimize
 - https://github.com/Yelp/MOE
