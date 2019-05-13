@@ -9,6 +9,10 @@
 ### unit testing
 - hive sql unit testing with code coverage https://github.com/HotelsDotCom/mutant-swarm
 
+#### spark
+- https://github.com/swoop-inc/spark-records
+- https://github.com/swoop-inc/spark-alchemy
+
 ### classical DB
 - https://pgdash.io/blog/postgres-features.html
 
