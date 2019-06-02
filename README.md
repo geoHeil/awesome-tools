@@ -290,6 +290,8 @@ curated list of awesome tools and libraries for specific domains
 - founding / payments https://stripe.com/atlas
 - errors
   - https://www.youtube.com/watch?v=zFYcXvOrwDE
+- analytics
+  - https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1
 
 ## recommender
 - https://github.com/actionml/universal-recommender
