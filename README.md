@@ -127,6 +127,7 @@ curated list of awesome tools and libraries for specific domains
   - https://www.featuretools.com
 - small
   - http://scikit-learn.org/stable/
+  - production processes https://github.com/quantumblacklabs/kedro
   - R
     - preprocessing
       - https://cran.r-project.org/web/packages/vtreat/index.html
