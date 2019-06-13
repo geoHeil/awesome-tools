@@ -19,3 +19,7 @@
 ### ETL in python
 - https://github.com/petl-developers/petl
 - https://github.com/python-bonobo/bonobo
+
+## k8s
+### failures
+- - https://github.com/hjacobs/kubernetes-failure-stories
