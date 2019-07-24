@@ -26,3 +26,6 @@
 
 **git native changes**
 - https://github.com/weaveworks/flux
+
+## experience stories
+- https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/
