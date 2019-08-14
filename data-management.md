@@ -19,6 +19,7 @@
 ### ETL in python
 - https://github.com/petl-developers/petl
 - https://github.com/python-bonobo/bonobo
+- https://www.singer.io
 
 ## k8s
 ### failures
