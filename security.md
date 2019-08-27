@@ -5,7 +5,7 @@
 - armitage
 
 ## big data
-- apache metron
+- apache metron https://metron.apache.org
 
 ### metron tips
 - https://datahovel.com/2018/07/18/how-to-onboard-a-new-data-source-in-apache-metron/
@@ -24,3 +24,6 @@
 
 ## cloud security
 - https://forsetisecurity.org
+
+## tools
+- great tooling overview https://open-source-security-software.net
