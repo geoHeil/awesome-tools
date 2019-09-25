@@ -24,3 +24,6 @@
 ## k8s
 ### failures
 - - https://github.com/hjacobs/kubernetes-failure-stories
+
+## load tests
+- stress testing https://github.com/open-chaos/experiment-catalog
