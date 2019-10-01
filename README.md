@@ -100,6 +100,8 @@ curated list of awesome tools and libraries for specific domains
   - https://github.com/blue-yonder/tsfresh
   - https://robjhyndman.com/hyndsight/tspackages/
   - https://www.featuretools.com (but also worth in general)
+- anomalies
+  - https://github.com/Yelp/elastalert
 
 **hadoop**
 - handling & prediction
