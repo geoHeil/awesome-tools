@@ -28,6 +28,9 @@
 - https://github.com/python-bonobo/bonobo
 - https://www.singer.io
 
+### monitoring
+- health dashbboard https://github.com/criteo/slab
+
 ## k8s
 ### failures
 - - https://github.com/hjacobs/kubernetes-failure-stories
