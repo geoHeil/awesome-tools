@@ -4,6 +4,8 @@
 - https://www.digdag.io
 
 
+## permissions
+- AWS policy generator https://github.com/salesforce/policy_sentry/blob/master/README.md
 ## ETL
 
 ### batch
