@@ -19,6 +19,7 @@
 - https://github.com/swoop-inc/spark-alchemy
 - framework ETL
   - https://github.com/CoxAutomotiveDataSolutions/waimak
+  - https://arc.tripl.ai/
 
 ### classical DB
 - https://pgdash.io/blog/postgres-features.html
