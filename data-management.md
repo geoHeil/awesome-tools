@@ -47,3 +47,6 @@
 
 ## load tests
 - stress testing https://github.com/open-chaos/experiment-catalog
+
+### unified batch & streaming
+- https://www.youtube.com/watch?v=4qSlsYogALo
