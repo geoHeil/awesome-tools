@@ -50,3 +50,9 @@
 
 ### unified batch & streaming
 - https://www.youtube.com/watch?v=4qSlsYogALo
+
+
+### hybrid cloud
+
+#### data sync
+- NiFi https://medium.com/@abdelkrim.hadjidj/hub-and-spoke-architectures-with-nifi-site-to-site-communications-at-any-level-a-nifi-1-10-a8702f77c66e
