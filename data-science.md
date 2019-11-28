@@ -8,3 +8,8 @@
     - https://github.com/pandas-profiling/pandas-profiling
   - R
     - https://boxuancui.github.io/DataExplorer/
+
+
+## streaming data science
+### libraries
+- https://github.com/alibaba/alink
