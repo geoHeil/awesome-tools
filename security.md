@@ -27,3 +27,10 @@
 
 ## tools
 - great tooling overview https://open-source-security-software.net
+
+
+## containers
+
+### screening containers
+
+- https://github.com/quay/clair
