@@ -1,5 +1,9 @@
 # data science
 
+## basics
+
+- https://missing.csail.mit.edu/
+
 ## exploratory data analysis (EDA)
 
 - automated EDA
