@@ -13,6 +13,7 @@
 
 ## regression
 - https://github.com/r-spatial/spatialreg/
+- https://pysal.org/
 
 ## tutorials & books
 
