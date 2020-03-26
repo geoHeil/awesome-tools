@@ -14,6 +14,9 @@
 ## regression
 - https://github.com/r-spatial/spatialreg/
 
-## tutorials
+## tutorials & books
 
 - https://github.com/jsignell/pydata_ann_arbor_2019
+- https://geocompr.robinlovelace.net/
+- https://geographicdata.science/book/notebooks/05_choropleth.html
+- https://pythongis.org/index.html
