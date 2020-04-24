@@ -7,6 +7,7 @@
 ## data science
 
 - https://e2eml.school/blog.html
+- averages https://www.thestar.com/news/insight/2016/01/16/when-us-air-force-discovered-the-flaw-of-averages.html
 
 
 ## moocs
