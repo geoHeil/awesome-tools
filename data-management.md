@@ -8,6 +8,10 @@
 - AWS policy generator https://github.com/salesforce/policy_sentry/blob/master/README.md
 ## ETL
 
+### methodology
+
+- https://de.wikipedia.org/wiki/Data_Vault
+
 ### batch
 - https://github.com/volcano-sh/volcano
 - excel automation https://www.xlwings.org/
