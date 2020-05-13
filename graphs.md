@@ -10,7 +10,9 @@
 - tinkerpop
 - opencypher
 
-## deeplarning
+## [ml/ai/deep]-leanring on graphs
+
+- https://www.stellargraph.io/
 
 ### embeddings
 - https://github.com/facebookresearch/PyTorch-BigGraph
