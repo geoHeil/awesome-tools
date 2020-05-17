@@ -131,6 +131,7 @@ curated list of awesome tools and libraries for specific domains
 - https://www.comet.ml
 - https://aetros.com
 - https://github.com/ModelChimp/modelchimp
+- https://flyte.org/
 
 **model building**
 - feature engineering
