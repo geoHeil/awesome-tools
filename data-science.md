@@ -13,6 +13,9 @@
   - R
     - https://boxuancui.github.io/DataExplorer/
 
+## experiment design
+
+- http://docs.pyro.ai/en/stable/contrib.oed.html
 
 ## reprodrucibility
 ### version control
