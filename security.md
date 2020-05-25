@@ -39,3 +39,9 @@
 
 ### wifi
 - https://shop.hak5.org/
+
+## pentesting
+
+### input
+
+- https://github.com/minimaxir/big-list-of-naughty-strings
