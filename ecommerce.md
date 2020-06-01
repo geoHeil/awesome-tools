@@ -6,6 +6,6 @@
 - https://snipcart.com/blog/jamstack
 
 
-## fromums / link aggregation
+## forum / link aggregation
 
 - https://github.com/LemmyNet/lemmy
