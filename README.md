@@ -117,6 +117,7 @@ curated list of awesome tools and libraries for specific domains
   - https://github.com/sryza/spark-timeseries
 - anomaly detection
   - https://github.com/numenta/htm.java
+  - https://github.com/YuhaoCheng/PyAnomaly
 - examples
   - streaming
     - https://github.com/confluentinc/demo-scene/blob/master/ksql-atm-fraud-detection/ksql-atm-fraud-detection-README.adoc
