@@ -9,3 +9,8 @@
 
 ## governance in practice
 - automation of ranger policies and atlas tags https://github.com/SvenskaSpel/cobra-policytool
+
+## standardized data models
+
+- https://cloudinformationmodel.org/
+- SIEM https://www.elastic.co/guide/en/ecs/current/index.html
