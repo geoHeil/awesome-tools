@@ -17,6 +17,14 @@
 
 - http://docs.pyro.ai/en/stable/contrib.oed.html
 
+## bayesian analyses
+
+- frameworks
+  - stand
+  - pymc
+  - pyro https://arviz-devs.github.io/arviz/
+- https://arviz-devs.github.io/arviz/
+
 ## reprodrucibility
 ### version control
 - improve jupyter git integration http://timstaley.co.uk/posts/making-git-and-jupyter-notebooks-play-nice/
@@ -24,3 +32,4 @@
 ## streaming data science
 ### libraries
 - https://github.com/alibaba/alink
+
