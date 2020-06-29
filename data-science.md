@@ -23,6 +23,7 @@
   - stand
   - pymc
   - pyro https://arviz-devs.github.io/arviz/
+- https://botorch.org/
 - https://arviz-devs.github.io/arviz/
 
 ## reprodrucibility
