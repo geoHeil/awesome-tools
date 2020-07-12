@@ -6,6 +6,7 @@
 - https://github.com/odpi/data-governance
 - https://github.com/ContinuumIO/intake
 - knowledge graph & tagging http://datacommons.org/
+- https://datasette.readthedocs.io/en/stable/
 
 ## governance in practice
 - automation of ranger policies and atlas tags https://github.com/SvenskaSpel/cobra-policytool
