@@ -45,3 +45,14 @@
 ### input
 
 - https://github.com/minimaxir/big-list-of-naughty-strings
+
+
+## hats
+
+### white 
+
+### grey
+
+- https://www.cyborgsecurity.com/python-malware-on-the-rise/
+
+### red team
