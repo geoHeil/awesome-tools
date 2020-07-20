@@ -29,6 +29,7 @@
 ## reprodrucibility
 ### version control
 - improve jupyter git integration http://timstaley.co.uk/posts/making-git-and-jupyter-notebooks-play-nice/
+- https://elyra.readthedocs.io/en/latest/
 
 ## streaming data science
 ### libraries
