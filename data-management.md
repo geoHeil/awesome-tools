@@ -19,6 +19,12 @@
 ### unit testing
 - hive sql unit testing with code coverage https://github.com/HotelsDotCom/mutant-swarm
 
+### native code
+
+- wrapping native code
+  - https://github.com/bytedeco/javacpp
+  - https://www.youtube.com/watch?v=5GvfPGcdhqI PCAP example
+
 #### spark
 - https://github.com/swoop-inc/spark-records
 - https://github.com/swoop-inc/spark-alchemy
