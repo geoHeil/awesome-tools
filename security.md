@@ -7,6 +7,10 @@
 ## big data
 - apache metron https://metron.apache.org
 
+### log analysis
+
+- https://github.com/marty90/netlytics
+
 ### metron tips
 - https://datahovel.com/2018/07/18/how-to-onboard-a-new-data-source-in-apache-metron/
 
