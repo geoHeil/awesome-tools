@@ -56,3 +56,8 @@
 - https://www.cyborgsecurity.com/python-malware-on-the-rise/
 
 ### red team
+
+
+## videos
+
+- spark big data security https://www.youtube.com/watch?v=5GvfPGcdhqI
