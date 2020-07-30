@@ -35,3 +35,8 @@
 ### libraries
 - https://github.com/alibaba/alink
 
+
+
+## neighbor search
+
+- https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html
