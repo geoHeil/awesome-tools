@@ -31,6 +31,8 @@
 - framework ETL
   - https://github.com/CoxAutomotiveDataSolutions/waimak
   - https://arc.tripl.ai/
+- fine tuning catalyst optimizer
+  - https://www.youtube.com/watch?v=IjqC2Y2Hd5k
 
 ### classical DB
 - https://pgdash.io/blog/postgres-features.html
