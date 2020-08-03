@@ -40,3 +40,11 @@
 ## neighbor search
 
 - https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html
+
+
+## data
+
+### audio
+
+- feature calculation
+  - https://github.com/jcvasquezc/DisVoice
