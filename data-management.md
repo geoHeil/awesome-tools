@@ -47,6 +47,10 @@
 - https://www.singer.io
 - https://meltano.com/ (reference runner for singer)
 
+#### unit testing data - validating assumptions
+
+- https://bulwark.readthedocs.io/en/latest/index.html
+
 ### orchestration
 - Airflow
 - prefect
