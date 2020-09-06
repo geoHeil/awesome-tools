@@ -18,6 +18,8 @@
 
 ### unit testing
 - hive sql unit testing with code coverage https://github.com/HotelsDotCom/mutant-swarm
+- pyspark
+  - https://medium.com/@gu.martinm/pyspark-unit-integration-and-end-to-end-tests-c2ba71467d85
 
 ### native code
 
