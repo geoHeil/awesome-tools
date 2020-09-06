@@ -35,6 +35,8 @@
   - https://arc.tripl.ai/
 - fine tuning catalyst optimizer
   - https://www.youtube.com/watch?v=IjqC2Y2Hd5k
+- streaming optimization
+  - https://medium.com/@Iqbalkhattra85/optimize-spark-structured-streaming-for-scale-d5dc5dee0622
 
 ### classical DB
 - https://pgdash.io/blog/postgres-features.html
