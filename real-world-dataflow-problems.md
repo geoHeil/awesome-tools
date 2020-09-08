@@ -64,6 +64,9 @@ llap might not start (in case of a small development cluster) if not enough memo
 - planning http://deon.drivendata.org
 - spark pipeline example https://engineering.autotrader.co.uk/2018/10/03/productionizing-days-to-sell.html
 
+
+It is not always about the algorithm: https://www.youtube.com/watch?v=kYMfE9u-lMo the details and thoughts around is what matters.
+
 ### business value
 - evaluation of models and presentation to non technical audience https://modelplot.github.io
 
