@@ -27,6 +27,11 @@
 - https://arviz-devs.github.io/arviz/
 
 ## reprodrucibility
+
+### exploration of models
+
+- exploration in a nice HTML UI by the end user to get a feel for the model or feedback: https://github.com/gradio-app/gradio
+
 ### version control
 - improve jupyter git integration http://timstaley.co.uk/posts/making-git-and-jupyter-notebooks-play-nice/
 - https://elyra.readthedocs.io/en/latest/
