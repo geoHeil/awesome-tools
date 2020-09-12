@@ -91,6 +91,8 @@ curated list of awesome tools and libraries for specific domains
 ## time series
 **small**
 - prediction
+  - https://www.youtube.com/watch?v=0zpg9ODE6Ww
+  - https://www.youtube.com/watch?v=68ABAU_V8qI
   - https://cran.r-project.org/web/packages/forecast/index.html
   - https://github.com/facebook/prophet
   - https://pythonawesome.com/probabilistic-time-series-modeling-in-python/
