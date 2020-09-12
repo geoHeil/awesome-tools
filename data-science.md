@@ -53,3 +53,8 @@
 
 - feature calculation
   - https://github.com/jcvasquezc/DisVoice
+
+### streams
+
+- jupyter
+  - bokeh on streams in jupyter https://medium.com/swlh/streaming-time-series-with-jupyter-and-influxdb-fec33803c460
