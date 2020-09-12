@@ -66,9 +66,12 @@ llap might not start (in case of a small development cluster) if not enough memo
 
 
 It is not always about the algorithm: https://www.youtube.com/watch?v=kYMfE9u-lMo the details and thoughts around is what matters.
+Think about a whole system (and ideally it is simple) which actually delivers value vs. a very complex algorithm only running in a notebook https://www.youtube.com/watch?v=68ABAU_V8qI.
+And more importantly: make the results tangible for example using tools like https://github.com/gradio-app/gradio to drive trust from business units.
 
 ### business value
-- evaluation of models and presentation to non technical audience https://modelplot.github.io
+- evaluation of models and presentation to non technical audience https://modelplot.github.io, https://github.com/gradio-app/gradio
+- before starting out with a data science use-case clearly define what constitutes success, how it is measured (= oftentimes this means how to obtain labels in a setting where no previous labelled data was collected)
 
 ## hiring
 - if in doubt hire a data engineer and not a data scientist (especially when starting out to bring data driven processes into the company) assuming the engineer also has a feeling for strategy
