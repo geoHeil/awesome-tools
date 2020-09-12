@@ -26,6 +26,16 @@
 - https://botorch.org/
 - https://arviz-devs.github.io/arviz/
 
+## deep learning
+
+- books
+  - https://github.com/fastai/fastbook
+  
+## neighbor search
+
+- https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html
+
+
 ## reprodrucibility
 
 ### exploration of models
@@ -39,12 +49,6 @@
 ## streaming data science
 ### libraries
 - https://github.com/alibaba/alink
-
-
-
-## neighbor search
-
-- https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html
 
 
 ## data
