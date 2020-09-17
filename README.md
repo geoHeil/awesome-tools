@@ -90,6 +90,7 @@ curated list of awesome tools and libraries for specific domains
 
 ## time series
 **small**
+- [sktime](https://github.com/alan-turing-institute/sktime) and [sktime-dl](https://github.com/sktime/sktime-dl)
 - prediction
   - https://www.youtube.com/watch?v=0zpg9ODE6Ww
   - https://www.youtube.com/watch?v=68ABAU_V8qI
