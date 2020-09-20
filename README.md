@@ -103,6 +103,7 @@ curated list of awesome tools and libraries for specific domains
     - https://cran.r-project.org/web/packages/opera/index.html https://github.com/Dralliag/opera
   - https://github.com/ellisp/forecastxgb-r-package
   - https://github.com/dmbee/seglearn
+  - https://pytorch-forecasting.readthedocs.io/en/latest/index.html
 - feature extration
   - https://github.com/blue-yonder/tsfresh
   - https://robjhyndman.com/hyndsight/tspackages/
