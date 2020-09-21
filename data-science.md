@@ -38,6 +38,10 @@
 
 ## reprodrucibility
 
+### population drift monitoring
+
+- https://github.com/ing-bank/popmon
+
 ### exploration of models
 
 - exploration in a nice HTML UI by the end user to get a feel for the model or feedback: https://github.com/gradio-app/gradio
