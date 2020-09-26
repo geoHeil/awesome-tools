@@ -1,6 +1,13 @@
 # presentations
 
-some presentations - mostly at meetups
+## toolkit
+
+- [logitech spotlight](https://www.logitech.com/de-at/product/spotlight-presentation-remote)
+  - allows to zoom and highlight interactively and also is a laser pointer in video presentations
+- [demopro](http://www.demoproapp.com/)
+  - allows to draw on the screen and have a timer
+
+## some presentations - mostly at meetups
 
 - machine learning model to production https://www.slideshare.net/GeorgHeiler/machine-learning-model-to-production
 - R and big data
