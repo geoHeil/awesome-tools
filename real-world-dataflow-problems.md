@@ -64,6 +64,8 @@ llap might not start (in case of a small development cluster) if not enough memo
 - planning http://deon.drivendata.org
 - spark pipeline example https://engineering.autotrader.co.uk/2018/10/03/productionizing-days-to-sell.html
 
+Why do many analytics projects fail? https://www.fast.ai/2018/07/12/auto-ml-1/
+
 
 It is not always about the algorithm: https://www.youtube.com/watch?v=kYMfE9u-lMo the details and thoughts around is what matters.
 Think about a whole system (and ideally it is simple) which actually delivers value vs. a very complex algorithm only running in a notebook https://www.youtube.com/watch?v=68ABAU_V8qI.
