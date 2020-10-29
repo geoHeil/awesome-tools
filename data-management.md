@@ -16,6 +16,13 @@
 - https://github.com/volcano-sh/volcano
 - excel automation https://www.xlwings.org/
 
+### streaming
+
+#### flink deployments
+
+- k8s operator for blue green deployment
+  - https://github.com/lyft/flinkk8soperator
+
 ### unit testing
 - hive sql unit testing with code coverage https://github.com/HotelsDotCom/mutant-swarm
 - pyspark
