@@ -46,6 +46,10 @@
 
 - exploration in a nice HTML UI by the end user to get a feel for the model or feedback: https://github.com/gradio-app/gradio
 
+### fairness
+
+- https://www.youtube.com/watch?v=WfcCXlxkBb0, https://github.com/koaning/scikit-lego
+
 ### version control
 - improve jupyter git integration http://timstaley.co.uk/posts/making-git-and-jupyter-notebooks-play-nice/
 - https://elyra.readthedocs.io/en/latest/
