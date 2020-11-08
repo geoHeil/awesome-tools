@@ -34,6 +34,7 @@
 ## neighbor search
 
 - https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html
+- https://github.com/spotify/annoy
 
 
 ## reprodrucibility
