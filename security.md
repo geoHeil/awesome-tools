@@ -25,6 +25,9 @@
 - https://fy.blackhats.net.au/blog/html/2017/05/23/kerberos_why_the_world_moved_on.html
 - debugging kerberos set `KRB5_TRACE`
 
+## workflow SOC
+
+- https://github.com/microsoft/msticpy
 
 ## cloud security
 - https://forsetisecurity.org
