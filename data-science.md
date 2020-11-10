@@ -72,3 +72,8 @@
 
 - jupyter
   - bokeh on streams in jupyter https://medium.com/swlh/streaming-time-series-with-jupyter-and-influxdb-fec33803c460
+
+
+## forecasting (time series)
+
+- https://www.youtube.com/watch?v=jo12CWZ00Lo
