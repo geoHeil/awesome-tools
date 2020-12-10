@@ -15,6 +15,9 @@
 ### batch
 - https://github.com/volcano-sh/volcano
 - excel automation https://www.xlwings.org/
+- spark
+  - SQL tuning 
+    - https://www.youtube.com/watch?v=_Ne27JcLnEc
 
 ### streaming
 
