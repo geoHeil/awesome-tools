@@ -21,3 +21,10 @@
 - https://geocompr.robinlovelace.net/
 - https://geographicdata.science/book/notebooks/05_choropleth.html
 - https://pythongis.org/index.html
+
+
+## big geospatial analyses
+
+### joins
+
+- https://www.youtube.com/watch?v=mrDi70FmCgk geomesa, geospark, STRTree
