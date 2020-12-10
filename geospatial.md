@@ -28,3 +28,7 @@
 ### joins
 
 - https://www.youtube.com/watch?v=mrDi70FmCgk geomesa, geospark, STRTree
+
+### predicate pushdown (data skipping)
+
+- https://www.youtube.com/watch?v=3D5WhCqfOo8
