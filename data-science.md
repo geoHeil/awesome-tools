@@ -12,6 +12,14 @@
     - https://github.com/pandas-profiling/pandas-profiling
   - R
     - https://boxuancui.github.io/DataExplorer/
+    
+## scaling pandas
+
+- elasticsearch: https://github.com/elastic/eland
+- dask
+- ray/modin
+- RAPIDS
+- vaex
 
 ## experiment design
 
