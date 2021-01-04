@@ -18,6 +18,7 @@
 - spark
   - SQL tuning 
     - https://www.youtube.com/watch?v=_Ne27JcLnEc
+  - lakehouse spark 3.x & delta: https://www.youtube.com/watch?v=iog5feADeXc
 
 ### streaming
 
