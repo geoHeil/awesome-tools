@@ -29,6 +29,10 @@ SQL nowadays is so much more than SQL92 (which most people are familiar with). A
 - know the difference between masking field values on the fly i.e. in ranger vs actually not having the permissions to view a column which often (at lest for hive) disallows then to execute the `DESCRIBE TABLE` statement so any tool like tableau which relies on this will subsequently fail
 - understand knox https://community.hortonworks.com/content/kbentry/113013/how-to-troubleshoot-and-application-behind-apache.html
 
+### Project management
+
+When working on a data project is is even more important to convey a story https://www.youtube.com/watch?v=plFPTDwk66s shows 6 points how to improve visualization by telling a clear story.
+
 ## operations
 - use HAproxy instead of mysql router for hive HA setups for metastore
 - centos os for locally installed cluster
