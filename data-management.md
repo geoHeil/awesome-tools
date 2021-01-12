@@ -19,6 +19,10 @@
   - SQL tuning 
     - https://www.youtube.com/watch?v=_Ne27JcLnEc
   - lakehouse spark 3.x & delta: https://www.youtube.com/watch?v=iog5feADeXc
+  
+### schema
+
+- dynamic schema https://www.youtube.com/watch?v=No55ImP-Jic
 
 ### streaming
 
