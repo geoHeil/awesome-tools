@@ -5,6 +5,11 @@
 - https://grakn.ai
 - https://nebula-graph.io/en/
 
+### extensions
+
+- postgres
+  - https://age.apache.org/
+
 
 ## graph processing
 - tinkerpop
