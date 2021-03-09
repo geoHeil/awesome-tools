@@ -38,6 +38,7 @@
 
 - books
   - https://github.com/fastai/fastbook
+- a really useful link collection on my blog: https://georgheiler.com/2020/12/03/intersting-links-about-deep-learning/
   
 ## neighbor search
 
