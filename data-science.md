@@ -60,6 +60,11 @@
 - https://www.youtube.com/watch?v=WfcCXlxkBb0, https://github.com/koaning/scikit-lego
 - https://koaning.io/posts/the-future-is-past/
 
+
+### explainable AI
+
+- https://github.com/interpretml/interpret
+
 ### version control
 - improve jupyter git integration http://timstaley.co.uk/posts/making-git-and-jupyter-notebooks-play-nice/
 - https://elyra.readthedocs.io/en/latest/
