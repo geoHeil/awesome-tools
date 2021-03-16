@@ -91,3 +91,11 @@
 ## forecasting (time series)
 
 - https://www.youtube.com/watch?v=jo12CWZ00Lo
+
+
+
+## website tracking
+
+### google analytics
+
+- schema overview http://storage.googleapis.com/e-nor/visualizations/bigquery/ga360-schema.html
