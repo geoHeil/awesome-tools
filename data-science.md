@@ -99,3 +99,7 @@
 ### google analytics
 
 - schema overview http://storage.googleapis.com/e-nor/visualizations/bigquery/ga360-schema.html
+
+### CDH customer data management
+
+- https://www.hightouch.io/
