@@ -29,3 +29,8 @@
 
 ## experience stories
 - https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/
+
+
+## ML operations
+
+- https://ml-ops.org
