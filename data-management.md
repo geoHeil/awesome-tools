@@ -20,6 +20,9 @@
     - https://www.youtube.com/watch?v=_Ne27JcLnEc
   - lakehouse spark 3.x & delta: https://www.youtube.com/watch?v=iog5feADeXc
   
+- dagster tipps
+  - https://github.com/sspaeti-com/awesome-dagster
+  
 ### schema
 
 - dynamic schema https://www.youtube.com/watch?v=No55ImP-Jic
