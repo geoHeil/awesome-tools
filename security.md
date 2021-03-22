@@ -4,6 +4,12 @@
 - metasploit
 - armitage
 
+## scanning
+
+### APT scanning
+
+- https://github.com/cisagov/CHIRP
+
 ## big data
 - apache metron https://metron.apache.org
 
