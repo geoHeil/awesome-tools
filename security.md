@@ -74,3 +74,8 @@
 ## videos
 
 - spark big data security https://www.youtube.com/watch?v=5GvfPGcdhqI and https://www.youtube.com/watch?v=YxTE4mff5dk
+
+
+## privacy
+
+- https://www.whonix.org/
