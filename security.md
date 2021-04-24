@@ -16,6 +16,11 @@
 ### log analysis
 
 - https://github.com/marty90/netlytics
+- https://github.com/s1l3nt78/sifter
+- https://github.com/laramies/theHarvester
+- https://github.com/j3ssie/Osmedeus
+- https://github.com/jaeles-project/jaeles
+
 
 ### metron tips
 - https://datahovel.com/2018/07/18/how-to-onboard-a-new-data-source-in-apache-metron/
