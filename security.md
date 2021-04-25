@@ -1,5 +1,13 @@
 # security
 
+## blogs/ressources
+
+- https://www.mdpi.com/2076-3417/10/16/5607
+- https://docs.securityonion.net/en/2.3/
+- https://github.com/safe-graph/graph-fraud-detection-papers
+- https://github.com/dvopsway/datasploit
+- https://github.com/cugu/awesome-forensics
+
 ## exploits
 - metasploit
 - armitage
