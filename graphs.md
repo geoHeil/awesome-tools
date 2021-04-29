@@ -1,5 +1,9 @@
 # graphs and ontologies
 
+## books
+
+- http://networksciencebook.com/
+
 ## databases
 - neo4j
 - https://grakn.ai
