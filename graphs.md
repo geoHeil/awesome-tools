@@ -4,6 +4,10 @@
 
 - http://networksciencebook.com/
 
+## lectures
+
+- http://web.stanford.edu/class/cs224w/
+
 ## databases
 - neo4j
 - https://grakn.ai
