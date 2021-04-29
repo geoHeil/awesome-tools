@@ -14,6 +14,11 @@
 
 - bayesian inferencing with NUTS by JAGS
   - https://github.com/pyro-ppl/numpyro
+
+### examples
+
+- covid
+  - https://www.youtube.com/watch?v=ZxR3mw-Znzc&pp=qAMBugMGCgJkZRAB and https://www.youtube.com/watch?v=_DCkJkMji0U
   
 #### tutorials
 
