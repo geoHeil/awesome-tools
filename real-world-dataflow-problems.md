@@ -130,3 +130,10 @@ workarounds:
 ## java stuff
 ### containers
 - java and containers still do not play nicely (java9) https://mesosphere.com/blog/java-container/
+
+
+## great quotes
+
+### innovation
+
+- If you separate the thinking about things from the doing of things, then innovation will suffer; https://berthub.eu/articles/posts/how-tech-loses-out/
