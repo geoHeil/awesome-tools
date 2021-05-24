@@ -96,3 +96,9 @@
 ## privacy
 
 - https://www.whonix.org/
+
+## cloud
+
+### permission escalation
+
+- https://github.com/netskopeoss/iaas_permission_mining
