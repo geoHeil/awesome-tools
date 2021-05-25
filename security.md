@@ -102,3 +102,10 @@
 ### permission escalation
 
 - https://github.com/netskopeoss/iaas_permission_mining
+
+
+## data collection
+
+### honey pot
+
+- https://github.com/telekom-security/tpotce
