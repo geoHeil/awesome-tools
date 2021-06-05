@@ -15,3 +15,8 @@
 
 - https://cloudinformationmodel.org/
 - SIEM https://www.elastic.co/guide/en/ecs/current/index.html
+
+
+## metadata
+
+- https://www.querybook.org/
