@@ -203,6 +203,7 @@ curated list of awesome tools and libraries for specific domains
 - https://www.seldon.io
 - http://pipeline.ai
 - https://datmo.com
+- https://docs.ray.io/en/master/serve/index.html
 
 **ml solutions**
 - https://predictionio.incubator.apache.org
