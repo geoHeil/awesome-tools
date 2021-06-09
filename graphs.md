@@ -27,5 +27,11 @@
 
 - https://www.stellargraph.io/
 
+
 ### embeddings
 - https://github.com/facebookresearch/PyTorch-BigGraph
+
+## network science
+
+#### graph filtering
+- https://en.wikipedia.org/wiki/Disparity_filter_algorithm_of_weighted_network
