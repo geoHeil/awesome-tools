@@ -2,6 +2,7 @@
 
 ## blogs/ressources
 
+- https://www.nsa.gov/News-Features/the-next-wave/
 - https://www.mdpi.com/2076-3417/10/16/5607
 - https://docs.securityonion.net/en/2.3/
 - https://github.com/safe-graph/graph-fraud-detection-papers
