@@ -21,6 +21,7 @@
 - ray/modin
 - RAPIDS
 - vaex
+- https://ibis-project.org/
 
 ## experiment design
 
