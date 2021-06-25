@@ -170,6 +170,7 @@ curated list of awesome tools and libraries for specific domains
     - lightgbm
       - https://github.com/Azure/mmlspark
     - catboost https://github.com/catboost/catboost
+    - https://github.com/fabsig/GPBoost
 - visualization of results
   - https://github.com/DistrictDataLabs/yellowbrick
   
