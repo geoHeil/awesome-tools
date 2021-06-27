@@ -49,6 +49,9 @@
 - https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html
 - https://github.com/spotify/annoy
 
+## NLP
+
+- https://pythonawesome.com/attention-based-grapheme-to-phoneme-with-python/
 
 ## reprodrucibility
 
