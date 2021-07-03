@@ -33,5 +33,10 @@
 
 ## network science
 
-#### graph filtering
+### graph filtering
 - https://en.wikipedia.org/wiki/Disparity_filter_algorithm_of_weighted_network
+
+
+### temporal graphs
+
+- https://teneto.readthedocs.io/en/latest/tutorial/networkmeasures.html
