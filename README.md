@@ -51,6 +51,10 @@ curated list of awesome tools and libraries for specific domains
 ### chatbots
 - https://rasa.com
 
+## Scheduling & Booking
+- [Scheduling API](https://www.spurwing.io/) by Spurwing
+- Cronofy https://www.cronofy.com/
+
 ## clustering & distances
 - https://github.com/nmslib/nmslib
 - T-SNE interactive https://js.tensorflow.org
