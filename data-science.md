@@ -48,6 +48,11 @@
 
 - https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html
 - https://github.com/spotify/annoy
+### subgroup discovery
+
+- https://github.com/flemmerich/pysubgroup
+- https://github.com/imoscovitz/wittgenstein
+- https://github.com/scikit-learn-contrib/skope-rules
 
 ## NLP
 
