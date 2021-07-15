@@ -117,3 +117,8 @@
 ### CDH customer data management
 
 - https://www.hightouch.io/
+
+
+## deployment
+
+- https://github.com/whylabs/whylogs
