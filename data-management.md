@@ -68,6 +68,7 @@
 - https://github.com/python-bonobo/bonobo
 - https://www.singer.io
 - https://meltano.com/ (reference runner for singer)
+- https://airbyte.io/
 
 #### unit testing data - validating assumptions
 
