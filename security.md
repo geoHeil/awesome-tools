@@ -15,6 +15,10 @@
 
 ## scanning
 
+### mobile devices
+
+- https://github.com/mvt-project/mvt
+
 ### AI models
 
 - https://github.com/Azure/counterfit/ https://www.microsoft.com/security/blog/2021/05/03/ai-security-risk-assessment-using-counterfit/
