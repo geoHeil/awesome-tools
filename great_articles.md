@@ -117,6 +117,7 @@ collection of some nice articles
 - https://github.com/marcotcr/lime
 - https://github.com/datascienceinc/Skater/blob/master/README.rst
 - https://github.com/slundberg/shap
+- https://github.com/csinva/imodels
 - https://github.com/pbiecek/DALEX/
 - https://github.com/EthicalML/XAI
 
