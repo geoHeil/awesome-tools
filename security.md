@@ -102,6 +102,7 @@
 
 - https://www.whonix.org/
 - https://getoutline.org/de/
+- suggestions https://news.ycombinator.com/item?id=28008571
 
 ## cloud
 
