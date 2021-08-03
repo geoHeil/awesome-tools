@@ -101,6 +101,7 @@
 ## privacy
 
 - https://www.whonix.org/
+- https://getoutline.org/de/
 
 ## cloud
 
