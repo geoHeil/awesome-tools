@@ -1,5 +1,10 @@
 # Data Management
 
+## choice of database
+
+- cloud databases
+  - https://towardsdatascience.com/datastore-choices-sql-vs-nosql-database-ebec24d56106 really great overview
+
 ## scheduler
 - https://www.digdag.io
 
