@@ -117,7 +117,10 @@
 
 ### CDH customer data management
 
+basically SQL-based sync & incremental updates of data to many systems and reports without sending a lot of CSV files around
+
 - https://www.hightouch.io/
+- https://www.getcensus.com/
 
 
 ## deployment
