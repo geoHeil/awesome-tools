@@ -106,6 +106,8 @@
 - https://www.youtube.com/watch?v=jo12CWZ00Lo
 - https://github.com/linkedin/greykite
 - https://facebook.github.io/prophet/
+
+### generic timeseries operations
 - https://khiva.readthedocs.io/en/latest/
 
 
