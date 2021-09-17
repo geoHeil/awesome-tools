@@ -116,3 +116,8 @@
 ### honey pot
 
 - https://github.com/telekom-security/tpotce
+
+
+## CTFs
+
+- unit calculators hex, decimal, binary https://gchq.github.io/CyberChef/
