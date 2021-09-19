@@ -8,6 +8,11 @@
 - https://github.com/safe-graph/graph-fraud-detection-papers
 - https://github.com/dvopsway/datasploit
 - https://github.com/cugu/awesome-forensics
+## forensics
+
+### binary analysis
+
+- https://ghidra-sre.org/
 
 ## exploits
 - metasploit
