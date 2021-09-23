@@ -98,6 +98,7 @@ great article: https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-sho
 - start by working on a high profile use case, preferably for an external customer
 - work on a single team. Do not fight on multiple frontiers (use cases) but learn together. Remember kanban. Better to get a single pipeline fully into production then several only half functioning, and then speed up later on.
 - hiring & retaining data talent https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf
+- tech lead experiences: https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/
 
 ### culture
 - https://www.youtube.com/watch?v=VkeleGIUSM8
