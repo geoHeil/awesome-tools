@@ -109,6 +109,7 @@
 
 ### generic timeseries operations
 - https://khiva.readthedocs.io/en/latest/
+- cleaning https://towardsdatascience.com/a-common-mistake-to-avoid-when-working-with-time-series-data-eedf60a8b4c1
 
 
 
