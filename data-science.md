@@ -86,6 +86,7 @@
 ## streaming data science
 ### libraries
 - https://github.com/alibaba/alink
+- https://github.com/scikit-multiflow/scikit-multiflow
 
 
 ## data
