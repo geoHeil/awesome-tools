@@ -130,3 +130,7 @@ basically SQL-based sync & incremental updates of data to many systems and repor
 ## deployment
 
 - https://github.com/whylabs/whylogs
+
+### cloud instance handling
+
+- cheap training using spot instances https://www.spotml.io/
