@@ -27,7 +27,12 @@
   
 - dagster tipps
   - https://github.com/sspaeti-com/awesome-dagster
-  
+  - https://github.com/sephib/dagster-graph-project
+  - https://github.com/slamer59/dagster-mlflow
+  - https://github.com/broadinstitute/dagster-utils
+  - https://github.com/AntonFriberg/dagster-project-example
+
+
 ### schema
 
 - dynamic schema https://www.youtube.com/watch?v=No55ImP-Jic
