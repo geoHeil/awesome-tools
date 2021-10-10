@@ -31,6 +31,10 @@
   - https://github.com/slamer59/dagster-mlflow
   - https://github.com/broadinstitute/dagster-utils
   - https://github.com/AntonFriberg/dagster-project-example
+  - https://github.com/thedmi/dagster-celery-docker-example
+  - https://github.com/kahnwong/dagster-demo
+  - https://github.com/VladX09/dagster-celery-docker-bug/blob/non-zero-exit-example/docker-compose.yml with https://github.com/dagster-io/dagster/issues/5008
+  - https://github.com/xyzy-web/dagster-exchangerates
 
 
 ### schema
