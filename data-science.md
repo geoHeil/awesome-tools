@@ -22,6 +22,7 @@
 - RAPIDS
 - vaex
 - https://ibis-project.org/
+- https://github.com/pola-rs/polars
 
 ## experiment design
 
