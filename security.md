@@ -65,6 +65,9 @@
 ## cloud security
 - https://forsetisecurity.org
 
+### container
+- https://sysdig.com/blog/container-security-best-practices/
+
 ## tools
 - great tooling overview https://open-source-security-software.net
 
