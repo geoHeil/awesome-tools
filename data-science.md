@@ -32,6 +32,7 @@
 
 - mlFlow
 - https://neptune.ai/blog/experiment-management
+- https://towardsdatascience.com/machine-learning-experiment-tracking-93b796e501b0
 
 ## bayesian analyses
 
