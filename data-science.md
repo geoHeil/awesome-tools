@@ -28,6 +28,11 @@
 
 - http://docs.pyro.ai/en/stable/contrib.oed.html
 
+## experiment tracking
+
+- mlFlow
+- https://neptune.ai/blog/experiment-management
+
 ## bayesian analyses
 
 - frameworks
