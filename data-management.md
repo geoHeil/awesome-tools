@@ -74,6 +74,12 @@
 ### classical DB
 - https://pgdash.io/blog/postgres-features.html
 
+
+### cachings
+
+- redis tips: 
+  -  https://developer.redis.com/howtos/antipatterns/
+
 ### ETL tools
 - https://dataform.co/
 - https://www.getdbt.com
