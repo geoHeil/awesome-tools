@@ -20,3 +20,4 @@
 # salary negotiation
 
 - https://www.youtube.com/watch?v=KcyyKLSn5jQ
+- https://www.youtube.com/watch?v=6l2Frzq4Dp4
