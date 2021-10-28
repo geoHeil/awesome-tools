@@ -22,3 +22,10 @@
 - https://www.youtube.com/watch?v=KcyyKLSn5jQ
 - https://www.youtube.com/watch?v=6l2Frzq4Dp4
 - https://www.youtube.com/watch?v=KcyyKLSn5jQ
+
+
+# recruiting questions
+
+- https://github.com/Appsilon/awesome-interview-questions
+- https://github.com/DopplerHQ/awesome-interview-questions
+- https://towardsdatascience.com/red-flags-in-data-science-interviews-4f492bbed4c4
