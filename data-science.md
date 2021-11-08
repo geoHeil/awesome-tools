@@ -149,6 +149,7 @@ basically SQL-based sync & incremental updates of data to many systems and repor
 ## deployment
 
 - https://github.com/whylabs/whylogs
+- clean machine learning code https://leanpub.com/cleanmachinelearningcode
 
 ### cloud instance handling
 
