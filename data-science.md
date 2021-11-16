@@ -120,6 +120,12 @@ MLops overview: https://github.com/visenger/awesome-mlops
   - bokeh on streams in jupyter https://medium.com/swlh/streaming-time-series-with-jupyter-and-influxdb-fec33803c460
 
 
+### feature store
+
+- hopsworks
+- Behaviors compose better than states
+  -  perhaps a simple python library with some transformations & DBT & Dagster will do the job very well
+
 ## forecasting (time series)
 
 - https://www.youtube.com/watch?v=jo12CWZ00Lo
