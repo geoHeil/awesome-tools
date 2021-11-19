@@ -25,6 +25,10 @@ curated list of awesome tools and libraries for specific domains
     - http://rasterframes.io
   - https://github.com/Esri/spatial-framework-for-hadoop and https://github.com/Esri/gis-tools-for-hadoop as well as their java api https://github.com/Esri/geometry-api-java
   - https://github.com/ngageoint/mrgeo
+  - spark on windows
+    -  https://github.com/cdarlint/winutils
+    -  https://github.com/steveloughran/winutils/releases/tag/tag_2017-08-29-hadoop-2.8.1-native
+    -  https://stackoverflow.com/questions/34196302/the-root-scratch-dir-tmp-hive-on-hdfs-should-be-writable-current-permissions
   
  ### indexing
  - https://github.com/riskaware-ltd/open-eaggr
