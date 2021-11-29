@@ -145,7 +145,7 @@ MLops overview: https://github.com/visenger/awesome-mlops
 
 - schema overview http://storage.googleapis.com/e-nor/visualizations/bigquery/ga360-schema.html
 
-### CDH customer data management
+### CDM/CDP customer data management & customer data platform
 
 basically SQL-based sync & incremental updates of data to many systems and reports without sending a lot of CSV files around
 
