@@ -14,3 +14,16 @@
 ## knowledge videos
 
 - https://www.youtube.com/c/Finanzfluss
+
+
+## crypto coins
+
+### wallets
+
+#### software
+
+- https://www.exodus.com/
+
+#### hardware
+
+- https://trezor.io/
