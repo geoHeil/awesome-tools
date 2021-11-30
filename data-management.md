@@ -36,6 +36,8 @@
   - https://github.com/VladX09/dagster-celery-docker-bug/tree/non-zero-exit-example with https://github.com/dagster-io/dagster/issues/5008
     - https://github.com/astenuz/dagster-celery-test
   - https://github.com/xyzy-web/dagster-exchangerates
+- airflow problems
+    -  https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753
 
 
 ### schema
