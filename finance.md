@@ -7,6 +7,15 @@
 
 - https://www.deltavalue.de/shiller-kgv-cape-ratio/
 
+#### potentially interesting ones
+
+> NOTICE: this is no investment advice. You make your own choices. I might also not have invested in these - just keeping them here as a list of potentially interesting assets
+
+- green
+    - https://www.finanzen.net/aktien/transalta_renewables-aktie
+- dividends
+    - https://www.finanzen.net/aktien/realty-aktie (immo)
+
 ### dividends
 
 - https://www.justetf.com/de/how-to/dividend-etfs-world.html
