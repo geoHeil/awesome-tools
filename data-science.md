@@ -132,6 +132,8 @@ MLops overview: https://github.com/visenger/awesome-mlops
 - https://www.youtube.com/watch?v=jo12CWZ00Lo
 - https://github.com/linkedin/greykite
 - https://facebook.github.io/prophet/
+- https://github.com/winedarksea/AutoTS
+- https://github.com/timeseriesAI/tsai
 
 ### generic timeseries operations
 - https://khiva.readthedocs.io/en/latest/
