@@ -8,6 +8,9 @@
 - https://github.com/safe-graph/graph-fraud-detection-papers
 - https://github.com/dvopsway/datasploit
 - https://github.com/cugu/awesome-forensics
+- https://www.youtube.com/watch?v=nMnHBnYfIaI
+
+
 ## forensics
 
 ### binary analysis
