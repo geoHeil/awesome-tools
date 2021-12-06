@@ -17,6 +17,8 @@
 ## exploits
 - metasploit
 - armitage
+- threat hunting
+    - https://kestrel.readthedocs.io/en/latest/
 
 ## scanning
 
