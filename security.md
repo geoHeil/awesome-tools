@@ -22,6 +22,7 @@
 - armitage
 - threat hunting
     - https://kestrel.readthedocs.io/en/latest/
+    - https://github.com/microsoft/msticpy
 
 ## scanning
 
