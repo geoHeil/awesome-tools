@@ -126,3 +126,8 @@
 ## self service tools
 
 - https://www.gooddata.com/
+
+
+## api design
+
+- https://martinfowler.com/articles/cant-buy-integration.html
