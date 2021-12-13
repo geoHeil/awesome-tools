@@ -1,5 +1,9 @@
 # data science
 
+## references to further similar lists
+
+- https://github.com/r0f1/datascience
+
 ## basics
 
 - https://missing.csail.mit.edu/
