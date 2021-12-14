@@ -5,6 +5,13 @@
 - cloud databases
   - https://towardsdatascience.com/datastore-choices-sql-vs-nosql-database-ebec24d56106 really great overview
 
+
+## storage systems
+
+### blob storage
+
+- https://tech.preferred.jp/en/blog/a-year-with-apache-ozone/
+
 ## scheduler
 - https://www.digdag.io
 
