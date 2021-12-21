@@ -20,3 +20,9 @@
 ## metadata
 
 - https://www.querybook.org/
+
+
+## resource usage
+
+- spark telemetry
+    - https://github.com/cerndb/SparkPlugins
