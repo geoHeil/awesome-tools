@@ -17,7 +17,11 @@
     - https://amueller.github.io/dabl/dev/
   - R
     - https://boxuancui.github.io/DataExplorer/
-    
+  
+## anomaly detection
+
+- https://pyod.readthedocs.io/en/latest/index.html
+
 ## visualization
 
 - https://charticulator.com/
