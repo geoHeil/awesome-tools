@@ -29,6 +29,7 @@
 
 - https://www.youtube.com/watch?v=mrDi70FmCgk geomesa, geospark, STRTree
 - quad tree partitioning on disk to optimize spatial joins (john deere) https://www.youtube.com/watch?v=C1kYNsmJ7ho
+- H3 boundary handling https://www.youtube.com/watch?v=LP198QMdDbY
 
 ### predicate pushdown (data skipping)
 
