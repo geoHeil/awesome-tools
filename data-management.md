@@ -23,6 +23,7 @@
 ### methodology
 
 - https://de.wikipedia.org/wiki/Data_Vault
+- metrics layer: https://www.sspaeti.com/blog/analytics-api-with-graphql-the-next-level-of-data-engineering/
 
 ### batch
 - https://github.com/volcano-sh/volcano
@@ -138,3 +139,4 @@
 ## api design
 
 - https://martinfowler.com/articles/cant-buy-integration.html
+
