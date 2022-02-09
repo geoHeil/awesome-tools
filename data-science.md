@@ -114,6 +114,7 @@ MLops overview: https://github.com/visenger/awesome-mlops
 ### libraries
 - https://github.com/alibaba/alink
 - https://github.com/scikit-multiflow/scikit-multiflow
+- https://riverml.xyz/latest/
 
 
 ## data
