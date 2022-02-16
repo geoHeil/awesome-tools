@@ -31,6 +31,11 @@
 ### embeddings
 - https://github.com/facebookresearch/PyTorch-BigGraph
 
+
+### graph deeplearning
+
+- overview 2022 https://towardsdatascience.com/graph-ml-in-2022-where-are-we-now-f7f8242599e0
+
 ## network science
 
 ### graph filtering
