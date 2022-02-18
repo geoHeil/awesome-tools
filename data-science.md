@@ -135,6 +135,7 @@ MLops overview: https://github.com/visenger/awesome-mlops
 - hopsworks
 - Behaviors compose better than states
   -  perhaps a simple python library with some transformations & DBT & Dagster will do the job very well and https://metriql.com/ for metrics
+- https://feast.dev/
 
 ## forecasting (time series)
 
