@@ -14,7 +14,7 @@
 - https://www.heise.de/hintergrund/Bewerbervorauswahl-per-Algorithmus-Wie-man-eine-KI-von-sich-ueberzeugt-6159470.html
   - https://www.jobscan.co
   - https://www.vmock.com/site
-
+- https://huyenchip.com/ml-interviews-book/
 
 
 # salary negotiation
