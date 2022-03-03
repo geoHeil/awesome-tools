@@ -112,6 +112,7 @@ curated list of awesome tools and libraries for specific domains
   - https://github.com/blue-yonder/tsfresh
   - https://robjhyndman.com/hyndsight/tspackages/
   - https://www.featuretools.com (but also worth in general)
+    - e2e ML pipeline generation: https://evalml.alteryx.com, https://evalml.alteryx.com/en/stable/demos/fraud.html 
 - anomalies
   - https://github.com/Yelp/elastalert
 
