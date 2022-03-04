@@ -28,6 +28,7 @@
 - https://www.datawrapper.de/
 - https://flourish.studio/
 - https://rawgraphs.io/
+- high dimensional data https://github.com/facebookresearch/hiplot
 
 ## scaling pandas
 
