@@ -34,3 +34,9 @@
 ## ML operations
 
 - https://ml-ops.org
+
+## networks
+
+### vpns
+
+- https://tailscale.com/
