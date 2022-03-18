@@ -1,5 +1,9 @@
 # data science
 
+## list of useful tools
+
+- https://landscape.lfai.foundation/
+
 ## references to further similar lists
 
 - https://github.com/r0f1/datascience
