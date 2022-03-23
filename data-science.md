@@ -179,3 +179,10 @@ basically SQL-based sync & incremental updates of data to many systems and repor
 ### cloud instance handling
 
 - cheap training using spot instances https://www.spotml.io/
+
+
+# use cases
+
+## marketing
+
+- https://facebookexperimental.github.io/Robyn/
