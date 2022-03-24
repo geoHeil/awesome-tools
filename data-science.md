@@ -76,6 +76,8 @@ MLops overview: https://github.com/visenger/awesome-mlops
 - automated/easy DL
   - https://github.com/geekjr/quickai
   - https://pythonawesome.com/a-framework-that-implements-automl-algorithms-for-model-architecture-search-at-scale/
+- tabular deeplearning:
+  - https://github.com/dreamquark-ai/tabnet
   
 ## neighbor search
 
