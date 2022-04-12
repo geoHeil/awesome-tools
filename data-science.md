@@ -107,6 +107,7 @@ MLops overview: https://github.com/visenger/awesome-mlops
 
 - https://www.youtube.com/watch?v=WfcCXlxkBb0, https://github.com/koaning/scikit-lego
 - https://koaning.io/posts/the-future-is-past/
+- https://github.com/linkedin/LiFT
 
 
 ### explainable AI
