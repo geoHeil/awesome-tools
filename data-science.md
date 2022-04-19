@@ -67,6 +67,7 @@ MLops overview: https://github.com/visenger/awesome-mlops
   - pyro https://arviz-devs.github.io/arviz/
 - https://botorch.org/
 - https://arviz-devs.github.io/arviz/
+- https://bayesiancomputationbook.com/welcome.html
 
 ## deep learning
 
