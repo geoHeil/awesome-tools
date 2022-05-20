@@ -27,7 +27,7 @@
 - gis
   - https://github.com/CartoDB/cartodb
   - https://plugins.qgis.org/plugins/qgis2web/
-  - https://github.com/qwc-services/qwc-docker
+  - https://github.com/qwc-services/qwc-docker and https://github.com/qgis/qwc2
   - QGIS + Geoserver
 - BI spatial breakdowns
   - https://www.metabase.com/learn/visualization/maps
