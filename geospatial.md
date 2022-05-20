@@ -22,6 +22,14 @@
 - https://geographicdata.science/book/notebooks/05_choropleth.html
 - https://pythongis.org/index.html
 
+## web visualiatzion
+
+- gis
+  - https://plugins.qgis.org/plugins/qgis2web/
+  - https://github.com/qwc-services/qwc-docker
+  - QGIS + Geoserver
+- BI spatial breakdowns
+  - https://www.metabase.com/learn/visualization/maps
 
 ## big geospatial analyses
 
