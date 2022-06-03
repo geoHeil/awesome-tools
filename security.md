@@ -33,6 +33,8 @@
 ### AI models
 
 - https://github.com/Azure/counterfit/ https://www.microsoft.com/security/blog/2021/05/03/ai-security-risk-assessment-using-counterfit/
+- https://atlas.mitre.org/
+- https://github.com/Trusted-AI/adversarial-robustness-toolbox
 
 ### APT scanning
 
