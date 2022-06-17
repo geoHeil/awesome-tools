@@ -3,6 +3,7 @@
 ## causal inference
 
 - https://github.com/Microsoft/dowhy
+- https://github.com/py-why/
 
 ### time series
 
