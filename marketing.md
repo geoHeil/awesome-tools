@@ -6,3 +6,11 @@
 ## e-mail signatures
 
 - fancy gmail signatures in HTML https://followyoureyes.de/blog/email-client-signatur-online-erstellen
+
+
+## writing
+
+- grammarly
+- https://quillbot.com/
+- https://instatext.io
+- https://hemingwayapp.com/
