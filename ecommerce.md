@@ -4,6 +4,7 @@
 
 - https://www.shopware.com/de/
 - https://snipcart.com/blog/jamstack
+- https://fastspring.com/
 
 
 ## forum / link aggregation
