@@ -19,6 +19,7 @@
     - https://sci-analysis.readthedocs.io/en/latest/
     - https://github.com/pandas-profiling/pandas-profiling
     - https://amueller.github.io/dabl/dev/
+    - https://www.visidata.org/
   - R
     - https://boxuancui.github.io/DataExplorer/
   
