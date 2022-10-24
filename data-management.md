@@ -103,6 +103,14 @@
 - https://meltano.com/ (reference runner for singer)
 - https://airbyte.io/
 
+#### dbt and governance
+
+- https://github.com/dbt-labs/dbt-project-evaluator
+- https://github.com/tobymao/sqlglot
+- https://github.com/offbi/pre-commit-dbt
+- team structure https://github.com/dbt-labs/dbt-core/discussions/5244 monorepo or not
+- https://blog.montrealanalytics.com/blue-green-deployment-with-dbt-and-snowflake-922f1c658011
+
 #### unit testing data - validating assumptions
 
 - https://bulwark.readthedocs.io/en/latest/index.html
