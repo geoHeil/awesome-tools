@@ -14,3 +14,8 @@
 - https://quillbot.com/
 - https://instatext.io
 - https://hemingwayapp.com/
+
+
+## logo checks
+
+- https://euipo.europa.eu/eSearch
