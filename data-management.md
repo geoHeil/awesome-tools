@@ -107,9 +107,12 @@
 
 - https://github.com/dbt-labs/dbt-project-evaluator
 - https://github.com/tobymao/sqlglot
+- https://github.com/Montreal-Analytics/dbt-gloss
 - https://github.com/offbi/pre-commit-dbt
 - team structure https://github.com/dbt-labs/dbt-core/discussions/5244 monorepo or not
 - https://blog.montrealanalytics.com/blue-green-deployment-with-dbt-and-snowflake-922f1c658011
+- https://www.getdbt.com/analytics-engineering/case-for-elt-workflow/
+- https://montrealanalytics.notion.site/Coalesce-Workshop-Guide-6382db82046f41599e9ec39afb035bdb and https://github.com/Montreal-Analytics/poutineshop-public and video of the workshop https://www.youtube.com/watch?v=L6ixHejZX5A&list=PL0QYlrC86xQlj9UDGiEwhXQuSjuSyPJHl&index=42
 
 #### unit testing data - validating assumptions
 
