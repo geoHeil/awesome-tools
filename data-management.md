@@ -1,5 +1,9 @@
 # Data Management
 
+## environment handling
+
+- https://palm-cli.readthedocs.io/en/latest/introduction/examples.html
+
 ## choice of database
 
 - cloud databases
