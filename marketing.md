@@ -19,3 +19,7 @@
 ## logo checks
 
 - https://euipo.europa.eu/eSearch
+
+## analytics
+
+- https://plausible.io/
