@@ -10,3 +10,8 @@
 ## forum / link aggregation
 
 - https://github.com/LemmyNet/lemmy
+
+
+## analytics
+
+- https://plausible.io/
