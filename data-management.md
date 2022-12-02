@@ -121,6 +121,7 @@
 #### unit testing data - validating assumptions
 
 - https://bulwark.readthedocs.io/en/latest/index.html
+-  https://github.com/datafold/data-diff
 
 ### orchestration
 - Airflow
