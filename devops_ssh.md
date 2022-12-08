@@ -3,3 +3,12 @@
 https://www.youtube.com/watch?v=qvdlLTyUJ5I
 
 - creating a key: `ssh-keygen -t rsa -b 4096 -f ssh_host_rsa_key < /dev/null`
+
+
+# devops / ops
+
+## hosts
+
+### disks
+
+- `ncdu` disk usage fast with a GUI https://dev.yorhel.nl/ncdu
