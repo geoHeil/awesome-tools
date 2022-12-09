@@ -156,3 +156,8 @@
 
 - https://martinfowler.com/articles/cant-buy-integration.html
 
+
+
+# end user productivity
+
+- https://www.tadviewer.com/
