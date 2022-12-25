@@ -15,3 +15,7 @@
 ### streaming workflows
 
 - https://infinitic.io/
+
+## communication
+
+- https://github.com/nedbat/dinghy
