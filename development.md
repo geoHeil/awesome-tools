@@ -19,3 +19,7 @@
 ## communication
 
 - https://github.com/nedbat/dinghy
+
+## release management
+
+- https://github.com/release-drafter/release-drafter
