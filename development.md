@@ -23,3 +23,8 @@
 ## release management
 
 - https://github.com/release-drafter/release-drafter
+
+
+## notifications
+
+- https://github.com/novuhq/novu
