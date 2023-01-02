@@ -80,6 +80,8 @@ MLops overview: https://github.com/visenger/awesome-mlops
   - https://pythonawesome.com/a-framework-that-implements-automl-algorithms-for-model-architecture-search-at-scale/
 - tabular deeplearning:
   - https://github.com/dreamquark-ai/tabnet
+
+- https://lets-unify.ai/
   
 ## neighbor search
 
