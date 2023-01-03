@@ -40,3 +40,10 @@
 ### vpns
 
 - https://tailscale.com/
+
+
+# business
+
+## HR
+
+- https://www.rippling.com/
