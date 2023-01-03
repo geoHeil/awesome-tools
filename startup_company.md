@@ -12,6 +12,9 @@ Useful services (not only) for (starting) a company
 
 ## marketing
 
+- https://matomo.org/
+- https://plausible.io/
+
 ### analytics
 - https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1
 
