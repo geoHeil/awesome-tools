@@ -311,15 +311,6 @@ curated list of awesome tools and libraries for specific domains
 ## bio-informatics
 - https://github.com/MG-RAST/AWE
 
-## startup
-- founding / payments https://stripe.com/atlas
-- errors
-  - https://www.youtube.com/watch?v=zFYcXvOrwDE
-- analytics
-  - https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1
-  - https://retina.ai/blog/dataops-principles/
-- data selling company (data as a service DSSV) https://blog.safegraph.com/data-as-a-service-bible-everything-you-wanted-to-know-about-running-daas-companies-d4cf4c15c038
-
 ## recommender
 - https://github.com/actionml/universal-recommender
 - https://github.com/DataSystemsLab/recdb-postgresql
