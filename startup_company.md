@@ -41,6 +41,7 @@ Useful services (not only) for (starting) a company
 ### developer experience
 
 - https://trunk.io/
+- https://www.jetbrains.com/space/
 
 ### data
 
