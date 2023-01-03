@@ -1,4 +1,4 @@
-# Starting a company
+# operating/Starting a company
 
 Useful services (not only) for (starting) a company
 
