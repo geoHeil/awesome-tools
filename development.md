@@ -28,3 +28,7 @@
 ## notifications
 
 - https://github.com/novuhq/novu
+
+## dev tooling
+
+- https://trunk.io/
