@@ -18,6 +18,11 @@ Useful services (not only) for (starting) a company
 ### analytics
 - https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1
 
+### dashboards
+
+- https://github.com/lightdash/lightdash#quick-start https://www.lightdash.com/
+- https://www.metabase.com/
+
 ## finance
 
 - founding / payments https://stripe.com/atlas
