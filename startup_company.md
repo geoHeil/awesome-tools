@@ -84,3 +84,6 @@ Useful services (not only) for (starting) a company
 - data selling company (data as a service DSSV) https://blog.safegraph.com/data-as-a-service-bible-everything-you-wanted-to-know-about-running-daas-companies-d4cf4c15c038
 
 
+## tool lists
+
+- https://airtable.com/shrVkzKl8rjQV38AZ/tbliSnfbucggubrwp/viwQqEKIx4rDDgD3j?blocks=hide
