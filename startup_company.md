@@ -60,6 +60,12 @@ Useful services (not only) for (starting) a company
 
 - https://retina.ai/blog/dataops-principles/
 
+### monitoring
+
+- https://checkmk.com/de
+- https://signoz.io/
+- https://github.com/vectordotdev/vector
+
 ## support
 
 - https://www.loom.com
