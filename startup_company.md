@@ -57,6 +57,7 @@ Useful services (not only) for (starting) a company
 - https://open-metadata.org/
 - https://docs.getdbt.com/docs/introduction
 - https://www.metaplane.dev
+- https://directus.io/engine/ https://github.com/directus/directus/
 
 - https://retina.ai/blog/dataops-principles/
 
@@ -65,6 +66,10 @@ Useful services (not only) for (starting) a company
 - https://checkmk.com/de
 - https://signoz.io/
 - https://github.com/vectordotdev/vector
+
+### networking
+
+- https://github.com/netbox-community/netbox
 
 ## support
 
