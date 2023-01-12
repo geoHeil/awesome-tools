@@ -6,6 +6,10 @@ Useful services (not only) for (starting) a company
 
 - https://www.youtube.com/watch?v=zFYcXvOrwDE
 
+## internal tools
+
+- https://github.com/ToolJet/ToolJet
+
 ## HR
 
 - https://www.rippling.com/
