@@ -9,6 +9,7 @@ Useful services (not only) for (starting) a company
 ## internal tools
 
 - https://github.com/ToolJet/ToolJet
+- https://github.com/directus/directus/
 
 ## HR
 
