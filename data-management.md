@@ -161,3 +161,9 @@
 # end user productivity
 
 - https://www.tadviewer.com/
+
+# quality
+
+## consistency
+
+- https://github.com/IvorySQL/IvorySQL
