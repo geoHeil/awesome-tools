@@ -36,6 +36,7 @@
   - SQL tuning 
     - https://www.youtube.com/watch?v=_Ne27JcLnEc
   - lakehouse spark 3.x & delta: https://www.youtube.com/watch?v=iog5feADeXc
+  - https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison
   
 - dagster tipps
   - https://github.com/sspaeti-com/awesome-dagster
