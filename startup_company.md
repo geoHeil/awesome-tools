@@ -106,3 +106,11 @@ Useful services (not only) for (starting) a company
 ## tool lists
 
 - https://airtable.com/shrVkzKl8rjQV38AZ/tbliSnfbucggubrwp/viwQqEKIx4rDDgD3j?blocks=hide
+
+
+# enterprise
+
+## HR
+
+### communication
+- https://haiilo.com/
