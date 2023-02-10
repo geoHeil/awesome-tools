@@ -12,3 +12,10 @@ https://www.youtube.com/watch?v=qvdlLTyUJ5I
 ### disks
 
 - `ncdu` disk usage fast with a GUI https://dev.yorhel.nl/ncdu
+
+
+## osx
+
+### kill
+
+- kill stuff running on port: `lsof -i tcp:3000` gives the offender - which then can be killed
