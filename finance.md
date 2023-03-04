@@ -20,9 +20,15 @@
 
 - https://www.justetf.com/de/how-to/dividend-etfs-world.html
 
-## knowledge videos
+## knowledge 
+
+### videos
 
 - https://www.youtube.com/c/Finanzfluss
+
+### blogs
+
+- https://collabfund.com/blog/the-art-and-science-of-spending-money/
 
 
 ## crypto coins
