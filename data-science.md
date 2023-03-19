@@ -20,6 +20,7 @@
     - https://github.com/pandas-profiling/pandas-profiling
     - https://amueller.github.io/dabl/dev/
     - https://www.visidata.org/
+    - https://github.com/microsoft/vscode-data-wrangler
   - R
     - https://boxuancui.github.io/DataExplorer/
   
@@ -37,6 +38,7 @@
 
 ## scaling pandas
 
+- https://github.com/ibis-project/ibis
 - elasticsearch: https://github.com/elastic/eland
 - dask
 - ray/modin
