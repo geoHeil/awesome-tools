@@ -89,6 +89,12 @@ https://arxiv.org/abs/2107.00079 collects various anti patterns https://towardsd
 - https://rework.withgoogle.com holds great resources regarding hiring & team building
 - in case working for a small company read https://medium.com/apteo/what-makes-a-good-data-scientist-at-a-small-company-3f445d421dff
 - https://towardsdatascience.com/red-flags-in-data-science-interviews-4f492bbed4c4
+- https://www.montecarlodata.com/blog-5-on-obvious-ways-to-make-data-engineers-love-working-for-you/
+  - You measure your data engineer’s customer impact
+  - Data engineers grow with the company
+  - Your data ecosystem is easy to navigate for data engineers
+  - You invest in the tooling data engineers love
+  - Your data engineers have autonomy
 ### teams & organization
 great article: https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/ usually a problem
 - either too many data engineers / site reliability engineers
