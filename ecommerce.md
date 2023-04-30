@@ -1,4 +1,4 @@
-# ecommerde
+# ecommerce
 
 ## shops
 
