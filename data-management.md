@@ -1,5 +1,10 @@
 # Data Management
 
+## learning
+
+- https://www.reddit.com/r/dataengineering/comments/1491swe/a_mustread_data_engineering_collection/
+
+
 ## environment handling
 
 - https://palm-cli.readthedocs.io/en/latest/introduction/examples.html
