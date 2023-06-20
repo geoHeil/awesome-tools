@@ -62,6 +62,10 @@
 
 - dynamic schema https://www.youtube.com/watch?v=No55ImP-Jic
 
+#### schema changes
+
+- https://github.com/datafold/data-diff
+
 ### streaming
 
 - www.gentlydownthe.stream
