@@ -51,6 +51,9 @@
 - https://github.com/j3ssie/Osmedeus
 - https://github.com/jaeles-project/jaeles
 
+#### cloud
+
+- https://github.com/matanolabs/matano
 
 ### metron tips
 - https://datahovel.com/2018/07/18/how-to-onboard-a-new-data-source-in-apache-metron/
