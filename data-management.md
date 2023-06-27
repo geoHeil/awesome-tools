@@ -69,6 +69,7 @@
 ### streaming
 
 - www.gentlydownthe.stream
+- https://gazette.readthedocs.io/en/latest/
 
 #### flink deployments
 
