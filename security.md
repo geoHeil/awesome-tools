@@ -140,3 +140,7 @@
 ## CTFs
 
 - unit calculators hex, decimal, binary https://gchq.github.io/CyberChef/
+
+## people & organization
+
+- https://owasp.org/www-project-security-culture/v10/4-Security_Champions/
