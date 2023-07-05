@@ -41,9 +41,14 @@ Useful services (not only) for (starting) a company
 - https://www.getlago.com/
 - https://github.com/killbill/killbill
 
+### invoicing
+
+- https://invoiceplane.com/
+
 ### taxes
 
 - https://www.avalara.com/eu/de/index.html
+- https://www.bookamat.com/
 
 ### identity
 
