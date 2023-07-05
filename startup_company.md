@@ -2,6 +2,11 @@
 
 Useful services (not only) for (starting) a company
 
+## founding
+### story telling
+
+- https://tome.app
+
 ## errors
 
 - https://www.youtube.com/watch?v=zFYcXvOrwDE
