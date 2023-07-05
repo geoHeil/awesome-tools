@@ -22,6 +22,8 @@
 ## metadata
 
 - https://www.querybook.org/
+### lineage
+- https://github.com/reata/sqllineage
 
 
 ## resource usage
