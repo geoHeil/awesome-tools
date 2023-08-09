@@ -22,6 +22,7 @@
 ### serving LLMs
 
 - https://github.com/ajndkr/lanarky
+- https://github.com/deepset-ai/haystack (with Elasticsearch)
 
 ### full e2e example
 
