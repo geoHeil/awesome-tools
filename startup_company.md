@@ -102,6 +102,10 @@ Useful services (not only) for (starting) a company
 
 ## product
 
+### communication
+
+- https://typedream.com/
+
 ### strategy
 
 #### compound
