@@ -96,7 +96,8 @@ https://arxiv.org/abs/2107.00079 collects various anti patterns https://towardsd
   - You invest in the tooling data engineers love
   - Your data engineers have autonomy
 ### teams & organization
-great article: https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/ usually a problem
+- https://about.gitlab.com/handbook/business-technology/data-team/
+- great article: https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/ usually a problem
 - either too many data engineers / site reliability engineers
 - or a gap (no holistic approach) as separated into segregated teams in different parts of company hierarchy
 - do **not** use cannons to kill flies https://towardsdatascience.com/what-frustrates-data-scientists-in-machine-learning-projects-3398919a7c79
