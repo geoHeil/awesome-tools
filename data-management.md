@@ -56,6 +56,8 @@
   - https://github.com/xyzy-web/dagster-exchangerates
 - airflow problems
     -  https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753
+- examples
+  - https://github.com/dagster-io/mdsfest-opensource-mds
 
 
 ### schema
