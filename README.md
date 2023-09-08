@@ -92,6 +92,8 @@ curated list of awesome tools and libraries for specific domains
     - https://github.com/FRosner/drunken-data-quality
 - packer base images
   - http://chef.github.io/bento/
+- data platform
+  - https://opendatahub.io/
 
 ## time series
 **small**
