@@ -99,6 +99,9 @@ MLops overview: https://github.com/visenger/awesome-mlops
 
 - https://pythonawesome.com/attention-based-grapheme-to-phoneme-with-python/
 
+### rules
+- https://github.com/adaamko/POTATO
+
 ## reprodrucibility
 
 ### population drift monitoring
