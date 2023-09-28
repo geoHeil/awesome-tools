@@ -22,6 +22,7 @@ Useful services (not only) for (starting) a company
 ## HR
 
 - https://www.rippling.com/
+- https://www.turing.com/
 
 ## marketing
 
