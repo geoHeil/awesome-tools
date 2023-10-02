@@ -9,6 +9,10 @@ https://www.youtube.com/watch?v=qvdlLTyUJ5I
 
 ## hosts
 
+### status
+
+- https://www.openstatus.dev/
+
 ### disks
 
 - `ncdu` disk usage fast with a GUI https://dev.yorhel.nl/ncdu
