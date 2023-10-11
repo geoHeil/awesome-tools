@@ -5,6 +5,11 @@
 - https://www.reddit.com/r/dataengineering/comments/1491swe/a_mustread_data_engineering_collection/
 
 
+## stack example
+
+- data
+ - https://github.com/cnstlungu/portable-data-stack-dagster/tree/main
+
 ## environment handling
 
 - https://palm-cli.readthedocs.io/en/latest/introduction/examples.html
