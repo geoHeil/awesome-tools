@@ -193,3 +193,8 @@
 - 
 
 - https://github.com/IvorySQL/IvorySQL
+
+
+## web automation
+
+- https://playwright.dev/ (apparently good for scraping)
