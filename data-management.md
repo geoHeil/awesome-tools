@@ -9,6 +9,7 @@
 
 - data
  - https://github.com/cnstlungu/portable-data-stack-dagster/tree/main
+ - https://github.com/dagster-io/dagster-open-platform
 
 ## environment handling
 
