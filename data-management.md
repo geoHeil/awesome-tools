@@ -195,6 +195,11 @@
 
 - https://github.com/IvorySQL/IvorySQL
 
+## scaling DBT
+
+-  Unlocking model governance and multi-project deployments with dbt-meshify - Coalesce 2023  https://www.youtube.com/watch?v=FAsY0Qx8EyU https://dbt-labs.github.io/dbt-meshify/0.5/
+-  datafold demo https://www.youtube.com/watch?v=5Xxm6cYRmFg
+-  JSON schema https://www.youtube.com/watch?v=z8y7mvOUFsY https://github.com/GClunies/Reflekt
 
 ## web automation
 
