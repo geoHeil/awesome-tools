@@ -149,3 +149,6 @@ workarounds:
 - If you separate the thinking about things from the doing of things, then innovation will suffer; https://berthub.eu/articles/posts/how-tech-loses-out/
 
 
+## google learnings
+- SRE https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/
+
