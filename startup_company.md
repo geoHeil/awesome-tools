@@ -24,6 +24,9 @@ Useful services (not only) for (starting) a company
 - https://www.rippling.com/
 - https://www.turing.com/
 
+### time booking
+- https://www.kimai.org/
+
 ## marketing
 
 - https://matomo.org/
@@ -123,6 +126,16 @@ Useful services (not only) for (starting) a company
 
 - https://airtable.com/shrVkzKl8rjQV38AZ/tbliSnfbucggubrwp/viwQqEKIx4rDDgD3j?blocks=hide
 
+### document signing
+
+- docusign
+- https://documenso.com/
+- https://github.com/OpenSignLabs/OpenSign
+- https://github.com/docusealco/docuseal
+
+### video conferencing
+- https://opencollective.com/meet-coop/updates/announcement-meet-coop-2-0-is-here
+- jitsi
 
 # enterprise
 
