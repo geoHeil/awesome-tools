@@ -81,6 +81,9 @@ Useful services (not only) for (starting) a company
 - https://docs.getdbt.com/docs/introduction
 - https://www.metaplane.dev
 - https://directus.io/engine/ https://github.com/directus/directus/
+- https://formbricks.com/
+- https://posthog.com/
+- https://sentry.io/welcome/
 
 - https://retina.ai/blog/dataops-principles/
 
