@@ -20,6 +20,11 @@ Useful services (not only) for (starting) a company
 - https://n8n.io/cloud/?ref=osit&utm_source=affiliate
 - https://github.com/mailhog/MailHog
 
+### mail
+
+- encrypted
+  - https://tuta.com/de/
+
 ## HR
 
 - https://www.rippling.com/
