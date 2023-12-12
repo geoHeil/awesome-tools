@@ -95,6 +95,11 @@ Useful services (not only) for (starting) a company
 
 - https://retina.ai/blog/dataops-principles/
 
+#### workflows
+
+- dagster https://docs.dagster.io/integrations/embedded-elt
+- https://www.tines.com/
+- https://wem.io/
 
 #### forms
 
