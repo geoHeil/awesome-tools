@@ -50,6 +50,7 @@ Useful services (not only) for (starting) a company
 ## finance
 
 - founding / payments https://stripe.com/atlas
+- split bills https://spliit.app/?ref=hn
 
 ### billing
 
