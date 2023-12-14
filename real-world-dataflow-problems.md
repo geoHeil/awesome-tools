@@ -152,3 +152,11 @@ workarounds:
 ## google learnings
 - SRE https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/
 
+
+## architecture and cloud
+
+https://thefrugalarchitect.com/
+
+## project management - general
+
+- Ensure you have no colliding / diametral goals
