@@ -3,7 +3,7 @@
 Useful services (not only) for (starting) a company
 
 ## founding
-### story telling
+### storytelling
 
 - https://tome.app
 
@@ -46,6 +46,10 @@ Useful services (not only) for (starting) a company
 - https://github.com/lightdash/lightdash#quick-start https://www.lightdash.com/
 - https://www.metabase.com/
 - https://evidence.dev/
+
+## legal
+
+- validate name is not claimed by anyone else https://euipo.europa.eu/eSearch/#basic/1+1+1+1/100+100+100+100/
 
 ## finance
 
