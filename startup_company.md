@@ -111,6 +111,11 @@ Useful services (not only) for (starting) a company
 - https://directus.io/engine/ https://github.com/directus/directus/
 - https://pocketbase.io/
   - pockethost.io
+  - https://fly.io
+  - frontend
+    - https://alpinejs.dev/
+    - https://htmx.org/ https://hypermedia.systems/
+    - https://vanjs.org/demo#hello-world
 
 #### workflows
 
