@@ -80,6 +80,11 @@ Useful services (not only) for (starting) a company
 
 ## software
 
+### office / productivity
+
+- MS Office
+- https://nino.app/
+
 ### prototyping
 
 - https://wireflow.co/
@@ -95,13 +100,17 @@ Useful services (not only) for (starting) a company
 - https://open-metadata.org/
 - https://docs.getdbt.com/docs/introduction
 - https://www.metaplane.dev
-- https://directus.io/engine/ https://github.com/directus/directus/
 - https://formbricks.com/
 - https://github.com/calcom/cal.com
 - https://posthog.com/
 - https://sentry.io/welcome/
 
 - https://retina.ai/blog/dataops-principles/
+#### backends
+
+- https://directus.io/engine/ https://github.com/directus/directus/
+- https://pocketbase.io/
+  - pockethost.io
 
 #### workflows
 
