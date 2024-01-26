@@ -40,6 +40,7 @@ Useful services (not only) for (starting) a company
 
 - https://matomo.org/
 - https://plausible.io/
+- https://github.com/goenning/google-indexing-script
 
 ### analytics
 - https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1
@@ -58,6 +59,10 @@ Useful services (not only) for (starting) a company
 
 - founding / payments https://stripe.com/atlas
 - split bills https://spliit.app/?ref=hn
+
+### funding
+
+- https://www.fundingsimulator.com/
 
 ### billing
 
