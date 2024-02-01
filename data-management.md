@@ -145,6 +145,19 @@
 - https://bulwark.readthedocs.io/en/latest/index.html
 -  https://github.com/datafold/data-diff
 
+### ingestion
+
+#### convenience
+
+- https://slingdata.io/
+- https://airbyte.com/
+- https://docs.dagster.io/integrations/embedded-elt
+
+#### big data
+
+- https://inlong.apache.org/
+- https://seatunnel.apache.org/
+
 ### orchestration
 - Airflow
 - prefect
