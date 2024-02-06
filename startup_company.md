@@ -148,6 +148,7 @@ Useful services (not only) for (starting) a company
 ## support
 
 - https://www.loom.com
+- https://github.com/rsrohan99/llamabot?__s=veeebstmvghwo4ozbvkh&utm_source=drip&utm_medium=email&utm_campaign=LlamaIndex+news%2C+2024-02-06
 
 ## community
 
