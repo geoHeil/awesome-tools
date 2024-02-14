@@ -32,3 +32,7 @@
 ## dev tooling
 
 - https://trunk.io/
+
+### editors
+
+- https://zed.dev/
