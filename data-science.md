@@ -198,3 +198,10 @@ basically SQL-based sync & incremental updates of data to many systems and repor
 ## marketing
 
 - https://facebookexperimental.github.io/Robyn/
+
+
+# text processing
+
+## ocr
+
+- https://github.com/VikParuchuri/surya
