@@ -114,6 +114,11 @@ Useful services (not only) for (starting) a company
 - https://sentry.io/welcome/
 
 - https://retina.ai/blog/dataops-principles/
+#### BI
+
+- https://rowzero.io/
+- https://marimo.app/
+
 #### backends
 
 - https://directus.io/engine/ https://github.com/directus/directus/
