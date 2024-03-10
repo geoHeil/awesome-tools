@@ -36,3 +36,8 @@
 ### editors
 
 - https://zed.dev/
+
+## web requests
+
+- https://www.usebruno.com/
+- 
