@@ -130,7 +130,7 @@ workarounds:
 - Hadoop archives HAR https://github.com/ZuInnoTe/hadoopoffice/wiki/Improve-performance-for-processing-a-lot-of-small-Office-files-with-Hadoop-Archives-(HAR)
 - kafka
 
-**specific helpufl issues**
+**specific helpful issues**
 - spark HBase kerberized: https://community.hortonworks.com/content/supportkb/198599/how-to-config-spark-to-connect-to-hbase-in-a-kerbe.html
 - approximation design patterns https://streaml.io/blog/eda-real-time-analytics-with-pulsar-functions
 
