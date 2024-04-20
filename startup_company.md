@@ -88,6 +88,10 @@ Useful services (not only) for (starting) a company
 
 ## software
 
+### hosting
+
+- simplicity with local https://grski.pl/self-host
+
 ### office / productivity
 
 - MS Office
