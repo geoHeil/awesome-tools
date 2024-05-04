@@ -7,6 +7,14 @@ https://www.youtube.com/watch?v=qvdlLTyUJ5I
 
 # devops / ops
 
+## identity management
+
+- https://spiffe.io/
+
+## secrets
+
+- https://github.com/Infisical/infisical/blob/main/README.md
+
 ## hosts
 
 ### status
