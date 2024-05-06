@@ -69,6 +69,10 @@ Useful services (not only) for (starting) a company
 - Pricing: https://www.tier.run/
 - https://www.getlago.com/
 - https://github.com/killbill/killbill
+- https://hyperswitch.io/
+- https://www.ballerine.com/
+- https://tigerbeetle.com/
+- https://www.corefin.com/
 
 ### invoicing
 
