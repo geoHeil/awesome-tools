@@ -160,3 +160,4 @@ https://thefrugalarchitect.com/
 ## project management - general
 
 - Ensure you have no colliding / diametral goals
+- https://github.com/sbalnojan/run-a-data-team
