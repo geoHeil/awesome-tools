@@ -112,6 +112,7 @@ Useful services (not only) for (starting) a company
 
 ### data
 
+- https://github.com/sbalnojan/run-a-data-team
 - https://dagster.io/
 - https://open-metadata.org/
 - https://docs.getdbt.com/docs/introduction
