@@ -41,3 +41,10 @@
 
 - https://www.usebruno.com/
 - 
+
+
+## Rust tips
+
+- https://blog.sdf.com/p/fast-development-in-rust-part-one
+- https://blog.sdf.com/p/fast-development-in-rust-part-2
+- 
