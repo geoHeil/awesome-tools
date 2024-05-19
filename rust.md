@@ -8,3 +8,10 @@
 
 ## rust and python
 - https://pyo3.rs/v0.21.2/
+
+
+## toolchain
+
+### linters
+
+- clippy https://doc.rust-lang.org/clippy/installation.html
