@@ -50,3 +50,5 @@
 
 - errors
   - https://crates.io/crates/thiserror
+- parallelism
+  - https://github.com/rayon-rs/rayon
