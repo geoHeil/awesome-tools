@@ -6,6 +6,9 @@
 - https://www.zero2prod.com/index.html?country=Austria&discount_code=VAT20
 - https://rust-exercises.com/
 
+### macros
+- https://veykril.github.io/tlborm/
+
 ## rust and python
 - https://pyo3.rs/v0.21.2/
 
