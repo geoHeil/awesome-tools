@@ -39,3 +39,7 @@
 - https://github.com/LukeMathWalker/pavex
 - https://actix.rs/
 
+
+### build
+
+- multi project build with workspaces https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html
