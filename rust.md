@@ -29,3 +29,9 @@
   ```
   #[derive(PartialEq)]
   ```
+
+### web frameworks
+
+- https://github.com/LukeMathWalker/pavex
+- https://actix.rs/
+
