@@ -220,3 +220,13 @@
 ## web automation
 
 - https://playwright.dev/ (apparently good for scraping)
+
+
+## modern data startups
+
+- https://localfirstweb.dev/
+- https://www.5x.co/
+- https://www.propeldata.com/
+- https://www.tinybird.co/
+- https://www.bauplanlabs.com/
+
