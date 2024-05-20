@@ -43,3 +43,9 @@
 ### build
 
 - multi project build with workspaces https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html
+
+
+### useful crates
+
+- errors
+  - https://crates.io/crates/thiserror
