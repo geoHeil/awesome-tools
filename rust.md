@@ -73,10 +73,11 @@
 
 - https://github.com/LukeMathWalker/pavex
 - https://actix.rs/
-
-
-### build
-
+- https://github.com/poem-web/poem
+- open api doc
+  - https://docs.rs/utoipa/latest/utoipa/
+  - https://github.com/paperclip-rs/paperclip
+- 
 
 
 
