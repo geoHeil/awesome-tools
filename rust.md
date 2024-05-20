@@ -24,6 +24,5 @@
 
 - automatically derive macros i.e. for equality https://rust-exercises.com/04_traits/04_derive
   ```
-  #[automatically_derived]
   #[derive(PartialEq)]
   ```
