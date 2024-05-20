@@ -5,6 +5,7 @@
 - https://github.com/rust-lang/rustlings
 - https://www.zero2prod.com/index.html?country=Austria&discount_code=VAT20
 - https://rust-exercises.com/
+- https://github.com/sger/RustBooks
 
 ### macros
 - https://veykril.github.io/tlborm/
