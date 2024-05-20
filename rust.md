@@ -52,3 +52,5 @@
   - https://crates.io/crates/thiserror
 - parallelism
   - https://github.com/rayon-rs/rayon
+- frontend
+  - Tauri https://tauri.app/ (electron like)
