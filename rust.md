@@ -30,6 +30,10 @@
   #[derive(PartialEq)]
   ```
 
+### architecture in rust
+
+- https://alexis-lozano.com/hexagonal-architecture-in-rust-1/
+
 ### web frameworks
 
 - https://github.com/LukeMathWalker/pavex
