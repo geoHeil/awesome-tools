@@ -43,6 +43,10 @@
 
 - clippy https://doc.rust-lang.org/clippy/installation.html
 
+### databases & ORM
+
+- https://github.com/launchbadge/sqlx
+
 ### testing
 
 - https://github.com/rust-lang/miri
