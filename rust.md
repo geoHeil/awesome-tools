@@ -37,12 +37,13 @@
 
 ### formatting
 
-- https://github.com/rust-lang/rustfmt
-- `cargo fmt`
+- https://github.com/rust-lang/rustfmt ` rustup component add rustfmt`, `cargo fmt`, ` cargo fmt -- --check`
 
 ### linters
 
-- clippy https://doc.rust-lang.org/clippy/installation.html
+- clippy https://doc.rust-lang.org/clippy/installation.html ` rustup component add clippy`, `cargo clippy`, `cargo clippy -- -D warnings`
+- security audit ` cargo install cargo-audit`, `cargo audit`
+- https://github.com/EmbarkStudios/cargo-deny `cargo install --locked cargo-deny && cargo deny init && cargo deny check`
 
 ### databases & ORM
 
@@ -55,7 +56,7 @@
 - https://github.com/obi1kenobi/cargo-semver-checks
 - https://crates.io/crates/criterion
 - coverage
-  - https://docs.rs/cargo-tarpaulin/latest/cargo_tarpaulin/
+  - https://docs.rs/cargo-tarpaulin/latest/cargo_tarpaulin/ `cargo install cargo-tarpaulin` ` cargo tarpaulin --ignore-tests`
 
 ## learnings
 
