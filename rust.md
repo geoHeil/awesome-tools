@@ -24,6 +24,7 @@
 
 - multi project build with workspaces https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html
 - optimize build config https://github.com/Kobzol/cargo-wizard
+- `cargo-watch` with `cargo watch -x check`
 
 ### dependencies
 - https://www.lurklurk.org/effective-rust/dep-graph.html cargo-udeps/cargo-deny
