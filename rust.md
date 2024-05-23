@@ -59,6 +59,7 @@
 
 ### testing
 
+- https://github.com/la10736/rstest
 - https://github.com/rust-lang/miri
 - https://github.com/rust-fuzz/cargo-fuzz
 - https://github.com/obi1kenobi/cargo-semver-checks
