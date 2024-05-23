@@ -26,6 +26,14 @@
 - optimize build config https://github.com/Kobzol/cargo-wizard
 - `cargo-watch` with `cargo watch -x check`
 
+### ci-cd examples
+
+- https://gist.github.com/FedericoPonzi/873aea22b652572f5995f23b86543fdb
+- https://github.com/f2calv/multi-arch-container-rust
+- https://blog.urth.org/2023/03/05/cross-compiling-rust-projects-in-github-actions/
+- https://github.com/dirien/rust-cross-compile
+
+  
 ### dependencies
 - https://www.lurklurk.org/effective-rust/dep-graph.html cargo-udeps/cargo-deny
 
