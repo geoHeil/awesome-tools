@@ -25,6 +25,7 @@
 - multi project build with workspaces https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html
 - optimize build config https://github.com/Kobzol/cargo-wizard
 - `cargo-watch` with `cargo watch -x check`
+- sort cargo dependencies https://github.com/DevinR528/cargo-sort
 
 ### ci-cd examples
 
