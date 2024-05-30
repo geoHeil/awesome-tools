@@ -4,11 +4,29 @@
 
 - https://scrapy.org/
   - https://github.com/scrapy-plugins/scrapy-playwright
+- drip crawler https://rapidapi.com/markhorverse-markhorverse-default/api/dripcrawler
+- js browser automation comparison
+  - https://medium.com/@fujia1742/web-scraping-showdown-comparing-selenium-puppeteer-and-playwright-59f5c662ae21
+  - https://blog.apify.com/playwright-vs-selenium-webscraping/
+- https://www.zenrows.com/blog/web-scraping-tools
+- https://www.scrapingbee.com/
+ 
+- no-code/low-code tools
+  - https://pixeljets.com/web-scraping-api/
  
 ### tutorials
 
 - https://scrapeops.io/python-scrapy-playbook/scrapy-playwright/
 - https://www.zenrows.com/blog/scrapy-playwright#install-scrapy-playwright
+- https://playwright.dev/python/docs/debug
+- rust
+  - https://www.zenrows.com/blog/rust-web-scraping#extract-html-data
+  - https://www.scrapingbee.com/blog/web-scraping-rust/k
+  - https://itehax.com/blog/web-scraping-using-rust
+  - https://github.com/kxzk/scraping-with-rust
+  - https://www.scrapingdog.com/blog/web-scraping-with-rust/
+  - https://www.reddit.com/r/rust/comments/18e5wlf/web_scraping_with_playwright/ https://github.com/mattsse/chromiumoxide
+- https://substack.thewebscraping.club/
 
 ## deployments
 
@@ -23,7 +41,19 @@
 ## detection / evasion
 
 - `!antibot` in discord or self hosted to check
-- 
+- https://www.wappalyzer.com/
+- https://scrapingfish.com/webscraping-benchmark
+- https://www.zenrows.com/solutions/web-unblocker
+- https://substack.thewebscraping.club/p/why-scraper-is-blocked
+
+### proxy
+
+- https://free-proxy-list.net/
+- https://scrapeops.io/
+- https://proxy-seller.com/de/proxy-for-scrapy/
+- example
+  - https://scrapeops.io/python-scrapy-playbook/scrapy-playwright/
+  - https://www.zenrows.com/blog/scrapy-playwright#avoid-getting-blocked****
 
 
 ## sample scrapers
