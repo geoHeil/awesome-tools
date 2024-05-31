@@ -2,7 +2,7 @@
 
 ## tools
 
-- https://scrapy.org/
+- https://scrapy.org/ and https://spidermon.readthedocs.io/en/latest/
   - https://github.com/scrapy-plugins/scrapy-playwright
 - drip crawler https://rapidapi.com/markhorverse-markhorverse-default/api/dripcrawler
 - js browser automation comparison
@@ -10,6 +10,7 @@
   - https://blog.apify.com/playwright-vs-selenium-webscraping/
 - https://www.zenrows.com/blog/web-scraping-tools
 - https://www.scrapingbee.com/
+- https://www.zyte.com/scrapy-cloud/
  
 - no-code/low-code tools
   - https://pixeljets.com/web-scraping-api/
@@ -54,6 +55,7 @@
 - example
   - https://scrapeops.io/python-scrapy-playbook/scrapy-playwright/
   - https://www.zenrows.com/blog/scrapy-playwright#avoid-getting-blocked****
+  - https://www.zyte.com/scrapy-cloud/
 
 
 ## sample scrapers
