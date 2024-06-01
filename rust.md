@@ -13,6 +13,10 @@
   - https://www.manning.com/books/rust-design-patterns
   - https://nnethercote.github.io/perf-book/introduction.html
 
+### Tips
+- https://blog.sdf.com/p/fast-development-in-rust-part-one
+- https://blog.sdf.com/p/fast-development-in-rust-part-2
+
 ### macros
 - https://veykril.github.io/tlborm/
 
