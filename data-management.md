@@ -228,5 +228,43 @@
 - https://www.5x.co/
 - https://www.propeldata.com/
 - https://www.tinybird.co/
+
+
+## interesting databases
+
+- Postgres
+- DuckDB
+- Starrocks
+- https://risingwave.com/
+- https://github.com/datafuselabs/databend
+- https://cratedb.com/
+- https://materialize.com/
+
+### timeseries
+
+- timescale https://www.timescale.com/
+- https://www.timeplus.com/
+- https://questdb.io/
+- https://tembo.io/blog/pg-timeseries
+
+### key-value (like)
+
+- Redis
+- https://github.com/valkey-io/valkey
+- https://aws.amazon.com/de/elasticache/
+- https://aws.amazon.com/de/memorydb/
+- https://www.memcached.org
 - https://www.bauplanlabs.com/
+- https://hazelcast.com
+- https://www.dragonflydb.io/redis-alternative
+
+
+## interesting message queues
+
+- https://zeromq.org/
+- 
+### on basis of PostgreSQL
+- https://github.com/tembo-io/pgmq
+- https://github.com/hatchet-dev/hatchet
+
 
