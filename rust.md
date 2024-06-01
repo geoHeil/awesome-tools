@@ -2,8 +2,8 @@
 
 ## learning rust
 
+- **https://www.zero2prod.com/index.html?country=Austria&discount_code=VAT20** truely awesome!
 - https://github.com/rust-lang/rustlings
-- https://www.zero2prod.com/index.html?country=Austria&discount_code=VAT20
 - https://rust-exercises.com/
 - https://github.com/sger/RustBooks
   - https://rust-unofficial.github.io/patterns/idioms/coercion-arguments.html
