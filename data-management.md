@@ -258,6 +258,12 @@
 - https://hazelcast.com
 - https://www.dragonflydb.io/redis-alternative
 
+### log structured data structures and brokers
+
+- https://github.com/microsoft/FASTER and https://github.com/faster-rs/faster-rs
+- https://redpanda.com/
+- https://kafka.apache.org/
+
 
 ## interesting message queues
 
