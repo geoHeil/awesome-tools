@@ -102,3 +102,5 @@
 - frontend
   - Tauri https://tauri.app/ (electron like)
   - https://github.com/redbadger/crux
+- IO
+  - https://opendal.apache.org/
