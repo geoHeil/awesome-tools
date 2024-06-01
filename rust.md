@@ -110,3 +110,7 @@
   - https://github.com/redbadger/crux
 - IO
   - https://opendal.apache.org/
+
+## embedded
+
+- https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
