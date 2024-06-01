@@ -235,10 +235,15 @@
 - Postgres
 - DuckDB
 - Starrocks
-- https://risingwave.com/
 - https://github.com/datafuselabs/databend
 - https://cratedb.com/
+
+### streaming
+
+- https://github.com/infinyon/fluvio
+- https://risingwave.com/
 - https://materialize.com/
+- https://www.decodable.co/
 
 ### timeseries
 
