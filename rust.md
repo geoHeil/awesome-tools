@@ -102,6 +102,7 @@
 (not only rust specific)
 
 - https://owasp.org/www-project-application-security-verification-standard/
+- https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html
 
 ### useful crates
 
