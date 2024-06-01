@@ -97,7 +97,11 @@
   - https://docs.rs/utoipa/latest/utoipa/
   - https://github.com/paperclip-rs/paperclip
 
+### security
 
+(not only rust specific)
+
+- https://owasp.org/www-project-application-security-verification-standard/
 
 ### useful crates
 
