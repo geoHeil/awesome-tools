@@ -114,6 +114,7 @@
 
 - authorization
   - https://github.com/resyncgg/dacquiri
+  - https://github.com/authzed/spicedb
 
 ### useful crates
 
