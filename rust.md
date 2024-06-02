@@ -62,6 +62,7 @@
 - clippy https://doc.rust-lang.org/clippy/installation.html ` rustup component add clippy`, `cargo clippy`, `cargo clippy -- -D warnings`
 - security audit ` cargo install cargo-audit`, `cargo audit`
 - https://github.com/EmbarkStudios/cargo-deny `cargo install --locked cargo-deny && cargo deny init && cargo deny check`
+- semver https://github.com/obi1kenobi/cargo-semver-checks
 
 ### databases & ORM
 
@@ -108,6 +109,11 @@
 
 - https://owasp.org/www-project-application-security-verification-standard/
 - https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html
+
+#### security-web
+
+- authorization
+  - https://github.com/resyncgg/dacquiri
 
 ### useful crates
 
