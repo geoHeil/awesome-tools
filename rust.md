@@ -106,6 +106,10 @@
   - https://docs.rs/utoipa/latest/utoipa/
   - https://github.com/paperclip-rs/paperclip
 
+### template engines
+
+- https://github.com/djc/askama
+  
 ### security
 
 (not only rust specific)
