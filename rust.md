@@ -115,6 +115,7 @@
 - authorization
   - https://github.com/resyncgg/dacquiri
   - https://github.com/authzed/spicedb
+  - acticx RBAC https://github.com/casbin/casbin-rs and https://github.com/casbin-rs/actix-casbin
 
 ### useful crates
 
