@@ -38,6 +38,7 @@
 
 - https://burgers.io/cross-compile-rust-from-arm-to-x86-64
 - https://github.com/rust-cross/cargo-zigbuild
+- https://github.com/cross-rs/cross
 
 ### scaling the build beyond kargo
 
