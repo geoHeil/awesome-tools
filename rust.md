@@ -33,6 +33,12 @@
 - releasese
   - https://github.com/MarcoIeni/release-plz
   - example https://github.com/deepcausality-rs/deep_causality
+ 
+### cross compilation
+
+- https://burgers.io/cross-compile-rust-from-arm-to-x86-64
+- https://github.com/rust-cross/cargo-zigbuild
+
 ### scaling the build beyond kargo
 
 - https://mmapped.blog/posts/17-scaling-rust-builds-with-bazel
