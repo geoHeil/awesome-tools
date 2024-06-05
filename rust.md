@@ -41,7 +41,13 @@
 - https://github.com/cross-rs/cross
 - https://github.com/messense/homebrew-macos-cross-toolchains
 
-### scaling the build beyond kargo
+### static builds
+
+> In the case of MUSL ensure to:
+> - use an alternative allocator such as mimalloc by patching MSUL
+> - or directly compile it together (may be simpler for bazel) https://github.com/linkerd/linkerd2/commit/aaa6091ea86eb988e68eda16bdc9b59db9d96076#diff-63a2e5c64764a441fcbc73dc27b1a8e684df057ffd54ad39e66e2a643020eb0d
+
+### scaling the build beyond cargo
 
 - https://mmapped.blog/posts/17-scaling-rust-builds-with-bazel
 - https://users.rust-lang.org/t/static-linking-for-rust-without-glibc-scratch-image/112279/8
