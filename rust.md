@@ -40,6 +40,7 @@
 - https://github.com/rust-cross/cargo-zigbuild
 - https://github.com/cross-rs/cross
 - https://github.com/messense/homebrew-macos-cross-toolchains
+- https://github.com/clux/muslrust/issues/142#issuecomment-2152638811
 
 ### static builds
 
