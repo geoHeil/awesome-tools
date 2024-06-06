@@ -51,6 +51,12 @@ Useful services (not only) for (starting) a company
 - https://www.metabase.com/
 - https://evidence.dev/
 
+### logging
+
+- sentry
+- https://betterstack.com/logs
+- https://vector.dev/
+
 ## legal
 
 - validate name is not claimed by anyone else https://euipo.europa.eu/eSearch/#basic/1+1+1+1/100+100+100+100/
