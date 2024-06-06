@@ -145,6 +145,10 @@ Useful services (not only) for (starting) a company
     - https://alpinejs.dev/
     - https://htmx.org/ https://hypermedia.systems/
     - https://vanjs.org/demo#hello-world
+#### frontend UI
+
+- https://ui.shadcn.com/
+- https://www.figma.com/community/file/1233953507961010067/tremor-ui-kit-community
 
 #### workflows
 
