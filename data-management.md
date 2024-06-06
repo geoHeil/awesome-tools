@@ -72,6 +72,7 @@
 #### DBT
 
 - dbt-loom with dagster https://github.com/cnolanminich/dbt-loom-example/tree/demo-with-dagster
+- https://github.com/borjavb/dbt-iceberg-poc
 
 
 ### schema
