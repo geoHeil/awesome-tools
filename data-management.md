@@ -68,6 +68,10 @@
     -  https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753
 - examples
   - https://github.com/dagster-io/mdsfest-opensource-mds
+ 
+#### DBT
+
+- dbt-loom with dagster https://github.com/cnolanminich/dbt-loom-example/tree/demo-with-dagster
 
 
 ### schema
