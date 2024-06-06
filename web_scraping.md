@@ -18,9 +18,10 @@
 
 ### AI scraping
 
-- https://github.com/mendableai/firecrawl
-- https://jina.ai/reader/
-- https://github.com/VinciGit00/Scrapegraph-ai
+- https://www.youtube.com/watch?v=QxHE4af5BQE
+  - https://github.com/mendableai/firecrawl
+  - https://jina.ai/reader/
+  - https://github.com/VinciGit00/Scrapegraph-ai
 
 ### tutorials
 
