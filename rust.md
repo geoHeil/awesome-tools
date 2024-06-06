@@ -120,6 +120,7 @@
 - open api doc
   - https://docs.rs/utoipa/latest/utoipa/
   - https://github.com/paperclip-rs/paperclip
+- https://github.com/hyperium/tonic
 
 ### template engines
 
