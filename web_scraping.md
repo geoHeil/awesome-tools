@@ -14,7 +14,14 @@
  
 - no-code/low-code tools
   - https://pixeljets.com/web-scraping-api/
- 
+
+
+### AI scraping
+
+- https://github.com/mendableai/firecrawl
+- https://jina.ai/reader/
+- https://github.com/VinciGit00/Scrapegraph-ai
+
 ### tutorials
 
 - https://scrapeops.io/python-scrapy-playbook/scrapy-playwright/
