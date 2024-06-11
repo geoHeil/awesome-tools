@@ -34,3 +34,14 @@ useful DBT utilities
 - https://github.com/nicholasyager/dbt-loom
 - https://dagster.io/
 - dagster plus loom example https://github.com/cnolanminich/dbt-loom-example/tree/demo-with-dagster
+
+
+## data contracts
+
+- https://github.com/bitol-io/open-data-contract-standard
+- http://datacontract.com/
+- https://docs.getdbt.com/docs/collaborate/govern/about-model-governance
+
+### contract implementations
+
+- https://www.youtube.com/watch?v=bVKuLcqv0kI&t=9s
