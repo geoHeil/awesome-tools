@@ -5,6 +5,7 @@ useful DBT utilities
 ## validation
 
 - https://github.com/dbt-labs/dbt-project-evaluator
+- https://github.com/PicnicSupermarket/dbt-score
 
 ## data testing
 - normal testing
