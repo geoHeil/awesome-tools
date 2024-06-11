@@ -24,6 +24,10 @@ useful DBT utilities
 
 - https://github.com/borjavb/dbt-iceberg-poc
 
+## schema changes
+
+- https://www.getdbt.com/coalesce-2021/surviving-schema-changes-with-automation
+
 ## DBT-cloud alternatives
 
 - https://github.com/nicholasyager/dbt-loom
