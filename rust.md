@@ -124,6 +124,10 @@
   - https://github.com/paperclip-rs/paperclip
 - https://github.com/hyperium/tonic and https://github.com/actix/actix-web/issues/2853
 
+### web utils (built with rust)
+
+- https://exograph.dev/
+
 ### template engines
 
 - https://github.com/djc/askama
