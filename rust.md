@@ -53,6 +53,8 @@
 - https://mmapped.blog/posts/17-scaling-rust-builds-with-bazel
 - https://users.rust-lang.org/t/static-linking-for-rust-without-glibc-scratch-image/112279/8
 - https://github.com/marvin-hansen/fluvio-examples and https://github.com/deepcausality-rs/deep_causality
+- faster linker
+  - https://blog.rust.careers/post/compile_rust_faster/
 
 ### ci-cd examples
 
