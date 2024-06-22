@@ -23,3 +23,8 @@
 ## analytics
 
 - https://plausible.io/
+
+
+## content curation
+
+- https://buffer.com/resources/content-curation-tools/
