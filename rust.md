@@ -3,6 +3,7 @@
 ## learning rust
 
 - **https://www.zero2prod.com/index.html?country=Austria&discount_code=VAT20** truely awesome!
+- **https://www.howtocodeit.com/** really great!
 - https://github.com/rust-lang/rustlings
 - https://rust-exercises.com/
 - https://github.com/sger/RustBooks
