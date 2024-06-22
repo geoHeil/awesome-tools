@@ -13,6 +13,8 @@
   - https://burn.dev/book/overview.html
   - https://www.manning.com/books/rust-design-patterns
   - https://nnethercote.github.io/perf-book/introduction.html
+ 
+- https://antithesis.com/blog/is_something_bugging_you/
 
 ### Tips
 - https://blog.sdf.com/p/fast-development-in-rust-part-one
