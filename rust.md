@@ -110,6 +110,7 @@
 ### architecture in rust
 
 - https://alexis-lozano.com/hexagonal-architecture-in-rust-1/
+- project plan for successful rust https://corrode.dev/blog/successful-rust-business-adoption-checklist/
 
 ### web frameworks
 
