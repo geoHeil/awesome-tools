@@ -18,3 +18,12 @@
 - https://obsproject.com/forum/resources/downstream-keyer.1254/
 - https://obsproject.com/forum/resources/source-clone.1632/
 - https://obsproject.com/forum/resources/move.913/
+
+
+## AI video summarization
+
+- https://klap.app/
+
+## AI video generation
+
+- https://www.heygen.com/
