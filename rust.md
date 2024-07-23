@@ -169,3 +169,7 @@
 ## embedded
 
 - https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+
+## artifact handling
+
+- https://github.com/cenotelie/cratery
