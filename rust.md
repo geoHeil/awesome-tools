@@ -98,6 +98,7 @@
 - https://github.com/rust-fuzz/cargo-fuzz
 - https://github.com/obi1kenobi/cargo-semver-checks
 - https://crates.io/crates/criterion
+- https://nexte.st/
 - coverage
   - https://docs.rs/cargo-tarpaulin/latest/cargo_tarpaulin/ `cargo install cargo-tarpaulin` ` cargo tarpaulin --ignore-tests`
 
