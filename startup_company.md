@@ -56,6 +56,7 @@ Useful services (not only) for (starting) a company
 - sentry
 - https://betterstack.com/logs
 - https://vector.dev/
+- https://posthog.com
 
 ## legal
 
