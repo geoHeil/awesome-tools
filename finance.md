@@ -42,3 +42,8 @@
 #### hardware
 
 - https://trezor.io/
+
+
+## retirement
+
+- https://www.dasinvestment.com/finanzen-altersvorsorge-rentenluecke-berechnen-und-schliessen/
