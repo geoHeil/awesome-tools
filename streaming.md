@@ -63,7 +63,8 @@ I hope you find some useful tips here.
 - https://obsproject.com/forum/resources/downstream-keyer.1254/
 - https://obsproject.com/forum/resources/source-clone.1632/
 - https://obsproject.com/forum/resources/move.913/
-
+- audio mixer
+  - https://www.voxengo.com/product/marvelgeq/
 
 ## AI video summarization
 
