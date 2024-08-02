@@ -19,6 +19,7 @@
 ### Tips
 - https://blog.sdf.com/p/fast-development-in-rust-part-one
 - https://blog.sdf.com/p/fast-development-in-rust-part-2
+- named function arguments https://elastio.github.io/bon/blog/how-to-do-named-function-arguments-in-rust
 
 ### macros
 - https://veykril.github.io/tlborm/
