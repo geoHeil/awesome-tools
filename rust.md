@@ -69,6 +69,9 @@
   
 ### dependencies
 - https://www.lurklurk.org/effective-rust/dep-graph.html cargo-udeps/cargo-deny
+- sbom
+  - https://github.com/rust-secure-code/cargo-auditable
+  - https://github.com/CycloneDX/cyclonedx-rust-cargo/
 
 ### documentation
 - https://www.lurklurk.org/effective-rust/documentation.html
