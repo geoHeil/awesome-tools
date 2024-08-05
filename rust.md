@@ -154,6 +154,8 @@
   - https://github.com/resyncgg/dacquiri
   - https://github.com/authzed/spicedb
   - acticx RBAC https://github.com/casbin/casbin-rs and https://github.com/casbin-rs/actix-casbin
+- request validation
+  - https://github.com/ranger-ross/actix-web-validation
 - tools https://github.com/osirislab/awesome-rust-security/blob/master/README.md
 
 ### useful crates
