@@ -278,6 +278,11 @@
 - https://redpanda.com/
 - https://kafka.apache.org/
 
+### text search
+
+- https://github.com/paradedb/paradedb https://blog.paradedb.com/pages/elasticsearch_vs_postgres
+  - https://github.com/quickwit-oss/tantivy
+
 
 ## interesting message queues
 
