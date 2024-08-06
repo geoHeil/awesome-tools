@@ -40,6 +40,7 @@
 ### vpns
 
 - https://tailscale.com/
+- https://www.firezone.dev/
 
 
 # business
