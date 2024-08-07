@@ -44,6 +44,9 @@ I realized that my photo camera can also record videos. Since then, I always use
 I hope you find some useful tips here.
 
 
+### atem mini tricks
+
+- ISO davinci resolve integration https://www.youtube.com/watch?v=YtsVUtm9jmE
 
 ## paid
 - https://streamyard.com/
