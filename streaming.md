@@ -52,6 +52,7 @@ I hope you find some useful tips here.
 
 ## paid
 - https://streamyard.com/
+- https://www.ecamm.com/
 
 ## opensource
 - https://obsproject.com/de
