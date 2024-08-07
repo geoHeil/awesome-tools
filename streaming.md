@@ -47,6 +47,8 @@ I hope you find some useful tips here.
 ### atem mini tricks
 
 - ISO davinci resolve integration https://www.youtube.com/watch?v=YtsVUtm9jmE
+- remote guest atem
+  - https://www.youtube.com/watch?v=fKpusuY-cjs
 
 ## paid
 - https://streamyard.com/
