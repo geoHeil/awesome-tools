@@ -73,6 +73,7 @@ I hope you find some useful tips here.
 - https://obsproject.com/forum/resources/move.913/
 - audio mixer
   - https://www.voxengo.com/product/marvelgeq/
+- https://obsproject.com/forum/resources/source-record.1285/
 
 ## AI video summarization
 
