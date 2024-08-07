@@ -46,7 +46,9 @@ I hope you find some useful tips here.
 
 ### atem mini tricks
 
-- ISO davinci resolve integration https://www.youtube.com/watch?v=YtsVUtm9jmE
+- ISO davinci resolve integration
+  - https://www.youtube.com/watch?v=YtsVUtm9jmE
+  - 4k https://www.youtube.com/watch?v=CZpcvqOPAKo
 - remote guest atem
   - https://www.youtube.com/watch?v=fKpusuY-cjs
 
