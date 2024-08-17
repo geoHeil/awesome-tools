@@ -100,4 +100,8 @@ I hope you find some useful tips here.
 ## streaming server
 
 - https://owncast.online/
-- 
+
+
+## zoom tips
+
+- https://www.youtube.com/watch?v=I473FLo-Bug
