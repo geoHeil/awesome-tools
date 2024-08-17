@@ -76,6 +76,7 @@ I hope you find some useful tips here.
 - https://obsproject.com/forum/resources/source-record.1285/
 - https://obsproject.com/forum/resources/aitum-vertical.1715/ vertical
 - https://streamer.bot/features
+- combined sourc switcher https://obsproject.com/forum/resources/source-switcher.941/ with move transition https://github.com/exeldro/obs-move-transition
 
 ## AI video summarization
 
