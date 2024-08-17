@@ -88,3 +88,8 @@ I hope you find some useful tips here.
 ## transcription & captions
 
 - https://sonix.ai/de
+
+## multi streaming
+
+- https://www.boxcast.com/
+- https://restream.io
