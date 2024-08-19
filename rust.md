@@ -105,6 +105,9 @@
 - https://nexte.st/
 - coverage
   - https://docs.rs/cargo-tarpaulin/latest/cargo_tarpaulin/ `cargo install cargo-tarpaulin` ` cargo tarpaulin --ignore-tests`
+ 
+#### mocking
+- https://docs.rs/mockall/latest/mockall/
 
 ## learnings
 
