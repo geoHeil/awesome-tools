@@ -183,3 +183,8 @@
 ## artifact handling
 
 - https://github.com/cenotelie/cratery
+
+
+## logging & observability
+
+- https://signoz.io/
