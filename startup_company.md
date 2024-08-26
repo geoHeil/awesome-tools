@@ -75,6 +75,7 @@ Useful services (not only) for (starting) a company
 
 - Pricing: https://www.tier.run/
 - https://www.getlago.com/
+  - https://github.com/getlago/lago/wiki/Stripe-Data-vs-Open‐Source-Alternatives:-a-MRR-example
 - https://github.com/killbill/killbill
 - https://hyperswitch.io/
 - https://www.ballerine.com/
