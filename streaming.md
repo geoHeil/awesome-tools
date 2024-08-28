@@ -105,3 +105,7 @@ I hope you find some useful tips here.
 ## zoom tips
 
 - https://www.youtube.com/watch?v=I473FLo-Bug
+
+## ppt tips
+
+- wow indeed https://discussions.apple.com/thread/7179965?sortBy=rank open PPT in non full screen mode makes it work
