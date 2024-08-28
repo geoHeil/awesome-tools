@@ -164,6 +164,7 @@
 - https://slingdata.io/
 - https://airbyte.com/
 - https://docs.dagster.io/integrations/embedded-elt
+- https://www.prequel.co/
 
 #### big data
 
