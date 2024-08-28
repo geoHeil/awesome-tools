@@ -116,3 +116,7 @@ I hope you find some useful tips here.
 
 - great makros https://www.a2z-productions.com/atem-resources
 - visual builder and buy of macros https://layouts.heretorecord.com/
+
+## streaming utilities
+
+- https://heretorecord.gitbook.io/h2r-graphics
