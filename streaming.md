@@ -109,3 +109,10 @@ I hope you find some useful tips here.
 ## ppt tips
 
 - wow indeed https://discussions.apple.com/thread/7179965?sortBy=rank open PPT in non full screen mode makes it work
+
+## scene switching
+
+### super source
+
+- great makros https://www.a2z-productions.com/atem-resources
+- visual builder and buy of macros https://layouts.heretorecord.com/
