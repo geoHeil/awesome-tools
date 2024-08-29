@@ -49,6 +49,11 @@ I hope you find some useful tips here.
 - ISO davinci resolve integration
   - https://www.youtube.com/watch?v=YtsVUtm9jmE
   - 4k https://www.youtube.com/watch?v=CZpcvqOPAKo
+  - replay
+    - https://www.youtube.com/watch?v=aMxg4ECnyms
+    - https://www.youtube.com/watch?v=FcDULDr3QQM
+- resolve tricks
+  - https://www.sideshowfx.net/davinci-resolve-color-panel-stream-deck-plus-mac?aff=7 https://jonnyelwyn.co.uk/film-and-video-editing/controlling-davinci-resolve-with-the-stream-deck/
 - remote guest atem
   - https://www.youtube.com/watch?v=fKpusuY-cjs
 
