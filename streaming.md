@@ -66,6 +66,8 @@ I hope you find some useful tips here.
   - https://vdo.ninja/
     - https://docs.vdo.ninja/advanced-settings/setup-parameters/and-sink
     - https://docs.vdo.ninja/advanced-settings/setup-parameters/and-audiooutput
+    - !!! https://github.com/steveseguin/electroncapture !!!
+    - Quality https://docs.vdo.ninja/getting-started/even-higher-quality-video
   - https://support.volume.com/hc/en-us/articles/4425732789911-Feature-Live-Guests-with-VDO-Ninja-OBS
 
 ### obs plugins
