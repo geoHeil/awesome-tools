@@ -64,6 +64,8 @@ I hope you find some useful tips here.
 ## opensource
 - https://obsproject.com/de
   - https://vdo.ninja/
+    - https://docs.vdo.ninja/advanced-settings/setup-parameters/and-sink
+    - https://docs.vdo.ninja/advanced-settings/setup-parameters/and-audiooutput
   - https://support.volume.com/hc/en-us/articles/4425732789911-Feature-Live-Guests-with-VDO-Ninja-OBS
 
 ### obs plugins
