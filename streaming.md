@@ -105,6 +105,7 @@ I hope you find some useful tips here.
 ## zoom tips
 
 - https://www.youtube.com/watch?v=I473FLo-Bug
+- https://www.youtube.com/watch?v=aK4S4wrmhF4&t=531s
 
 ## ppt tips
 
