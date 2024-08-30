@@ -56,6 +56,8 @@ I hope you find some useful tips here.
   - https://www.sideshowfx.net/davinci-resolve-color-panel-stream-deck-plus-mac?aff=7 https://jonnyelwyn.co.uk/film-and-video-editing/controlling-davinci-resolve-with-the-stream-deck/
 - remote guest atem
   - https://www.youtube.com/watch?v=fKpusuY-cjs
+- macros
+  - https://www.youtube.com/watch?v=BegP_UWs454
 
 ## paid
 - https://streamyard.com/
