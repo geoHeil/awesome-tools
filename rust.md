@@ -90,6 +90,7 @@
 - security audit ` cargo install cargo-audit`, `cargo audit`
 - https://github.com/EmbarkStudios/cargo-deny `cargo install --locked cargo-deny && cargo deny init && cargo deny check`
 - semver https://github.com/obi1kenobi/cargo-semver-checks
+- `cargo-udeps` to delete unused dependencies
 
 ### databases & ORM
 
