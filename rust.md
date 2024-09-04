@@ -118,6 +118,7 @@
   ```
   #[derive(PartialEq)]
   ```
+- https://docs.rs/derive_more/latest/derive_more/
 
 ### architecture in rust
 
