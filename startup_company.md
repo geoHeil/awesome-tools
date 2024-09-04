@@ -25,6 +25,10 @@ Useful services (not only) for (starting) a company
 - encrypted
   - https://tuta.com/de/
 
+## ERP
+
+- https://github.com/frappe/erpnext
+
 ## HR
 
 - https://www.rippling.com/
