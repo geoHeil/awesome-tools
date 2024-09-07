@@ -133,3 +133,10 @@ I hope you find some useful tips here.
 
 - https://heretorecord.gitbook.io/h2r-graphics
 - stingers https://stingers.heretorecord.com/
+
+
+## vst plugins
+
+### quality
+
+- https://www.accentize.com/dxrevive/
