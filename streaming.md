@@ -140,3 +140,13 @@ I hope you find some useful tips here.
 ### quality
 
 - https://www.accentize.com/dxrevive/
+
+## stock content
+
+### audio
+
+- https://artlist.io/
+
+### visual
+
+- https://pixabay.com/de/
