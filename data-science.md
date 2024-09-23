@@ -161,6 +161,7 @@ MLops overview: https://github.com/visenger/awesome-mlops
 - https://facebook.github.io/prophet/
 - https://github.com/winedarksea/AutoTS
 - https://github.com/timeseriesAI/tsai
+- https://github.com/AIStream-Peelout/flow-forecast
 
 ### generic timeseries operations
 - https://khiva.readthedocs.io/en/latest/
