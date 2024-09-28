@@ -3,6 +3,7 @@
 ## videos/knowledge share
 
 - https://www.youtube.com/watch?v=717XfmnThDY https://talks.datenspuren.de/ds24/talk/CQBJL8/
+- https://www.youtube.com/watch?v=R4cr2D_O5Gg https://talks.datenspuren.de/ds24/talk/J8WDNL/
 
 ## communictation
 
