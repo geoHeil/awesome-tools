@@ -189,6 +189,11 @@ Useful services (not only) for (starting) a company
 - https://www.mightynetworks.com/
 - https://github.com/discursus-data/saf_core
 
+## project management
+
+- https://hedgedoc.org/
+- https://wekan.github.io/
+
 ## product
 
 ### communication
