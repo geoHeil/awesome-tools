@@ -174,6 +174,8 @@
   - https://github.com/redbadger/crux
 - IO
   - https://opendal.apache.org/
+- language models
+  - https://docs.rs/kalosm/latest/kalosm/
 ### data engineering and rust
 
 - https://blog.duyet.net/2023/06/fossil-data-platform-written-rust.html
