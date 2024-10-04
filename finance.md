@@ -47,3 +47,8 @@
 ## retirement
 
 - https://www.dasinvestment.com/finanzen-altersvorsorge-rentenluecke-berechnen-und-schliessen/
+
+
+## wealth management
+
+- https://ghostfol.io/en/start
