@@ -294,3 +294,6 @@
 - https://github.com/hatchet-dev/hatchet
 
 
+## self service pipelines
+
+- https://github.com/n8n-io/n8n
