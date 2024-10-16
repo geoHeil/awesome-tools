@@ -188,6 +188,8 @@
 
 - https://github.com/cenotelie/cratery
 
+### profiling
+- https://github.com/tikv/pprof-rs
 
 ## logging & observability
 
