@@ -188,9 +188,14 @@
 
 - https://github.com/cenotelie/cratery
 
-### profiling
-- https://github.com/tikv/pprof-rs
-
 ## logging & observability
 
 - https://signoz.io/
+
+### profiling
+- https://github.com/tikv/pprof-rs
+
+## frameworks
+
+- actor
+  - https://github.com/elfo-rs/elfo
