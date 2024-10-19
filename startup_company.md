@@ -141,6 +141,11 @@ Useful services (not only) for (starting) a company
 - https://marimo.app/
 - omni bi https://omni.co/platform
 
+#### VPN
+
+- wireguard
+  - https://github.com/trailofbits/algo
+
 #### backends
 
 - https://directus.io/engine/ https://github.com/directus/directus/
