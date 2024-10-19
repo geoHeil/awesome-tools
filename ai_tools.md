@@ -5,6 +5,7 @@ https://www.linkedin.com/posts/ghimiresunil_chatgpt-activity-7021128204388057088
 1. Krisp: Krisp's AI removes background voices, noises, and echo from your calls, giving you peace of call
 Link: https://krisp.ai/
 - https://www.opus.pro/
+- https://invideo.io/studio
 
 3. Beatoven: Create unique royalty-free music that elevates your story
 Link: https://www.beatoven.ai/
