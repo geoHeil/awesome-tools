@@ -145,6 +145,8 @@ Useful services (not only) for (starting) a company
 
 - wireguard
   - https://github.com/trailofbits/algo
+  - https://www.twingate.com/
+  - https://tailscale.com/
 
 #### backends
 
