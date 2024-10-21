@@ -91,6 +91,7 @@
 
 - www.gentlydownthe.stream
 - https://gazette.readthedocs.io/en/latest/
+- https://github.com/drasi-project/drasi-platform
 
 #### flink deployments
 
