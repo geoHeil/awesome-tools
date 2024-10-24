@@ -46,6 +46,8 @@ Useful services (not only) for (starting) a company
 - https://plausible.io/
 - https://www.piano.io/
 - https://github.com/goenning/google-indexing-script
+- rudderstack
+  - https://www.netspring.io/
 
 ### analytics
 - https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1
