@@ -206,3 +206,11 @@ basically SQL-based sync & incremental updates of data to many systems and repor
 ## ocr
 
 - https://github.com/VikParuchuri/surya
+
+
+# labeling
+
+- prodigy
+  https://github.com/TutteInstitute/thisnotthat
+ 
+  - 
