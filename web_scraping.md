@@ -22,6 +22,9 @@
   - https://github.com/mendableai/firecrawl
   - https://jina.ai/reader/
   - https://github.com/VinciGit00/Scrapegraph-ai
+- https://github.com/confident-ai/deepeval https://docs.confident-ai.com/
+- https://github.com/deepchecks/deepchecks https://docs.deepchecks.com/stable/getting-started/welcome.html
+- https://github.com/Skyvern-AI/skyvern
 
 ### tutorials
 
