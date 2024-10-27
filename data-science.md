@@ -211,8 +211,9 @@ basically SQL-based sync & incremental updates of data to many systems and repor
 # labeling
 
 - prodigy
-  https://github.com/TutteInstitute/thisnotthat
+- https://github.com/TutteInstitute/thisnotthat
  
 ## clustering
 
-- https://github.com/TutteInstitute 
+- https://github.com/TutteInstitute
+- https://www.tute.com/
