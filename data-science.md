@@ -217,3 +217,10 @@ basically SQL-based sync & incremental updates of data to many systems and repor
 
 - https://github.com/TutteInstitute
 - https://www.tute.com/
+
+
+## matching data
+
+entity/identity resolution
+
+- https://linktransformer.github.io/
