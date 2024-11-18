@@ -237,9 +237,22 @@ Useful services (not only) for (starting) a company
 - https://opencollective.com/meet-coop/updates/announcement-meet-coop-2-0-is-here
 - jitsi
 
+## growthhacking
+
+### text
+
+- https://www.frizerly.com/
+- https://byword.ai/
+
+### web pages
+
+- https://tips.io/
+
 # enterprise
 
 ## HR
+
+
 
 ### communication
 - https://haiilo.com/
