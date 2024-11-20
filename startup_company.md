@@ -48,6 +48,8 @@ Useful services (not only) for (starting) a company
 - https://github.com/goenning/google-indexing-script
 - rudderstack
   - https://www.netspring.io/
+- A/B testing
+  - https://www.statsig.com/
 
 ### analytics
 - https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1
