@@ -98,6 +98,7 @@ I hope you find some useful tips here.
 - https://www.heygen.com/
 - https://lumalabs.ai/dream-machine
 - https://app.runwayml.com/login gen-3
+- https://invideo.io/
 
 ## transcription & captions
 
