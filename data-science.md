@@ -236,3 +236,5 @@ entity/identity resolution
   - https://github.com/explodinggradients/ragas
   - https://github.com/unslothai/unsloth
   - https://github.com/Lightning-AI/litgpt 
+- embeddings
+  - https://raw.githubusercontent.com/veekaybee/what_are_embeddings/main/embeddings.pdf
