@@ -224,3 +224,15 @@ basically SQL-based sync & incremental updates of data to many systems and repor
 entity/identity resolution
 
 - https://linktransformer.github.io/
+
+## LLM resources
+
+- https://github.com/SylphAI-Inc/LLM-engineer-handbook
+  - https://github.com/stanfordnlp/dspy
+  - https://github.com/SylphAI-Inc/AdalFlow
+  - https://github.com/Eladlev/AutoPrompt
+  - https://github.com/comet-ml/opik
+  - https://github.com/huggingface/lighteval
+  - https://github.com/explodinggradients/ragas
+  - https://github.com/unslothai/unsloth
+  - https://github.com/Lightning-AI/litgpt 
