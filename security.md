@@ -144,3 +144,12 @@
 ## people & organization
 
 - https://owasp.org/www-project-security-culture/v10/4-Security_Champions/
+
+
+## red teaming
+
+
+### reverse shells
+
+- polymorphic
+  - https://github.com/projectdiscovery/interactsh
