@@ -15,6 +15,11 @@
   - https://nnethercote.github.io/perf-book/introduction.html
  
 - https://antithesis.com/blog/is_something_bugging_you/
+- https://joshlf.com/files/talks/Safety%20in%20an%20Unsafe%20World.pdf
+
+### wow presentations
+
+- https://www.youtube.com/watch?v=Lc8lBMEJQdo
 
 ### Tips
 - https://blog.sdf.com/p/fast-development-in-rust-part-one
