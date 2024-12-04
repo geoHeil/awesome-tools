@@ -11,6 +11,12 @@
  - https://github.com/cnstlungu/portable-data-stack-dagster/tree/main
  - https://github.com/dagster-io/dagster-open-platform
 
+### editor tooling
+
+databases
+
+- https://studio.outerbase.com/
+
 ## environment handling
 
 - https://palm-cli.readthedocs.io/en/latest/introduction/examples.html
