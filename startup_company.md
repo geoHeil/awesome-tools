@@ -46,7 +46,9 @@ Useful services (not only) for (starting) a company
 - https://plausible.io/
 - https://www.piano.io/
 - https://github.com/vinceanalytics/vince
+- https://openpanel.dev/
 - https://github.com/goenning/google-indexing-script
+- https://ownstats.com/
 - rudderstack
   - https://www.netspring.io/
 - A/B testing
