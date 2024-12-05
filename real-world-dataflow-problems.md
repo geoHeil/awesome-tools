@@ -161,3 +161,4 @@ https://thefrugalarchitect.com/
 
 - Ensure you have no colliding / diametral goals
 - https://github.com/sbalnojan/run-a-data-team
+- https://databased.pedramnavid.com/p/its-not-enough-to-be-right?r=lgyh&utm_medium=ios&triedRedirect=true
