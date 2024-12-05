@@ -153,3 +153,6 @@
 
 - polymorphic
   - https://github.com/projectdiscovery/interactsh
+
+## privacy
+- https://veilid.com/about-veilid/
