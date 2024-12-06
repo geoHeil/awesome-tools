@@ -300,6 +300,9 @@ databases
 - https://github.com/tembo-io/pgmq
 - https://github.com/hatchet-dev/hatchet
 
+## visualization and admin
+
+- https://trailbase.io/
 
 ## self service pipelines
 
