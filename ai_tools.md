@@ -81,3 +81,8 @@ Link: https://inkforall.com/
 
 27. Thundercontent: Generate Content with AI
 Link: https://lnkd.in/djFxMZsZ
+
+
+## coding
+
+- https://aider.chat/
