@@ -10,6 +10,7 @@
 - data
  - https://github.com/cnstlungu/portable-data-stack-dagster/tree/main
  - https://github.com/dagster-io/dagster-open-platform
+   - https://medium.com/@edsoncezar16/asset-level-concurrency-limits-via-declarative-scheduling-c4da3a875cf4
 
 ### editor tooling
 
