@@ -3,6 +3,7 @@
 ## prompts
 
 - https://github.com/preset-io/promptimize
+- simple prompt engineering training from anthropic https://docs.google.com/spreadsheets/d/19jzLgRruG9kjUQNKtCg1ZjdD6l6weA6qRXG5zLIAhC8/edit?gid=150872633#gid=150872633 (Anthropic's Prompt Engineering Interactive Tutorial [PUBLIC ACCESS])
 
 ## tokenization
 
