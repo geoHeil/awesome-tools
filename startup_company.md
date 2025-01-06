@@ -29,6 +29,10 @@ Useful services (not only) for (starting) a company
 
 - https://github.com/frappe/erpnext
 
+### crm
+
+- https://www.dolibarr.org/
+
 ## HR
 
 - https://www.rippling.com/
