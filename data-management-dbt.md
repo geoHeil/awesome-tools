@@ -12,10 +12,14 @@ useful DBT utilities
   - https://hub.getdbt.com/calogica/dbt_expectations/latest/
 - anomaly detection
   - https://github.com/elementary-data/dbt-data-reliability
+- pre-commit
+  - https://github.com/dbt-checkpoint/dbt-checkpoint  
  
 ## CI/CD
 
 - https://medium.com/inthepipeline/youre-running-dbt-in-ci-now-what-f24c6717b9de
+- merge request templates
+  - https://medium.com/inthepipeline/dbt-best-practices-in-action-at-cal-itps-data-infra-project-0d11adf5513d
 
 ## SQL engine portability
 

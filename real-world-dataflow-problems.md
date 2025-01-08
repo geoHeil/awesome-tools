@@ -162,3 +162,11 @@ https://thefrugalarchitect.com/
 - Ensure you have no colliding / diametral goals
 - https://github.com/sbalnojan/run-a-data-team
 - https://databased.pedramnavid.com/p/its-not-enough-to-be-right?r=lgyh&utm_medium=ios&triedRedirect=true
+
+
+## cloud
+
+### de-cloudifixation/ re-patriation
+
+- https://www.thestack.technology/warren-buffetts-geico-repatriates-work-from-the-cloud-continues-ambitious-infrastructure-overhaul/
+

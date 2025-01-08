@@ -308,3 +308,9 @@ databases
 ## self service pipelines
 
 - https://github.com/n8n-io/n8n
+
+## end user onboarding
+
+### web based code editors
+
+- https://devpod.sh/

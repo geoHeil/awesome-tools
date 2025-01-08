@@ -33,3 +33,8 @@
 
 - https://github.com/FlowiseAI/Flowise
 - https://github.com/gmpetrov/databerry
+
+## models
+
+- https://simonwillison.net/2024/Dec/24/qvq/
+- https://simonwillison.net/2024/Dec/26/deepseek-v3/
