@@ -74,3 +74,10 @@
 - https://www.youtube.com/watch?v=-YJgcTCSzU0
 - https://www.youtube.com/watch?v=LcLrG_4i19E
 - https://www.youtube.com/watch?v=LcLrG_4i19E
+
+## education
+
+### video
+
+- explanation videos
+  - https://github.com/3b1b/manim
