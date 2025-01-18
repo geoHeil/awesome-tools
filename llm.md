@@ -49,3 +49,9 @@
 - https://github.com/VikParuchuri/marker
 - https://github.com/QuivrHQ/MegaParse
 - https://github.com/microsoft/markitdown
+
+## security
+
+- https://github.com/NVIDIA/garak
+- https://www.promptfoo.dev/docs/red-team/quickstart/
+- https://github.com/mbrg/power-pwn
