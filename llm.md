@@ -38,3 +38,14 @@
 
 - https://simonwillison.net/2024/Dec/24/qvq/
 - https://simonwillison.net/2024/Dec/26/deepseek-v3/
+
+
+## document preprocessors
+
+- unstract.com LLM whisperer https://pg.llmwhisperer.unstract.com/
+	- https://github.com/Zipstack/unstract
+- https://cloud.llamaindex.ai llamaparse
+- **https://github.com/DS4SD/docling**
+- https://github.com/VikParuchuri/marker
+- https://github.com/QuivrHQ/MegaParse
+- https://github.com/microsoft/markitdown
