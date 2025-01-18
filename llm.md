@@ -49,6 +49,7 @@
 - https://github.com/VikParuchuri/marker
 - https://github.com/QuivrHQ/MegaParse
 - https://github.com/microsoft/markitdown
+- https://github.com/opendatalab/PDF-Extract-Kit
 
 ## security
 
