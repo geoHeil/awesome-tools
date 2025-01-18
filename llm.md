@@ -55,3 +55,21 @@
 - https://github.com/NVIDIA/garak
 - https://www.promptfoo.dev/docs/red-team/quickstart/
 - https://github.com/mbrg/power-pwn
+
+### security problems
+
+- https://theyseeyourphotos.com/
+- https://www.404media.co/email/f459caa7-1a58-4f31-a9ba-3cb53a5046a4/
+- https://www.npr.org/2024/12/10/nx-s1-5222574/kids-character-ai-lawsuit
+- https://bsky.app/profile/pedram.lol/post/3lbxzc34th22y
+- https://www.heise.de/news/Copilot-macht-aus-einem-Gerichtsreporter-einen-Kinderschaender-9840437.html
+- https://github.com/leondz/garak
+- https://www.youtube.com/watch?v=qyTSOSDEC5M
+- https://gandalf.lakera.ai/baseline genAI security training
+- https://www.heise.de/news/ChatGPT-Code-mit-betruegerischer-API-kostet-Programmierer-2500-US-Dollar-10169146.html
+- https://microsoft.github.io/presidio/analyzer/
+- https://www.promptfoo.dev/docs/red-team/quickstart/
+- https://github.com/mbrg/power-pwn
+- https://www.youtube.com/watch?v=-YJgcTCSzU0
+- https://www.youtube.com/watch?v=LcLrG_4i19E
+- https://www.youtube.com/watch?v=LcLrG_4i19E
