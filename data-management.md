@@ -3,6 +3,7 @@
 ## learning
 
 - https://www.reddit.com/r/dataengineering/comments/1491swe/a_mustread_data_engineering_collection/
+- stack overview https://motherduck.com/blog/data-engineering-toolkit-essential-tools/
 
 
 ## stack example
