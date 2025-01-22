@@ -47,6 +47,7 @@ Useful services (not only) for (starting) a company
 
 ## marketing
 
+- **https://github.com/ownstats/ownstats**
 - https://matomo.org/
 - https://plausible.io/
 - https://www.piano.io/
