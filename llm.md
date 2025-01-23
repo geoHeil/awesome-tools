@@ -85,6 +85,10 @@
 - https://www.youtube.com/watch?v=LcLrG_4i19E
 - https://www.youtube.com/watch?v=LcLrG_4i19E
 
+## rag frameworks
+
+- https://github.com/llmware-ai/llmware
+
 ## education
 
 ### video
