@@ -54,8 +54,18 @@
 ## security
 
 - https://github.com/NVIDIA/garak
+- https://github.com/Azure/PyRIT
 - https://www.promptfoo.dev/docs/red-team/quickstart/
 - https://github.com/mbrg/power-pwn
+
+
+### jailbreaks
+
+- https://github.com/CHATS-lab/persuasive_jailbreaker
+
+### demonstrations
+
+- https://github.com/greshake/llm-security
 
 ### security problems
 
