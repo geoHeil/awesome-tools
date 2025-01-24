@@ -92,6 +92,14 @@
 - https://github.com/axolotl-ai-cloud/axolotl
 - https://github.com/Lightning-AI/litgpt
 - https://github.com/hiyouga/LLaMA-Factory
+- tool lists
+  - https://huyenchip.com/llama-police
+ 
+## distributed training
+
+- https://github.com/microsoft/DeepSpeed
+- https://pytorch.org/tutorials/distributed/home.html
+- https://lightning.ai/docs/pytorch/stable/
 
 ## prototyping
 
