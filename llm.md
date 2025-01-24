@@ -51,6 +51,10 @@
 - https://github.com/microsoft/markitdown
 - https://github.com/opendatalab/PDF-Extract-Kit
 
+### html cleanup
+
+- https://emschwartz.me/comparing-13-rust-crates-for-extracting-text-from-html/
+
 ## security
 
 - https://github.com/NVIDIA/garak
