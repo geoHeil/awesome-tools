@@ -85,6 +85,14 @@
 - https://www.youtube.com/watch?v=LcLrG_4i19E
 - https://www.youtube.com/watch?v=LcLrG_4i19E
 
+## fine-tuning
+
+- https://huggingface.co/docs/peft/index
+- https://github.com/unslothai/unsloth
+- https://github.com/axolotl-ai-cloud/axolotl
+- https://github.com/Lightning-AI/litgpt
+- https://github.com/hiyouga/LLaMA-Factory
+
 ## prototyping
 
 ### UIs
