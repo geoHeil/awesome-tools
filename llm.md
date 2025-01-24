@@ -121,4 +121,11 @@
 ### video
 
 - explanation videos
+
+## hardware
+
+on demand AI clusters
+
+- https://hpc-ai.com
+- https://www.anyscale.com
   - https://github.com/3b1b/manim
