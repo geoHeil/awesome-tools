@@ -126,6 +126,7 @@
 
 on demand AI clusters
 
+- all the public cloud providers (though they often do not focus on offering a simple/streamlined GPU experience for researchers)
 - https://hpc-ai.com
 - https://www.anyscale.com
   - https://github.com/3b1b/manim
