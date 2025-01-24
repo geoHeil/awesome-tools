@@ -85,6 +85,16 @@
 - https://www.youtube.com/watch?v=LcLrG_4i19E
 - https://www.youtube.com/watch?v=LcLrG_4i19E
 
+## prototyping
+
+### UIs
+
+- https://github.com/open-webui/open-webui
+- https://lmstudio.ai/
+- https://docs.chainlit.io/get-started/overview
+- https://www.gradio.app/
+- https://streamlit.io/
+
 ## rag frameworks
 
 - https://github.com/llmware-ai/llmware
