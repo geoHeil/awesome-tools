@@ -100,6 +100,7 @@
 - https://github.com/microsoft/DeepSpeed
 - https://pytorch.org/tutorials/distributed/home.html
 - https://lightning.ai/docs/pytorch/stable/
+- https://github.com/hpcaitech/ColossalAI
 
 ## prototyping
 
