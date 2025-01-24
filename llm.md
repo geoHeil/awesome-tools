@@ -128,5 +128,12 @@ on demand AI clusters
 
 - all the public cloud providers (though they often do not focus on offering a simple/streamlined GPU experience for researchers)
 - https://hpc-ai.com
+- https://lambdalabs.com/service/gpu-cloud/1-click-clusters
+- https://vast.ai/
+- https://www.paperspace.com
+- https://huggingface.co/spaces
+- https://colab.research.google.com/
 - https://www.anyscale.com
+- https://www.fluidstack.io
+- https://www.runpod.io/
   - https://github.com/3b1b/manim
