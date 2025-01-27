@@ -42,6 +42,8 @@ Useful services (not only) for (starting) a company
 - https://www.rippling.com/
 - https://www.turing.com/
 - https://eightfold.ai/
+- https://www.mysteryminds.com/
+- 
 
 ### large scale HR
 - https://eightfold.ai/
