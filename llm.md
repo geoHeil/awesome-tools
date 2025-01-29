@@ -51,7 +51,7 @@
 - https://github.com/microsoft/markitdown
 - https://github.com/opendatalab/PDF-Extract-Kit
 
-### html cleanup
+### HTML cleanup
 
 - https://emschwartz.me/comparing-13-rust-crates-for-extracting-text-from-html/
 
@@ -88,6 +88,13 @@
 - https://www.youtube.com/watch?v=-YJgcTCSzU0
 - https://www.youtube.com/watch?v=LcLrG_4i19E
 - https://www.youtube.com/watch?v=LcLrG_4i19E
+
+
+### data poisoning
+
+- https://arxiv.org/pdf/2302.04222 glaze
+- https://arxiv.org/pdf/2310.13828 night shade
+  - https://nightshade.cs.uchicago.edu/whatis.html
 
 ## fine-tuning
 
