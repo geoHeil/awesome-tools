@@ -109,6 +109,8 @@ https://arxiv.org/abs/2107.00079 collects various anti patterns https://towardsd
 - hiring & retaining data talent https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf
 - tech lead experiences: https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/
 
+- learnings from the crowd: https://github.com/sdg-1/data-team-handbook
+
 ### culture
 - https://www.youtube.com/watch?v=VkeleGIUSM8
 
