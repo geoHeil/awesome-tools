@@ -127,6 +127,9 @@
 ## rag frameworks
 
 - https://github.com/llmware-ai/llmware
+- https://github.com/infiniflow/ragflow?tab=readme-ov-file
+- rag tools
+  - https://www.onyx.app/
 
 ## education
 
