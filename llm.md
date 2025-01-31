@@ -119,6 +119,7 @@
 
 - https://github.com/open-webui/open-webui
 - https://lmstudio.ai/
+- https://opencat.app/en/
 - https://docs.chainlit.io/get-started/overview
 - https://www.gradio.app/
 - https://streamlit.io/
