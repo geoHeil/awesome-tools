@@ -3,6 +3,8 @@
 ## list of useful tools
 
 - https://landscape.lfai.foundation/
+- https://github.com/fmind/mlops-python-package
+- https://github.com/callmesora/llmops-python-package
 
 ## references to further similar lists
 
