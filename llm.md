@@ -1,5 +1,9 @@
 # LLM
 
+## good content
+
+- https://jax-ml.github.io/scaling-book/
+
 ## prompts
 
 - https://github.com/preset-io/promptimize
