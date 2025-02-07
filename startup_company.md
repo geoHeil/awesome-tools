@@ -150,7 +150,9 @@ Useful services (not only) for (starting) a company
 - https://docs.getdbt.com/docs/introduction
 - https://www.metaplane.dev
 - https://formbricks.com/
-- https://github.com/calcom/cal.com
+- calendar and scheduling
+  - https://github.com/calcom/cal.com
+  - https://zcal.co
 - https://posthog.com/
 - https://sentry.io/welcome/
 
