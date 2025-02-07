@@ -3,6 +3,7 @@
 ## good content
 
 - https://jax-ml.github.io/scaling-book/
+- https://www.sergey.fyi/articles/gemini-flash-2
 
 ## prompts
 
@@ -132,6 +133,7 @@
 
 - https://github.com/llmware-ai/llmware
 - https://github.com/infiniflow/ragflow?tab=readme-ov-file
+- https://github.com/Filimoa/open-parse
 - rag tools
   - https://www.onyx.app/
 
