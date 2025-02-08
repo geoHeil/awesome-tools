@@ -1,5 +1,9 @@
 # data science
 
+## nice overview courseware
+
+- https://mlip-cmu.github.io/s2025/
+
 ## list of useful tools
 
 - https://landscape.lfai.foundation/
