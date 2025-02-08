@@ -3,7 +3,8 @@
 ## good content
 
 - https://jax-ml.github.io/scaling-book/
-- https://www.sergey.fyi/articles/gemini-flash-2
+- ocr
+  - https://www.sergey.fyi/articles/gemini-flash-2 and https://www.runpulse.com/blog/why-llms-suck-at-ocr and https://blog.roboflow.com/florence-2-ocr/
 
 ## prompts
 
