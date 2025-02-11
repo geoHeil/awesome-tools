@@ -143,6 +143,7 @@
 ### audio
 
 - https://livekit.io/
+- https://huggingface.co/Zyphra/Zonos-v0.1-hybrid
 
 ### video
 
