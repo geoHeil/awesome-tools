@@ -270,6 +270,7 @@ databases
 - https://www.timeplus.com/
 - https://questdb.io/
 - https://tembo.io/blog/pg-timeseries
+- https://github.com/GreptimeTeam/greptimedb
 
 ### key-value (like)
 
