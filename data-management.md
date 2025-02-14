@@ -293,7 +293,12 @@ databases
 
 - https://github.com/paradedb/paradedb https://blog.paradedb.com/pages/elasticsearch_vs_postgres
   - https://github.com/quickwit-oss/tantivy
+- https://gitlab.science.ru.nl/informagus/zoekeend/
 
+### PG addons
+
+- approximate
+  - https://github.com/citusdata/postgresql-hll
 
 ## interesting message queues
 
