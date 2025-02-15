@@ -321,3 +321,8 @@ databases
 ### web based code editors
 
 - https://devpod.sh/
+
+# remote workspaces gitlab airgapped
+
+- https://gitlab.com/vtak/gitlab-workspaces-kubernetes-webhook
+- https://gitlab.com/groups/gitlab-org/-/epics/14001#top
