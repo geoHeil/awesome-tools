@@ -101,6 +101,7 @@
 
 - https://airedteamwhitepapers.blob.core.windows.net/lessonswhitepaper/MS_AIRT_Lessons_eBook.pdf
 - https://www.microsoft.com/en-us/security/blog/2025/01/13/3-takeaways-from-red-teaming-100-generative-ai-products/
+- https://github.com/Azure/PyRIT
 
 
 ### data poisoning
