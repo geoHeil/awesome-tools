@@ -170,5 +170,9 @@ https://thefrugalarchitect.com/
 
 ### de-cloudifixation/ re-patriation
 
+## logging
+
+- https://github.com/yandex/perforator
+
 - https://www.thestack.technology/warren-buffetts-geico-repatriates-work-from-the-cloud-continues-ambitious-infrastructure-overhaul/
 
