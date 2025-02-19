@@ -324,5 +324,11 @@ databases
 
 # remote workspaces gitlab airgapped
 
+# rust speed tools
+
+## storage
+
+- https://developmentseed.org/obstore/latest/
+
 - https://gitlab.com/vtak/gitlab-workspaces-kubernetes-webhook
 - https://gitlab.com/groups/gitlab-org/-/epics/14001#top
