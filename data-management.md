@@ -332,3 +332,8 @@ databases
 
 - https://gitlab.com/vtak/gitlab-workspaces-kubernetes-webhook
 - https://gitlab.com/groups/gitlab-org/-/epics/14001#top
+
+
+## data linkeage
+
+- https://github.com/moj-analytical-services/splink https://realworlddatascience.net/case-studies/posts/2023/11/22/splink.html
