@@ -62,6 +62,10 @@
 ### HTML cleanup
 
 - https://emschwartz.me/comparing-13-rust-crates-for-extracting-text-from-html/
+### pdf preprocessors
+
+- https://github.com/opendatalab/MinerU
+- https://github.com/DS4SD/docling
 
 ## security
 
@@ -172,3 +176,4 @@ on demand AI clusters
 - https://www.fluidstack.io
 - https://www.runpod.io/
   - https://github.com/3b1b/manim
+
