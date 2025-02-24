@@ -176,4 +176,4 @@ on demand AI clusters
 - https://www.fluidstack.io
 - https://www.runpod.io/
   - https://github.com/3b1b/manim
-
+- https://github.com/exo-explore/exo
