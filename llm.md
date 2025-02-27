@@ -67,6 +67,11 @@
 - https://github.com/opendatalab/MinerU
 - https://github.com/DS4SD/docling
 
+### entity extraction
+
+- https://python.useinstructor.com/
+- https://github.com/vlm-run/vlmrun-cookbook and good comments https://news.ycombinator.com/item?id=43187209
+
 ## security
 
 - https://github.com/NVIDIA/garak
