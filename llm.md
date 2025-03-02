@@ -41,6 +41,7 @@
 
 - https://github.com/FlowiseAI/Flowise
 - https://github.com/gmpetrov/databerry
+- https://www.docetl.org/
 
 ## models
 
@@ -87,6 +88,7 @@
 ### demonstrations
 
 - https://github.com/greshake/llm-security
+- https://bishopfox.com/resources/rvasec2024-patch-perfect-harmonizing-llms
 
 ### security problems
 
