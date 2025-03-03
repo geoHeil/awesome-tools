@@ -26,6 +26,7 @@
 - https://github.com/deepchecks/deepchecks https://docs.deepchecks.com/stable/getting-started/welcome.html
 - https://github.com/Skyvern-AI/skyvern
 - https://github.com/browser-use/browser-use
+- https://convergence.ai/proxy_lite/
 
 ### tutorials
 
