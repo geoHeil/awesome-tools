@@ -218,6 +218,8 @@ Useful services (not only) for (starting) a company
 - https://www.linen.dev/
 - https://www.mightynetworks.com/
 - https://github.com/discursus-data/saf_core
+- chat
+  - https://revolt.chat/
 
 ## project management
 
