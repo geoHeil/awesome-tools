@@ -80,7 +80,11 @@
 - https://www.promptfoo.dev/docs/red-team/quickstart/
 - https://github.com/mbrg/power-pwn
 
+### scraper & automation
 
+- https://github.com/browser-use/browser-use
+
+  
 ### jailbreaks
 
 - https://github.com/CHATS-lab/persuasive_jailbreaker
