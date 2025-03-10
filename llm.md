@@ -83,6 +83,7 @@
 ### scraper & automation
 
 - https://github.com/browser-use/browser-use
+- https://github.com/nanobrowser/nanobrowser
 
   
 ### jailbreaks
