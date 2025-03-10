@@ -10,3 +10,7 @@
 ### fluvio
 
 - https://github.com/infinyon/fluvio
+
+### duckdb
+
+- https://github.com/turbolytics/sql-flow
