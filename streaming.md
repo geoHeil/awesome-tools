@@ -21,6 +21,14 @@ I realized that my photo camera can also record videos. Since then, I always use
 - Good audio is important – and as long as you don't want to combine it with good video simultaneously, it's super easy. I use a [Blue Yeti microphone](https://www.bluemic.com/de-de/products/yeti/), which can be easily connected via USB – done. And it's dramatically better.
 - Unfortunately, I have problems with the audio input on the ATEM Mini and therefore route audio and video separately (resulting in a few frames delay). Did you notice this yesterday?
 - Nowadays I sue the yeti for most teams/zoom calls and it works great. But for recordings and live streams I use https://rode.com/de/microphones/wireless/wirelesspro directly connected timecoded to my camera for the best streaming/recording/audio experience
+- AH CQ18T
+- shure sm7db
+
+### video
+
+- d850
+- secondary camera
+- teleprompter
 
 ### Lighting
 
@@ -103,6 +111,7 @@ I hope you find some useful tips here.
 ## transcription & captions
 
 - https://sonix.ai/de
+- https://www.heygen.com/
 
 ## multi streaming
 
