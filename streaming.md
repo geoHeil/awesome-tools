@@ -107,6 +107,7 @@ I hope you find some useful tips here.
 - https://lumalabs.ai/dream-machine
 - https://app.runwayml.com/login gen-3
 - https://invideo.io/
+- https://www.revid.ai/
 
 ## transcription & captions
 
