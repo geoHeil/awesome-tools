@@ -188,6 +188,10 @@ on demand AI clusters
 - https://colab.research.google.com/
 - https://www.anyscale.com
 - https://www.fluidstack.io
+
+### validation of hardware
+- check cooling issues
+  - https://github.com/huggingface/gpu-fryer
 - https://www.runpod.io/
   - https://github.com/3b1b/manim
 - https://github.com/exo-explore/exo
