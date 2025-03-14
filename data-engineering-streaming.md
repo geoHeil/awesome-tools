@@ -14,3 +14,7 @@
 ### duckdb
 
 - https://github.com/turbolytics/sql-flow
+
+### ark stream
+
+- https://github.com/chenquan/arkflow
