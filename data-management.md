@@ -338,3 +338,6 @@ databases
 ## data linkeage
 
 - https://github.com/moj-analytical-services/splink https://realworlddatascience.net/case-studies/posts/2023/11/22/splink.html
+
+## template
+- https://copier.readthedocs.io/en/stable/
