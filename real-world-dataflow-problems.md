@@ -107,6 +107,8 @@ https://arxiv.org/abs/2107.00079 collects various anti patterns https://towardsd
 - start by working on a high profile use case, preferably for an external customer
 - work on a single team. Do not fight on multiple frontiers (use cases) but learn together. Remember kanban. Better to get a single pipeline fully into production then several only half functioning, and then speed up later on.
 - hiring & retaining data talent https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf
+- security
+  - https://brothke.medium.com/how-not-to-hire-for-a-senior-information-security-role-4bf71ce7ee26
 - tech lead experiences: https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/
 
 - learnings from the crowd: https://github.com/sdg-1/data-team-handbook
