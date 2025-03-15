@@ -81,6 +81,8 @@
 - https://github.com/Azure/PyRIT
 - https://www.promptfoo.dev/docs/red-team/quickstart/
 - https://github.com/mbrg/power-pwn
+- cryptography
+  - https://eprint.iacr.org/2025/288
 
 ### scraper & automation
 
@@ -114,6 +116,8 @@
 - https://www.youtube.com/watch?v=-YJgcTCSzU0
 - https://www.youtube.com/watch?v=LcLrG_4i19E
 - https://www.youtube.com/watch?v=LcLrG_4i19E
+- backdoor
+  - https://blog.sshh.io/p/how-to-backdoor-large-language-models
 
 #### red teaming
 
