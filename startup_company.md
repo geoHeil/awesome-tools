@@ -43,7 +43,6 @@ Useful services (not only) for (starting) a company
 - https://www.turing.com/
 - https://eightfold.ai/
 - https://www.mysteryminds.com/
-- 
 
 ### large scale HR
 - https://eightfold.ai/
@@ -133,6 +132,7 @@ Useful services (not only) for (starting) a company
 
 - MS Office
 - https://nino.app/
+- https://github.com/suitenumerique/docs
 
 ### prototyping
 
