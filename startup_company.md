@@ -81,6 +81,10 @@ Useful services (not only) for (starting) a company
 - https://betterstack.com/logs
 - https://vector.dev/
 - https://posthog.com
+### secrets
+
+- https://github.com/Infisical/infisical/blob/main/README.md
+- mozilla sops + age
 
 ## legal
 
