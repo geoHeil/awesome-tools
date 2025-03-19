@@ -7,6 +7,7 @@
   - https://www.sergey.fyi/articles/gemini-flash-2 and https://www.runpulse.com/blog/why-llms-suck-at-ocr and https://blog.roboflow.com/florence-2-ocr/
 - https://applied-llms.org/
 - https://github.com/ray-project/llm-numbers
+- https://github.com/KalyanKS-NLP/llm-engineer-toolkit
 
 ## prompts
 
