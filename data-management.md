@@ -150,6 +150,8 @@ databases
 - https://www.singer.io
 - https://meltano.com/ (reference runner for singer)
 - https://airbyte.io/
+- iceberg
+  - https://github.com/datazip-inc/olake
 
 #### dbt and governance
 
