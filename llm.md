@@ -210,6 +210,7 @@ on demand AI clusters
 #### models
 - https://github.com/canopyai/Orpheus-TTS
 - https://github.com/fixie-ai/ultravox
+- https://www.openai.fm/
 
 #### solutions
 - https://livekit.io/
