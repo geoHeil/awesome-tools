@@ -76,6 +76,10 @@
 - https://python.useinstructor.com/
 - https://github.com/vlm-run/vlmrun-cookbook and good comments https://news.ycombinator.com/item?id=43187209
 
+#### naming entities
+
+- https://github.com/urchade/GLiNER
+
 ## security
 
 - https://github.com/NVIDIA/garak
@@ -180,16 +184,6 @@
 
 - explanation videos
 
-### audio
-
-#### realtime
-#### models
-- https://github.com/canopyai/Orpheus-TTS
-- https://github.com/fixie-ai/ultravox
-
-#### solutions
-- https://livekit.io/
-
 ## hardware
 
 on demand AI clusters
@@ -210,3 +204,16 @@ on demand AI clusters
 - https://www.runpod.io/
   - https://github.com/3b1b/manim
 - https://github.com/exo-explore/exo
+
+## realtime
+### audio
+#### models
+- https://github.com/canopyai/Orpheus-TTS
+- https://github.com/fixie-ai/ultravox
+
+#### solutions
+- https://livekit.io/
+
+## data analysis with AI
+
+- https://github.com/microsoft/data-formulator
