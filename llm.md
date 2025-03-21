@@ -180,6 +180,16 @@
 
 - explanation videos
 
+### audio
+
+#### realtime
+#### models
+- https://github.com/canopyai/Orpheus-TTS
+- https://github.com/fixie-ai/ultravox
+
+#### solutions
+- https://livekit.io/
+
 ## hardware
 
 on demand AI clusters
