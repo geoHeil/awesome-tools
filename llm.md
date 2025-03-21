@@ -214,6 +214,7 @@ on demand AI clusters
 
 #### solutions
 - https://livekit.io/
+- https://elevenlabs.io/
 
 ## data analysis with AI
 
