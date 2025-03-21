@@ -262,6 +262,8 @@ databases
 - Starrocks
 - https://github.com/datafuselabs/databend
 - https://cratedb.com/
+- https://www.hydra.so/
+- https://neon.tech/
 
 ### streaming
 
