@@ -22,6 +22,10 @@
 ## graph processing
 - tinkerpop
 - opencypher
+- sq
+- pregel
+- combined
+  -  https://github.com/SemyonSinchenko/ibisgraph
 
 ## [ml/ai/deep]-leanring on graphs
 
