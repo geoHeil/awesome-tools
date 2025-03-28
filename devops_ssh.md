@@ -31,3 +31,11 @@ https://www.youtube.com/watch?v=qvdlLTyUJ5I
 ### kill
 
 - kill stuff running on port: `lsof -i tcp:3000` gives the offender - which then can be killed
+
+
+## consistent environments
+
+- https://github.com/jetify-com/devbox
+- https://devenv.sh/
+- https://devpod.sh/
+- https://nixos.org/
