@@ -6,6 +6,9 @@ obviously GDELT is a massive and really interesting source of data.
 
 - https://ckan.org/
 
+### company
+- https://github.com/Lukhers-dev/firmenbuch-HVD/tree/main
+
 ## geopsatial
 - http://www.geonames.org
 - https://github.com/kuwala-io/kuwala (geospatial popular times as osm + google maps api)
