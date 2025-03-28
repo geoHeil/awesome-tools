@@ -349,3 +349,9 @@ databases
 ## template
 - https://copier.readthedocs.io/en/stable/
 - https://github.com/sixfeetup/scaf
+
+## model
+
+### quality
+
+- https://practicaldatamodeling.substack.com/p/data-model-smells
