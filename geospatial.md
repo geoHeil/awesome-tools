@@ -43,3 +43,9 @@
 ### predicate pushdown (data skipping)
 
 - https://www.youtube.com/watch?v=3D5WhCqfOo8
+
+## spatial ML
+
+### deeplearning
+
+- https://github.com/IBM/terratorch
