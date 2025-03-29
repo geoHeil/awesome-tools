@@ -207,10 +207,18 @@ on demand AI clusters
 
 ## realtime
 ### audio
+
+#### serving
+
+- https://fastrtc.org/
+
 #### models
 - https://github.com/canopyai/Orpheus-TTS
 - https://github.com/fixie-ai/ultravox
 - https://www.openai.fm/
+- qwen 2.5 omni
+  - https://huggingface.co/spaces/Qwen/Qwen2.5-Omni-7B-Demo
+  - https://huggingface.co/Qwen/Qwen2.5-Omni-7B
 
 #### solutions
 - https://livekit.io/
