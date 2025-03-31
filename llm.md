@@ -227,3 +227,8 @@ on demand AI clusters
 ## data analysis with AI
 
 - https://github.com/microsoft/data-formulator
+
+
+## paper finders
+
+- https://allenai.org/blog/paper-finder
