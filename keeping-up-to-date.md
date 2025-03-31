@@ -50,6 +50,15 @@ Good starter packs https://blueskydirectory.com/starter-packs
 
 
 - join your local community go to https://www.meetup.com or https://lu.ma
+
+some interesting podcasts
+
+- https://logbuch-netzpolitik.de/
+- https://open.spotify.com/show/5oAImDY5o4HzekRGNNw2r0
+- https://www.dataengineeringpodcast.com/
+- https://talkpython.fm/
+- https://decodinglove.tv/
+
 ## active
 
 - host your own community to become an expert in the field
