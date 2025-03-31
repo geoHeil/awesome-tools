@@ -52,3 +52,8 @@
 ## wealth management
 
 - https://ghostfol.io/en/start
+
+
+## indicator and analysis
+
+- https://macrodash.streamlit.app/
