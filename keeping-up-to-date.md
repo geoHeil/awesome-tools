@@ -61,6 +61,8 @@ some interesting podcasts
 - https://talkpython.fm/
 - https://dataskeptic.com/
 - https://decodinglove.tv/
+- https://lexfridman.com/podcast/
+- https://allin.com/
 
 ## active
 
