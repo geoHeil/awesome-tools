@@ -64,6 +64,14 @@ some interesting podcasts
 - https://lexfridman.com/podcast/
 - https://allin.com/
 
+some interesting blogs
+
+- https://georgheiler.com/ ;)
+- https://engineering.fb.com/
+- netflix engineering blog
+- https://www.uber.com/en-US/blog/engineering/
+- https://www.schneier.com/
+
 ## active
 
 - host your own community to become an expert in the field
