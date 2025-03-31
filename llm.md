@@ -40,6 +40,11 @@
 
 - https://github.com/praj2408/Langchain-PDF-App-GUI
 
+### ready made connectors
+
+- https://www.danswer.ai/
+- https://n8n.io/
+
 ## no code GUI tools
 
 - https://github.com/FlowiseAI/Flowise
