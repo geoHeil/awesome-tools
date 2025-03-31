@@ -78,6 +78,13 @@ intersting discord groups
 - Pixi
 - Open Bio ML
 - Scraping
+- Data Trails
+- MLOps @chipro
+
+slack groups
+- locally optimistic
+- data engineer things
+- RSE
 
 ## active
 
