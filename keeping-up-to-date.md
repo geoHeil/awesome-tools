@@ -13,6 +13,7 @@ I can recommend:
   - https://www.reddit.com/r/mlscaling/
   - https://www.reddit.com/r/LocalLLaMA/
 - https://github.com/geoHeil/awesome-tools
+- https://www.heise.de/security
 - https://www.youtube.com
   - https://www.youtube.com/@mediacccde/videos
   - https://www.youtube.com/@PyDataTV
