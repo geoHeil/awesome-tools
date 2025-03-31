@@ -69,3 +69,4 @@ some interesting podcasts
 - write a blog (consistently)
 - hist your own stream
 - actively have some friends/paper reading club in your field to channel releavnt news together
+- join communities adjacent to your field and transfer solutions of your field over to their problems. It is amazinig how much you can accomplish this way
