@@ -72,6 +72,13 @@ some interesting blogs
 - https://www.uber.com/en-US/blog/engineering/
 - https://www.schneier.com/
 
+intersting discord groups
+
+- Data Engineering
+- Pixi
+- Open Bio ML
+- Scraping
+
 ## active
 
 - host your own community to become an expert in the field
