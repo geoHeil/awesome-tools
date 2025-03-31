@@ -59,6 +59,7 @@ some interesting podcasts
 - https://open.spotify.com/show/5oAImDY5o4HzekRGNNw2r0
 - https://www.dataengineeringpodcast.com/
 - https://talkpython.fm/
+- https://dataskeptic.com/
 - https://decodinglove.tv/
 
 ## active
