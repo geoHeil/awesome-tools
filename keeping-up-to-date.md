@@ -41,6 +41,7 @@ I can recommend:
   - rust
     - https://www.youtube.com/@eurorust/videos
     - https://www.youtube.com/@RustVideos/videos
+    - https://this-week-in-rust.org/
 
 social media (if you follow the right people)
 
