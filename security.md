@@ -157,6 +157,10 @@
 
 - polymorphic
   - https://github.com/projectdiscovery/interactsh
+ 
+## mobile phone
+
+- https://shop.nitrokey.com/de/shop?search=nitrophone
 
 ## privacy
 - https://veilid.com/about-veilid/
