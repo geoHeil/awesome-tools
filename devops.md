@@ -39,3 +39,7 @@ https://www.youtube.com/watch?v=qvdlLTyUJ5I
 - https://devenv.sh/
 - https://devpod.sh/
 - https://nixos.org/
+
+## hosting options
+
+- https://kiranet.org/self-hosting-like-its-2025/
