@@ -164,3 +164,6 @@
 
 ## privacy
 - https://veilid.com/about-veilid/
+
+### printouts
+- https://github.com/dfd-tud/deda
