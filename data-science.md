@@ -246,3 +246,7 @@ entity/identity resolution
   - https://github.com/Lightning-AI/litgpt 
 - embeddings
   - https://raw.githubusercontent.com/veekaybee/what_are_embeddings/main/embeddings.pdf
+
+## cleaning
+
+- https://github.com/cleanlab/cleanlab
