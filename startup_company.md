@@ -43,6 +43,7 @@ Useful services (not only) for (starting) a company
 - https://www.turing.com/
 - https://eightfold.ai/
 - https://www.mysteryminds.com/
+- graph based vettng of linkedin profiles https://www.fainds.com/plugin
 
 ### large scale HR
 - https://eightfold.ai/
