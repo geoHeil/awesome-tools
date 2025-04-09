@@ -356,6 +356,9 @@ databases
 
 ## model
 
+### modeling tools
+
+- https://www.drawdb.app/
 ### quality
 
 - https://practicaldatamodeling.substack.com/p/data-model-smells
