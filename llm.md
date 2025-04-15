@@ -189,6 +189,12 @@
 
 - explanation videos
 
+## hosting models
+
+- https://github.com/containers/ramalama
+- https://ollama.com/
+- https://github.com/vllm-project/vllm
+
 ## hardware
 
 on demand AI clusters
