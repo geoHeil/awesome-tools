@@ -224,6 +224,7 @@ on demand AI clusters
 - qwen 2.5 omni
   - https://huggingface.co/spaces/Qwen/Qwen2.5-Omni-7B-Demo
   - https://huggingface.co/Qwen/Qwen2.5-Omni-7B
+- https://zeyuet.github.io/AudioX/
 
 #### solutions
 - https://livekit.io/
