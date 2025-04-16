@@ -93,7 +93,8 @@
 - https://github.com/mbrg/power-pwn
 - cryptography
   - https://eprint.iacr.org/2025/288
-
+- prompt injection scanning
+  - - https://arstechnica.com/information-technology/2025/04/researchers-claim-breakthrough-in-fight-against-ais-frustrating-security-hole/ https://arxiv.org/abs/2503.18813
 ### scraper & automation
 
 - https://github.com/browser-use/browser-use
