@@ -2,6 +2,7 @@
 
 ## frameworks
 
+- https://quarto.org/
 - https://rmarkdown.rstudio.com/
 - https://jupyter.org/ notebook based
   - https://jupyterbook.org/en/stable/start/publish.html
