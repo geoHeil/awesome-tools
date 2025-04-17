@@ -9,6 +9,7 @@
 - https://github.com/ray-project/llm-numbers
 - https://github.com/KalyanKS-NLP/llm-engineer-toolkit
 
+
 ## prompts
 
 - https://github.com/preset-io/promptimize
@@ -178,6 +179,10 @@
 - https://github.com/Filimoa/open-parse
 - rag tools
   - https://www.onyx.app/
+
+## agents
+
+- https://github.com/humanlayer/12-factor-agents
 
 ## education
 
