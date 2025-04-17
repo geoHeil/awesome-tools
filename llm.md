@@ -182,6 +182,10 @@
 - rag tools
   - https://www.onyx.app/
 
+## workflows
+
+- https://workflowai.com/
+
 ## agents
 
 - https://github.com/humanlayer/12-factor-agents
