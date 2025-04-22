@@ -208,3 +208,8 @@
 
 - actor
   - https://github.com/elfo-rs/elfo
+
+
+## verification
+
+- https://github.com/verus-lang/verus
