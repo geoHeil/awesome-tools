@@ -62,6 +62,10 @@
 - ip rotation
   - https://github.com/D4rkwat3r/aiohttp-ip-rotator
   - https://github.com/Ge0rg3/requests-ip-rotator
+### API discovery
+
+- https://github.com/Integuru-AI/Integuru
+
 
 ### proxy
 
