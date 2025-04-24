@@ -59,6 +59,9 @@
 - https://scrapingfish.com/webscraping-benchmark
 - https://www.zenrows.com/solutions/web-unblocker
 - https://substack.thewebscraping.club/p/why-scraper-is-blocked
+- ip rotation
+  - https://github.com/D4rkwat3r/aiohttp-ip-rotator
+  - https://github.com/Ge0rg3/requests-ip-rotator
 
 ### proxy
 
@@ -69,6 +72,7 @@
   - https://scrapeops.io/python-scrapy-playbook/scrapy-playwright/
   - https://www.zenrows.com/blog/scrapy-playwright#avoid-getting-blocked****
   - https://www.zyte.com/scrapy-cloud/
+ 
 
 
 ## sample scrapers
