@@ -8,6 +8,7 @@
 - https://applied-llms.org/
 - https://github.com/ray-project/llm-numbers
 - https://github.com/KalyanKS-NLP/llm-engineer-toolkit
+- https://koomen.dev/essays/horseless-carriages/ horseless carriages of AI
 
 
 ## prompts
