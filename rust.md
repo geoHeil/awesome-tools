@@ -213,3 +213,14 @@
 ## verification
 
 - https://github.com/verus-lang/verus
+
+
+## learning steps
+
+explore
+
+- https://github.com/howtocodeit/hexarch
+- https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html
+- https://leptos.dev/
+- https://github.com/leptos-rs/leptos/tree/main/examples/tailwind_actix
+- https://github.com/bazelbuild/examples/tree/main/rust-examples#examples-to-build-rust-code
