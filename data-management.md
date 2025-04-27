@@ -365,6 +365,9 @@ databases
 
 ## record linkeage
 
+books
+- https://link.springer.com/book/10.1007/978-3-642-31164-2
+
 probabilistic
 - https://moj-analytical-services.github.io/splink/#__tabbed_1_2
 
