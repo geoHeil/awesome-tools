@@ -197,6 +197,7 @@
 
 - https://livekit.io/
 - https://huggingface.co/Zyphra/Zonos-v0.1-hybrid
+- https://github.com/nari-labs/dia
 
 ### video
 
@@ -207,6 +208,7 @@
 - https://github.com/containers/ramalama
 - https://ollama.com/
 - https://github.com/vllm-project/vllm
+- https://huggingface.co/moonshotai/Kimi-Audio-7B-Instruct
 
 ## hardware
 
