@@ -362,3 +362,11 @@ databases
 ### quality
 
 - https://practicaldatamodeling.substack.com/p/data-model-smells
+
+## record linkeage
+
+probabilistic
+- https://moj-analytical-services.github.io/splink/#__tabbed_1_2
+
+neat utilities
+- https://github.com/dell-research-harvard/linktransformer
