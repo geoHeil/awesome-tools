@@ -43,3 +43,6 @@ https://www.youtube.com/watch?v=qvdlLTyUJ5I
 ## hosting options
 
 - https://kiranet.org/self-hosting-like-its-2025/
+
+## AI support
+- https://tmuxai.dev/getting-started
