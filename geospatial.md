@@ -49,3 +49,7 @@
 ### deeplearning
 
 - https://github.com/IBM/terratorch
+
+## spatial analysis (fast)
+
+- https://github.com/allenai/atlantes
