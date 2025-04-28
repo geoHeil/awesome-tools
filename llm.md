@@ -133,6 +133,8 @@
 - https://www.youtube.com/watch?v=LcLrG_4i19E
 - backdoor
   - https://blog.sshh.io/p/how-to-backdoor-large-language-models
+ 
+- email summarization copiarate https://www.youtube.com/watch?v=84NVG1c5LRI
 
 #### red teaming
 
