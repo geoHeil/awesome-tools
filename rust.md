@@ -115,6 +115,9 @@
 - https://nexte.st/
 - coverage
   - https://docs.rs/cargo-tarpaulin/latest/cargo_tarpaulin/ `cargo install cargo-tarpaulin` ` cargo tarpaulin --ignore-tests`
+- fuzzer
+  - grammar
+    - https://github.com/R9295/autarkie
  
 #### mocking
 - https://docs.rs/mockall/latest/mockall/
