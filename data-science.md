@@ -250,3 +250,8 @@ entity/identity resolution
 ## cleaning
 
 - https://github.com/cleanlab/cleanlab
+
+## vision
+
+- object detection
+  - object tracking https://github.com/roboflow/trackers
