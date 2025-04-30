@@ -54,6 +54,7 @@
 
 ## detection / evasion
 
+- https://camoufox.com/
 - `!antibot` in discord or self hosted to check
 - https://www.wappalyzer.com/
 - https://scrapingfish.com/webscraping-benchmark
