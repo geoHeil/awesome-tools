@@ -23,6 +23,8 @@ I realized that my photo camera can also record videos. Since then, I always use
 - Nowadays I sue the yeti for most teams/zoom calls and it works great. But for recordings and live streams I use https://rode.com/de/microphones/wireless/wirelesspro directly connected timecoded to my camera for the best streaming/recording/audio experience
 - AH CQ18T
 - shure sm7db
+- audio playback
+ - https://github.com/freeman-jiang/beatsync
 
 ### video
 
