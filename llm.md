@@ -19,6 +19,8 @@
 - prompting frameworks
   - https://github.com/masci/banks
   - https://github.com/boundaryml/baml
+- prompt techniques
+  - CoRT chain of recursive thoughts https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts
 
 ## tokenization
 
