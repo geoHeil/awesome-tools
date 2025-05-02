@@ -160,6 +160,7 @@
 - https://github.com/hiyouga/LLaMA-Factory
 - tool lists
   - https://huyenchip.com/llama-police
+- https://github.com/meta-llama/synthetic-data-kit
  
 ## distributed training
 
