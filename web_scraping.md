@@ -27,6 +27,7 @@
 - https://github.com/Skyvern-AI/skyvern
 - https://github.com/browser-use/browser-use
 - https://convergence.ai/proxy_lite/
+- https://github.com/unclecode/crawl4ai
 
 ### tutorials
 
