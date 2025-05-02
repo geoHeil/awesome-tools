@@ -46,3 +46,11 @@ https://www.youtube.com/watch?v=qvdlLTyUJ5I
 
 ## AI support
 - https://tmuxai.dev/getting-started
+
+## CI
+
+### github actions
+
+local  validation
+
+- https://github.com/bahdotsh/wrkflw
