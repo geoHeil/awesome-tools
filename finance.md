@@ -57,3 +57,8 @@
 ## indicator and analysis
 
 - https://macrodash.streamlit.app/
+
+
+## pre-ipo investment
+
+- https://fundrise.com/Venture
