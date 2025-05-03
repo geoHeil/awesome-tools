@@ -164,6 +164,7 @@
 
 - https://owasp.org/www-project-application-security-verification-standard/
 - https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html
+- https://github.com/biandratti/passivetcp-rs
 
 #### security-web
 
