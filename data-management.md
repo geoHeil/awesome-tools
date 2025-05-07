@@ -373,3 +373,11 @@ probabilistic
 
 neat utilities
 - https://github.com/dell-research-harvard/linktransformer
+
+
+## AI BI apps
+
+- https://www.rilldata.com/
+- https://www.sigmacomputing.com/
+- https://omni.co/
+- https://www.zenlytic.com/
