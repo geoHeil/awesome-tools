@@ -203,6 +203,7 @@
 - https://livekit.io/
 - https://huggingface.co/Zyphra/Zonos-v0.1-hybrid
 - https://github.com/nari-labs/dia
+- https://github.com/KoljaB/RealtimeVoiceChat
 
 ### video
 
