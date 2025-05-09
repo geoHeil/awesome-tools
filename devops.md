@@ -54,3 +54,9 @@ https://www.youtube.com/watch?v=qvdlLTyUJ5I
 local  validation
 
 - https://github.com/bahdotsh/wrkflw
+
+
+## containers
+
+### sizing
+- https://github.com/h33333333/xray
