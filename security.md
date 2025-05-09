@@ -167,3 +167,8 @@
 
 ### printouts
 - https://github.com/dfd-tud/deda
+
+## ebpf
+### encryption
+
+- https://github.com/qpoint-io/qtap
