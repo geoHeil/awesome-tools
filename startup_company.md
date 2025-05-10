@@ -66,6 +66,7 @@ Useful services (not only) for (starting) a company
   - https://www.netspring.io/
 - A/B testing
   - https://www.statsig.com/
+- tech documentation slack bot answers https://www.scoutos.com/
 
 ### sales
 
