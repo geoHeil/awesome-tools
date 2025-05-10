@@ -265,3 +265,10 @@ on demand AI clusters
 ## paper finders
 
 - https://allenai.org/blog/paper-finder
+
+
+## applications
+
+### schooling and tutoring
+
+- https://www.synthesis.com/tutor
