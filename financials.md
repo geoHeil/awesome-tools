@@ -5,3 +5,10 @@
 ## green finance
 
 - https://www.faire-fonds.info/
+
+
+## budgeting
+
+### plaintext
+
+- https://plainbudget.com/
