@@ -1,6 +1,12 @@
 # operating/Starting a company
 
 Useful services (not only) for (starting) a company
+## research lab
+
+this is not so company related - but still really interesting
+
+- https://1517.substack.com/p/why-bell-labs-worked
+- 
 
 ## founding
 ### storytelling
