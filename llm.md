@@ -187,6 +187,9 @@
 - https://github.com/Filimoa/open-parse
 - rag tools
   - https://www.onyx.app/
+### rag applications
+
+- https://arxiv.org/abs/2409.13740
 
 ## workflows
 
