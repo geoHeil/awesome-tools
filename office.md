@@ -3,6 +3,10 @@
 ## charting
 - https://mermaidjs.github.io
 
+## physical
+### room bookings
+
+- https://uniguest.com/de/beschilderung-der-reservierungsraume/
 
 ## tooling
 
