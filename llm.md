@@ -139,6 +139,12 @@
  
 - email summarization copiarate https://www.youtube.com/watch?v=84NVG1c5LRI
 
+
+identifying security issues
+
+- graph aware scanning
+  - https://hiddenlayer.com/innovation-hub/shadowgenes-uncovering-model-genealogy/
+  - https://arxiv.org/abs/2501.11830
 #### red teaming
 
 - https://airedteamwhitepapers.blob.core.windows.net/lessonswhitepaper/MS_AIRT_Lessons_eBook.pdf
