@@ -33,6 +33,10 @@
 - https://www.pinecone.io/
 - https://www.trychroma.com/
 
+## hallucination
+- https://docs.vectara.com/docs/learn/hallucination-evaluation
+
+
 ## private
 
 - https://bdtechtalks.com/2023/06/01/create-privategpt-local-llm/amp/
