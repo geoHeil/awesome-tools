@@ -1,5 +1,10 @@
 # data science
 
+## ethics
+
+- https://book.the-turing-way.org/
+
+
 ## nice overview courseware
 
 - https://mlip-cmu.github.io/s2025/
