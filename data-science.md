@@ -260,3 +260,10 @@ entity/identity resolution
 
 - object detection
   - object tracking https://github.com/roboflow/trackers
+
+
+## interactive computing
+
+notebooks
+
+- https://marimo.io/
