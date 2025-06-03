@@ -265,6 +265,7 @@ databases
 - https://cratedb.com/
 - https://www.hydra.so/
 - https://neon.tech/
+- https://github.com/TFMV/featherman
 
 ### streaming
 
