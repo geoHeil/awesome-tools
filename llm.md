@@ -105,7 +105,7 @@
 - cryptography
   - https://eprint.iacr.org/2025/288
 - prompt injection scanning
-  - - https://arstechnica.com/information-technology/2025/04/researchers-claim-breakthrough-in-fight-against-ais-frustrating-security-hole/ https://arxiv.org/abs/2503.18813
+  - https://arstechnica.com/information-technology/2025/04/researchers-claim-breakthrough-in-fight-against-ais-frustrating-security-hole/ https://arxiv.org/abs/2503.18813
 ### scraper & automation
 
 - https://github.com/browser-use/browser-use
@@ -199,6 +199,8 @@ identifying security issues
 - https://github.com/Filimoa/open-parse
 - rag tools
   - https://www.onyx.app/
+- https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart
+
 ### rag applications
 
 - https://arxiv.org/abs/2409.13740
