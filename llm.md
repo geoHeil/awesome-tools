@@ -209,6 +209,7 @@ identifying security issues
 ## agents
 
 - https://github.com/humanlayer/12-factor-agents
+- https://github.com/The-Pocket/PocketFlow
 
 ## education
 
