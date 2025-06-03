@@ -172,6 +172,7 @@ identifying security issues
 - tool lists
   - https://huyenchip.com/llama-police
 - https://github.com/meta-llama/synthetic-data-kit
+- https://pypi.org/project/tokenlearn/
  
 ## distributed training
 
