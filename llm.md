@@ -200,6 +200,7 @@ identifying security issues
 - rag tools
   - https://www.onyx.app/
 - https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart
+- https://github.com/eyelevelai/groundx-on-prem
 
 ### rag applications
 
