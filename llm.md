@@ -202,6 +202,7 @@ identifying security issues
 - https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart
 - https://github.com/eyelevelai/groundx-on-prem
 - https://github.com/morphik-org/morphik-core
+- https://github.com/timescale/pgai
 
 ### rag applications
 
