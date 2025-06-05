@@ -380,5 +380,9 @@ neat utilities
 
 - https://www.rilldata.com/
 - https://www.sigmacomputing.com/
+
+## duckdb addons
+
+- https://github.com/TFMV/arrowport
 - https://omni.co/
 - https://www.zenlytic.com/
