@@ -142,6 +142,7 @@
   - https://blog.sshh.io/p/how-to-backdoor-large-language-models
  
 - email summarization copiarate https://www.youtube.com/watch?v=84NVG1c5LRI
+- uncensor with abliteration https://colab.research.google.com/drive/1VYm3hOcvCpbGiqKZb141gJwjdmmCcVpR?usp=sharing
 
 
 identifying security issues
@@ -173,6 +174,10 @@ identifying security issues
   - https://huyenchip.com/llama-police
 - https://github.com/meta-llama/synthetic-data-kit
 - https://pypi.org/project/tokenlearn/
+- auto eval https://colab.research.google.com/drive/1Igs3WZuXAIv9X0vwqiE90QlEPys8e8Oa?usp=sharing
+- mergekit https://colab.research.google.com/drive/1obulZ1ROXHjYLn6PPZJwRR6GzgQogxxb?usp=sharing
+- axolotl https://colab.research.google.com/drive/1TsDKNo2riwVmU55gjuBgB1AXVtRRfRHW?usp=sharing
+- unsloth https://colab.research.google.com/drive/164cg_O7SV7G8kZr_JXqLd6VC7pd86-1Z?usp=sharing
  
 ## distributed training
 
