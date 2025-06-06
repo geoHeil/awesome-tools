@@ -381,6 +381,11 @@ neat utilities
 - https://www.rilldata.com/
 - https://www.sigmacomputing.com/
 
+## BI 
+
+- https://github.com/djbarnwal/rill-developer
+
+
 ## duckdb addons
 
 - https://github.com/TFMV/arrowport
