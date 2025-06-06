@@ -1,5 +1,9 @@
 # data science
 
+## great content
+
+- https://www.youtube.com/watch?v=xC-c7E5PK0Y
+
 ## ethics
 
 - https://book.the-turing-way.org/
