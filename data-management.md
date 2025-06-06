@@ -274,6 +274,12 @@ databases
 - https://materialize.com/
 - https://www.decodable.co/
 
+### multimodal
+
+- https://www.lancedb.com/
+### vector
+
+- https://turbopuffer.com/
 ### timeseries
 
 - timescale https://www.timescale.com/
@@ -391,3 +397,8 @@ neat utilities
 - https://github.com/TFMV/arrowport
 - https://omni.co/
 - https://www.zenlytic.com/
+
+
+## semantic layer
+
+- https://www.youtube.com/watch?v=DZkXvdzYlVs https://www.malloydata.dev/
