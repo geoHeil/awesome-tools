@@ -209,6 +209,10 @@ identifying security issues
 - https://github.com/morphik-org/morphik-core
 - https://github.com/timescale/pgai
 
+### graph rag
+
+- https://github.com/Muvon/octocode
+
 ### rag applications
 
 - https://arxiv.org/abs/2409.13740
