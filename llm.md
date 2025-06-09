@@ -246,6 +246,7 @@ identifying security issues
 - https://ollama.com/
 - https://github.com/vllm-project/vllm
 - https://huggingface.co/moonshotai/Kimi-Audio-7B-Instruct
+- https://github.com/sgl-project/sglang
 
 ## hardware
 
