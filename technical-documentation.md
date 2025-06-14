@@ -11,6 +11,7 @@
   - https://asciidoctor.org/
 - https://de.wikipedia.org/wiki/LaTeX
 - https://www.sphinx-doc.org/en/master/
+- https://www.gitbook.com
 
 ### converters
 
@@ -18,4 +19,4 @@
 
 ### DSL
 
-- https://rhai.rs/ (but more generic scriptiong)
+- https://rhai.rs/ (but more generic scripting)
