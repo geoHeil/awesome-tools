@@ -402,3 +402,10 @@ neat utilities
 ## semantic layer
 
 - https://www.youtube.com/watch?v=DZkXvdzYlVs https://www.malloydata.dev/
+
+
+# HPC
+
+## parallel computing
+
+- https://parsl.readthedocs.io/en/stable/
