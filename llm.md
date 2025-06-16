@@ -64,6 +64,7 @@
 
 ## models
 
+- https://x.com/clementdelangue/status/1934672721066991908
 - https://simonwillison.net/2024/Dec/24/qvq/
 - https://simonwillison.net/2024/Dec/26/deepseek-v3/
 
