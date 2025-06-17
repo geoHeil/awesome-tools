@@ -194,6 +194,7 @@ SVD and Marchenko-Pastur seem to be really useful
   - https://www.youtube.com/watch?v=cvOpX75Kz4M
   - https://www.youtube.com/watch?v=qbAvOgGmFuE
 - https://github.com/arcee-ai/EvolKit
+- https://github.com/arcee-ai/DistillKit
 - https://www.arcee.ai/blog/how-arcee-ai-helped-madeline-co-build-a-world-class-reasoning-model-from-first-principles- https://www.arcee.ai/product/arcee-conductor
  
 ## distributed training
