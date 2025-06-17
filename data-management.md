@@ -260,12 +260,14 @@ databases
 
 - Postgres
 - DuckDB
+  - https://www.youtube.com/watch?v=PoHfh6O43uE
 - Starrocks
 - https://github.com/datafuselabs/databend
 - https://cratedb.com/
 - https://www.hydra.so/
 - https://neon.tech/
 - https://github.com/TFMV/featherman
+- https://kuzudb.com/
 
 ### streaming
 
@@ -277,6 +279,11 @@ databases
 ### multimodal
 
 - https://www.lancedb.com/
+### graph
+
+- https://www.youtube.com/watch?v=X_RFo616M_U
+- https://kuzudb.com/
+
 ### vector
 
 - https://turbopuffer.com/

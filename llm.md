@@ -122,6 +122,10 @@
 - https://github.com/greshake/llm-security
 - https://bishopfox.com/resources/rvasec2024-patch-perfect-harmonizing-llms
 
+### ethical challenges
+
+- https://www.youtube.com/watch?v=giT0ytynSqg
+
 ### security problems
 
 - https://theyseeyourphotos.com/
@@ -179,6 +183,18 @@ identifying security issues
 - mergekit https://colab.research.google.com/drive/1obulZ1ROXHjYLn6PPZJwRR6GzgQogxxb?usp=sharing
 - axolotl https://colab.research.google.com/drive/1TsDKNo2riwVmU55gjuBgB1AXVtRRfRHW?usp=sharing
 - unsloth https://colab.research.google.com/drive/164cg_O7SV7G8kZr_JXqLd6VC7pd86-1Z?usp=sharing
+
+### newer efficient way of fine-tuning and distillation
+
+SVD and Marchenko-Pastur seem to be really useful
+
+- https://github.com/arcee-ai/DistillKit https://www.youtube.com/watch?v=JE7SuP049mQ
+- https://github.com/cognitivecomputations/spectrum https://www.youtube.com/watch?v=CTncBjRgktk
+- https://github.com/arcee-ai/mergekit
+  - https://www.youtube.com/watch?v=cvOpX75Kz4M
+  - https://www.youtube.com/watch?v=qbAvOgGmFuE
+- https://github.com/arcee-ai/EvolKit
+- https://www.arcee.ai/blog/how-arcee-ai-helped-madeline-co-build-a-world-class-reasoning-model-from-first-principles- https://www.arcee.ai/product/arcee-conductor
  
 ## distributed training
 
