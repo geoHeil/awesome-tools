@@ -75,6 +75,8 @@ this is not so company related - but still really interesting
 - tech documentation slack bot answers https://www.scoutos.com/
 - document and link analytics
   - short.io
+- google analytics explained
+  - https://www.youtube.com/watch?v=--RTXzVNNps  
 
 ### sales
 
