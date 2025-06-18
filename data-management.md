@@ -397,6 +397,7 @@ neat utilities
 ## BI 
 
 - https://github.com/djbarnwal/rill-developer
+- https://github.com/visivo-io/visivo
 
 
 ## duckdb addons

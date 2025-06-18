@@ -14,3 +14,4 @@
 
 - https://bowshock.nl/irc/
   - https://ripe90.ripe.net/archives/video/1582/
+  - https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/
