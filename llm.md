@@ -92,6 +92,7 @@
 
 - https://python.useinstructor.com/
 - https://github.com/vlm-run/vlmrun-cookbook and good comments https://news.ycombinator.com/item?id=43187209
+- https://github.com/boundaryml/baml
 
 #### naming entities
 
