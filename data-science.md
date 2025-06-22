@@ -63,6 +63,16 @@
 - vaex
 - https://ibis-project.org/
 - https://github.com/pola-rs/polars
+  - https://talkpython.fm/episodes/show/510/10-polars-tools-and-techniques-to-level-up-your-data-science
+    - https://github.com/ddotta/awesome-polars
+    - https://github.com/quantco/dataframely
+    - https://github.com/JakobGM/patito
+    - https://github.com/foxcroftjn/polars-strsim
+    - https://github.com/zlobendog/polars_encryption
+    - https://github.com/pola-rs/polars-xdt
+    - https://github.com/TomBurdge/harley
+    - https://github.com/azmyrajab/polars_ols
+    - https://github.com/erichutchins/polars_iptools
 
 ## experiment design
 
