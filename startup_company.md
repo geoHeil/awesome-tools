@@ -117,6 +117,10 @@ call transcription tools/AIs
 
 - https://www.fundingsimulator.com/
 
+#### equity
+
+- https://comparator-one.vercel.app/
+
 ### billing
 
 - Pricing: https://www.tier.run/
