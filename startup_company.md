@@ -159,6 +159,7 @@ call transcription tools/AIs
 - MS Office
 - https://nino.app/
 - https://github.com/suitenumerique/docs
+- https://cryptpad.org/
 
 ### prototyping
 
