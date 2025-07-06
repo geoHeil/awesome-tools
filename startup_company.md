@@ -212,7 +212,8 @@ call transcription tools/AIs
 
 - https://ui.shadcn.com/
 - https://www.figma.com/community/file/1233953507961010067/tremor-ui-kit-community
-
+- https://magicui.design/
+- 
 #### workflows
 
 - dagster https://docs.dagster.io/integrations/embedded-elt
