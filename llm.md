@@ -244,6 +244,11 @@ SVD and Marchenko-Pastur seem to be really useful
 - https://github.com/humanlayer/12-factor-agents
 - https://github.com/The-Pocket/PocketFlow
 
+## verification & Testing
+
+- 10.17323/jle.2020.11046
+
+
 ## education
 
 ### audio
