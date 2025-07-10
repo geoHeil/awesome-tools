@@ -7,6 +7,8 @@
 - [demopro](http://www.demoproapp.com/)
   - allows to draw on the screen and have a timer
 - dynamic dataset: https://drawdata.xyz/
+- terminal presentation https://github.com/mfontanini/presenterm/?tab=readme-ov-file
+- https://github.com/BuoyantIO/demosh
 
 ## some presentations - mostly at meetups
 
@@ -15,3 +17,4 @@
   - R summer school https://docs.google.com/presentation/d/1VgocCul4ZyLVDqqr6iXsBRmmwsGhJkZj6-lzgdXs0ag/edit
   - meetup https://www.youtube.com/watch?v=CTy2NB_2Jyk and slides https://docs.google.com/presentation/d/1NHG7-WoEUsjrdxFjy01OmZjxWB-FZomhfrxO-QapzKg/edit
 - processing geospatial data https://docs.google.com/presentation/d/1wBMFVv-4iaVfbmH5GNynvSaTAMQtWpUoHuMNHP83Uys/edit?usp=sharing
+
