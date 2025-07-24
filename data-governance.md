@@ -23,6 +23,7 @@
 ## metadata
 
 - https://www.querybook.org/
+- https://github.com/mlcommons/croissant
 ### lineage
 - https://github.com/reata/sqllineage
 
