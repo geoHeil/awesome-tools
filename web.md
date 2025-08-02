@@ -8,6 +8,11 @@
 ## development
 
 - https://github.com/sansyrox/robyn
+### python
+
+rust interop
+- https://github.com/sparckles/Robyn
+
 
 ### cms
 
