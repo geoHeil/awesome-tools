@@ -76,7 +76,9 @@ this is not so company related - but still really interesting
 - document and link analytics
   - short.io
 - google analytics explained
-  - https://www.youtube.com/watch?v=--RTXzVNNps  
+  - https://www.youtube.com/watch?v=--RTXzVNNps
+- https://about.scarf.sh/
+- https://www.memberstack.com/
 
 ### sales
 
