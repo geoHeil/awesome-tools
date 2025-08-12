@@ -13,6 +13,9 @@
  - https://github.com/cnstlungu/portable-data-stack-dagster/tree/main
  - https://github.com/dagster-io/dagster-open-platform
    - https://medium.com/@edsoncezar16/asset-level-concurrency-limits-via-declarative-scheduling-c4da3a875cf4
+   - observability in dagster with grafana/prometheus
+     - https://metaops.solutions/blog/dagster-monitoring-prometheus-dbt-assets-sql-transformations-part-2
+     - https://metaops.solutions/blog/dagster-monitoring-prometheus-system-metrics-custom-assets-part-1
 
 ### editor tooling
 
