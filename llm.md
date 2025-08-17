@@ -243,6 +243,7 @@ SVD and Marchenko-Pastur seem to be really useful
 
 - https://github.com/humanlayer/12-factor-agents
 - https://github.com/The-Pocket/PocketFlow
+- https://claudiacode.com/
 
 ### parallel agentic development
 
