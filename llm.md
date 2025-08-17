@@ -296,6 +296,9 @@ on demand AI clusters
   - https://github.com/3b1b/manim
 - https://github.com/exo-explore/exo
 
+## video generation
+
+- https://github.com/Wan-Video/Wan2.2
 ## realtime
 ### audio
 
