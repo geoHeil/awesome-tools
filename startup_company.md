@@ -80,6 +80,10 @@ this is not so company related - but still really interesting
 - https://about.scarf.sh/
 - https://www.memberstack.com/
 
+document sending
+
+- https://www.papermark.com/de
+
 ### sales
 
 call transcription tools/AIs
