@@ -420,3 +420,9 @@ neat utilities
 ## parallel computing
 
 - https://parsl.readthedocs.io/en/stable/
+
+
+# ducklake
+## sqlmesh
+
+- https://www.linkedin.com/pulse/build-open-lakehouse-your-laptop-ducklake-sqlmesh-madson-msc-mba-kjuzc/?trackingId=ys2obi8yJyaftwCY1vg0Gw%3D%3D
