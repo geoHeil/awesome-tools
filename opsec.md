@@ -11,6 +11,12 @@
 - https://www.systemli.org/service/mail/
 - https://riseup.net/
 
+### phones
+
+burner
+
+- https://rebeccawilliams.info/burner-phone-101/ and https://news.ycombinator.com/item?id=44967543
+
 ## privacy preserving operating systems
 
 - https://grapheneos.org/
