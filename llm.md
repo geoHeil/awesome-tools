@@ -342,3 +342,9 @@ on demand AI clusters
 
 - religion
   - vatican AI rules https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html
+ 
+## mcp
+
+### registry
+
+- https://github.com/IBM/mcp-context-forge
