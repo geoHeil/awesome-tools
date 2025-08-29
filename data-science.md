@@ -292,3 +292,7 @@ notebooks
 ### minhash
 
 - https://github.com/beowolx/rensa
+
+## automl
+
+- https://github.com/autogluon/autogluon
