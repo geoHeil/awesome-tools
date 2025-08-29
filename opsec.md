@@ -34,3 +34,10 @@ burner
 ## tracking examples
 
 - https://www.notrace.how/earsandeyes/
+
+
+## vpn
+
+evasion
+
+- https://news.ycombinator.com/item?id=45054260
