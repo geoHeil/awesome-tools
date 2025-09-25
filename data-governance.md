@@ -32,3 +32,7 @@
 
 - spark telemetry
     - https://github.com/cerndb/SparkPlugins
+
+## privacy
+
+- https://www.youtube.com/watch?v=EqQdaHSBbY8
