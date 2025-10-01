@@ -11,6 +11,7 @@
 - https://www.zenrows.com/blog/web-scraping-tools
 - https://www.scrapingbee.com/
 - https://www.zyte.com/scrapy-cloud/
+- https://github.com/apify/crawlee-python/
  
 - no-code/low-code tools
   - https://pixeljets.com/web-scraping-api/
