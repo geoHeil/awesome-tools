@@ -297,6 +297,8 @@ databases
 - https://questdb.io/
 - https://tembo.io/blog/pg-timeseries
 - https://github.com/GreptimeTeam/greptimedb
+- duckdb inspired
+  - https://github.com/Basekick-Labs/arc
 
 ### key-value (like)
 
