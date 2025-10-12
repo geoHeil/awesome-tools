@@ -60,6 +60,8 @@
 > In the case of MUSL ensure to:
 > - use an alternative allocator such as mimalloc by patching MSUL
 > - or directly compile it together (may be simpler for bazel) https://github.com/linkerd/linkerd2/commit/aaa6091ea86eb988e68eda16bdc9b59db9d96076#diff-63a2e5c64764a441fcbc73dc27b1a8e684df057ffd54ad39e66e2a643020eb0d
+>
+- https://kerkour.com/rust-pingoo-high-performance-allocations-mimalloc-heapless
 
 ### scaling the build beyond cargo
 
