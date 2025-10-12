@@ -207,6 +207,7 @@
 
 ### profiling
 - https://github.com/tikv/pprof-rs
+- https://github.com/pawurb/hotpath
 
 ## frameworks
 
