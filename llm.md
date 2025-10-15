@@ -348,3 +348,10 @@ on demand AI clusters
 ### registry
 
 - https://github.com/IBM/mcp-context-forge
+
+
+## applications
+
+### observability
+
+- https://github.com/Arize-ai/phoenix
