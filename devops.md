@@ -71,6 +71,10 @@ local  validation
 
 ## tools
 
+### text
+
+- https://www.lazyvim.org/
+
 ### disk
 
 https://github.com/bootandy/dust
