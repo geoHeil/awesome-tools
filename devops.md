@@ -68,3 +68,18 @@ local  validation
 ### platform engineering
 
 - https://github.com/microsandbox/microsandbox
+
+## tools
+
+### disk
+
+https://github.com/bootandy/dust
+
+### search
+
+- https://github.com/facebook/pathpicker/
+- https://github.com/BurntSushi/ripgrep
+
+### tmux
+
+- https://github.com/gpakosz/.tmux
