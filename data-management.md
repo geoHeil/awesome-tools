@@ -231,12 +231,14 @@ databases
 
 # quality
 
+- https://github.com/Quantco/dataframely
+
 ## consistency
 
 # BI
 
 - https://evidence.dev/
-- 
+
 
 - https://github.com/IvorySQL/IvorySQL
 
