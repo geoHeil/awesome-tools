@@ -216,6 +216,8 @@
 - actor
   - https://github.com/elfo-rs/elfo
 
+- ai
+  - https://burn.dev/
 
 ## verification
 
