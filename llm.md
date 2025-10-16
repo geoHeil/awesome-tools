@@ -50,6 +50,7 @@
 ### full e2e example
 
 - https://github.com/praj2408/Langchain-PDF-App-GUI
+- https://github.com/pipeshub-ai/pipeshub-ai
 
 ### ready made connectors
 
