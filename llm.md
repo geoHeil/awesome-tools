@@ -127,6 +127,12 @@
 
 - https://www.youtube.com/watch?v=giT0ytynSqg
 
+### security considerations
+
+- https://www.microsoft.com/en-us/security/blog/2025/04/24/new-whitepaper-outlines-the-taxonomy-of-failure-modes-in-ai-agents/
+- https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/ANSSI-BSI-joint-releases/LLM-based_Systems_Zero_Trust.pdf?__blob=publicationFile&v=3
+- https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/
+
 ### security problems
 
 - https://theyseeyourphotos.com/
