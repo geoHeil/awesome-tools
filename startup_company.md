@@ -317,3 +317,10 @@ call transcription tools/AIs
 
 content sharing
 - https://kit.com/
+
+
+## IT
+
+### CI/CD
+
+- https://depot.dev/
