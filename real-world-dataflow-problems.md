@@ -170,7 +170,14 @@ https://thefrugalarchitect.com/
 
 ## cloud
 
+### regions
+
+- consider more than the basic cloud needs
+- consider the need for AI and big + many gpus and if your desired cloud region offers this capability
+
 ### de-cloudifixation/ re-patriation
+
+- ensure you control the interface (at least) if not the implementation
 
 ## logging
 
