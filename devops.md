@@ -87,3 +87,6 @@ https://github.com/bootandy/dust
 ### tmux
 
 - https://github.com/gpakosz/.tmux
+  - keys Ctrl B +
+    - `-/_` to split horizontally/vertically
+    - `m` for mouse mode
