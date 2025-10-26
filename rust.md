@@ -21,6 +21,7 @@
 ### wow presentations
 
 - https://www.youtube.com/watch?v=Lc8lBMEJQdo
+- https://www.youtube.com/watch?v=mtERSY1wRcA
 
 ### Tips
 - https://blog.sdf.com/p/fast-development-in-rust-part-one
