@@ -3,6 +3,7 @@
 ## great content
 
 - https://www.youtube.com/watch?v=xC-c7E5PK0Y
+- https://github.com/harvard-edge/cs249r_book
 
 ## ethics
 
@@ -111,7 +112,12 @@ MLops overview: https://github.com/visenger/awesome-mlops
   - https://github.com/dreamquark-ai/tabnet
 
 - https://lets-unify.ai/
-  
+
+## trees
+### boosted
+
+- https://github.com/Pushp-Kharat1/PkBoost
+
 ## neighbor search
 
 - https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html
@@ -296,3 +302,8 @@ notebooks
 ## automl
 
 - https://github.com/autogluon/autogluon
+
+## system design for ML
+
+- https://github.com/harvard-edge/cs249r_book
+- 
