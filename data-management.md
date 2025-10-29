@@ -287,7 +287,7 @@ databases
 ### graph
 
 - https://www.youtube.com/watch?v=X_RFo616M_U
-- https://kuzudb.com/
+- https://kuzudb.com/ replaced by https://ladybugdb.com/
 
 ### vector
 
