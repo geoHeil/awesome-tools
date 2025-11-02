@@ -254,6 +254,10 @@ SVD and Marchenko-Pastur seem to be really useful
 - https://github.com/The-Pocket/PocketFlow
 - https://claudiacode.com/
 
+### agent.md/claude.md tips
+
+- https://blog.sshh.io/p/how-i-use-every-claude-code-feature
+
 ### parallel agentic development
 
 - https://conductor.build/
