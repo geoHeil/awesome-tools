@@ -192,6 +192,8 @@
   - https://opendal.apache.org/
 - language models
   - https://docs.rs/kalosm/latest/kalosm/
+- serialization
+  - https://fory.apache.org/blog/fory_rust_versatile_serialization_framework/
 ### data engineering and rust
 
 - https://blog.duyet.net/2023/06/fossil-data-platform-written-rust.html
