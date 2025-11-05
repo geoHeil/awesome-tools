@@ -365,6 +365,13 @@ on demand AI clusters
 
 ## applications
 
+### local inferencing
+
+- https://github.com/ggml-org/LlamaBarn
+- https://lmstudio.ai/
+- https://anythingllm.com/
+- https://localai.io/
+
 ### observability
 
 - https://github.com/Arize-ai/phoenix
