@@ -302,6 +302,7 @@ on demand AI clusters
 - https://colab.research.google.com/
 - https://www.anyscale.com
 - https://www.fluidstack.io
+- https://www.clustermax.ai/
 
 ### validation of hardware
 - check cooling issues
