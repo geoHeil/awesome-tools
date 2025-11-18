@@ -56,6 +56,7 @@ this is not so company related - but still really interesting
 
 ### time booking
 - https://www.kimai.org/
+- https://sisevo.com/zeitmanagement/zeiterfassung
 
 ## marketing
 
