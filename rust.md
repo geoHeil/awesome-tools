@@ -99,6 +99,7 @@
 ### linters
 
 - clippy https://doc.rust-lang.org/clippy/installation.html ` rustup component add clippy`, `cargo clippy`, `cargo clippy -- -D warnings`
+  - https://www.schneems.com/2025/11/19/find-accidental-code-usage-with-a-custom-clippytoml/
 - security audit ` cargo install cargo-audit`, `cargo audit`
 - https://github.com/EmbarkStudios/cargo-deny `cargo install --locked cargo-deny && cargo deny init && cargo deny check`
 - semver https://github.com/obi1kenobi/cargo-semver-checks
