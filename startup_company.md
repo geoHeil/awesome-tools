@@ -138,6 +138,7 @@ call transcription tools/AIs
 - https://www.ballerine.com/
 - https://tigerbeetle.com/
 - https://www.corefin.com/
+- https://github.com/flowglad/flowglad
 
 ### invoicing
 
