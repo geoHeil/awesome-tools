@@ -172,6 +172,10 @@ call transcription tools/AIs
 ### prototyping
 
 - https://wireflow.co/
+- sharing something
+  - https://tunnl.gg/
+- simple scalable hosting
+  - https://uncloud.run/
 
 ### developer experience
 
