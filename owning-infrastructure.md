@@ -9,6 +9,7 @@
 ### VCS
 
 - https://github.com/aviator-co/av for https://www.stacking.dev/
+  -  https://github.com/jj-vcs/jj
 
 ### OS
 
