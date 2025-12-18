@@ -297,6 +297,11 @@ on demand AI clusters
 - https://hpc-ai.com
 - https://lambdalabs.com/service/gpu-cloud/1-click-clusters
 - https://vast.ai/
+- https://nebius.com/
+- runpod
+- hyperstack
+- coreweave
+- crusoe
 - https://www.paperspace.com
 - https://huggingface.co/spaces
 - https://colab.research.google.com/
