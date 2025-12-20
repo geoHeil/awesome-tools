@@ -3,6 +3,7 @@
 ## IT
 
 - https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view
+- https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1
 
 ### VCS
 
