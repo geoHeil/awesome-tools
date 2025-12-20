@@ -1,10 +1,8 @@
-# owning infrastructure
+# owning infrastructure - selfhosting
 
 ## IT
 
 - https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view
-
-## self hosting
 
 ### VCS
 
@@ -22,3 +20,8 @@ containers
 - https://github.com/l-mds/local-data-stack/
 
 
+## home
+
+### social media
+
+- https://timelinize.com/
