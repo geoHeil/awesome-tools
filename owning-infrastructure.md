@@ -6,6 +6,7 @@
 - https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1
   - https://github.com/vitabaks/autobase
   - https://news.ycombinator.com/item?id=46336947
+  - https://cloudnative-pg.io/
 
 ### VCS
 
