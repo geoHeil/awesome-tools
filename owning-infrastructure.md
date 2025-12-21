@@ -81,7 +81,10 @@ containers
 - https://github.com/bigdatarepublic/open-data-platform?tab=readme-ov-file
 - https://github.com/l-mds/local-data-stack/
 
+### communication
 
+- matrix
+  - https://github.com/spantaleev/matrix-docker-ansible-deploy
 ## home
 
 ### social media
