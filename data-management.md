@@ -864,3 +864,11 @@ neat utilities
 ## sqlmesh
 
 - https://www.linkedin.com/pulse/build-open-lakehouse-your-laptop-ducklake-sqlmesh-madson-msc-mba-kjuzc/?trackingId=ys2obi8yJyaftwCY1vg0Gw%3D%3D
+
+
+
+# data architecture
+
+## great talks
+
+- https://www.youtube.com/watch?v=WRg13Ze_UpY
