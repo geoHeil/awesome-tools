@@ -224,6 +224,11 @@ SVD and Marchenko-Pastur seem to be really useful
 - https://www.gradio.app/
 - https://streamlit.io/
 
+### router/proxy
+
+- https://github.com/katanemo/archgw
+- litellm
+
 ## rag frameworks
 
 - https://github.com/llmware-ai/llmware
