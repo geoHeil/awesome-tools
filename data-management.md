@@ -682,6 +682,10 @@ databases
 
 ## model
 
+### modeling approaches
+
+- https://williaminmon.substack.com/p/a-tale-of-two-architectures-kimball
+
 ### modeling tools
 
 - https://www.drawdb.app/
