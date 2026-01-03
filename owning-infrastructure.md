@@ -59,6 +59,9 @@
 ### documents
 
 - https://github.com/paperless-ngx/paperless-ngx
+#### content
+- https://indieweb.org/POSSE#
+
 
 #### photos
 - https://www.photoprism.app/
