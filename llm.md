@@ -23,6 +23,11 @@
 - prompt techniques
   - CoRT chain of recursive thoughts https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts
 
+### hooks
+
+safety
+- https://www.youtube.com/watch?v=VqDs46A8pqE
+
 ## tokenization
 
 - https://github.com/openai/tiktoken
