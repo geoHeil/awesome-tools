@@ -2,6 +2,7 @@
 
 ## IT
 
+- https://blog.comma.ai/datacenter/
 - https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view
 - https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1
   - https://github.com/vitabaks/autobase
@@ -18,6 +19,9 @@
 - https://opalstack.com/
 - https://www.hetzner.com
 
+#### own
+- https://oxide.computer/
+
 ### database
 
 - https://autobase.tech/
@@ -29,6 +33,12 @@
 - https://uptimekuma.org/
 - https://github.com/aristocratos/btop
 - https://github.com/nicolargo/glances
+
+### Ops
+
+artifacts
+- https://github.com/artifact-keeper
+
 ### VCS
 
 - https://about.gitea.com/

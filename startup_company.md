@@ -139,6 +139,7 @@ call transcription tools/AIs
 - https://tigerbeetle.com/
 - https://www.corefin.com/
 - https://github.com/flowglad/flowglad
+- https://github.com/pretzelai/stripe-no-webhooks
 
 ### invoicing
 
@@ -157,6 +158,11 @@ call transcription tools/AIs
   - https://www.reddit.com/r/Office365/comments/mctsmx/setup_sso_office_365_with_idp_example_keycloak/
 
 ## software
+
+
+### distribution
+
+- https://github.com/distr-sh/distr
 
 ### hosting
 

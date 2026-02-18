@@ -308,6 +308,7 @@ on demand AI clusters
 - https://lambdalabs.com/service/gpu-cloud/1-click-clusters
 - https://vast.ai/
 - https://nebius.com/
+- https://verda.com/instant-clusters
 - runpod
 - hyperstack
 - coreweave
@@ -391,3 +392,29 @@ on demand AI clusters
 ### observability
 
 - https://github.com/Arize-ai/phoenix
+
+## useful learnings
+
+### guardrails
+
+typing
+- https://github.com/germanicdev/germanic
+
+constriants
+
+- https://news.ycombinator.com/item?id=46916586
+  - strong typing
+  - linting and formatting
+  - cyclomatic complexity rules
+  - max line length
+  - max lines per file
+  - unused code analysis
+  - duplication analysis
+  - modularisation enforcement
+  - security check
+  - scripts to ensure shared/util directories are not over stuffed 
+    
+### prompts
+
+market research
+- https://x.com/socialwithaayan/status/2021233357514997824
