@@ -37,6 +37,15 @@
 
 - https://zed.dev/
 
+
+### VCS
+
+#### stacking
+
+- https://www.stacking.dev/
+- https://github.com/cesarferreira/stax
+- https://github.com/jj-vcs/jj
+
 ## web requests
 
 - https://www.usebruno.com/
