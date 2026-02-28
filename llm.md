@@ -263,6 +263,13 @@ SVD and Marchenko-Pastur seem to be really useful
 - https://github.com/humanlayer/12-factor-agents
 - https://github.com/The-Pocket/PocketFlow
 - https://claudiacode.com/
+- https://github.com/Hona/opencode-ralph
+- firmware max https://buy.stripe.com/14A5kC4W79ee0Pm42ea3u01?prefilled_promo_code=EARLYBIRDZ
+
+```
+@code-simplifier:code-simplifier
+```
+- https://www.atcyrus.com/stories/claude-code-code-simplifier-agent-guide
 
 ### agent.md/claude.md tips
 
@@ -286,6 +293,7 @@ SVD and Marchenko-Pastur seem to be really useful
 - https://github.com/nari-labs/dia
 - https://github.com/KoljaB/RealtimeVoiceChat
 - https://github.com/resemble-ai/chatterbox
+- https://handy.computer/
 
 ### video
 
