@@ -328,6 +328,10 @@ on demand AI clusters
 - https://www.fluidstack.io
 - https://www.clustermax.ai/
 
+### selecting the right model for the hardware
+
+- https://github.com/AlexsJones/llmfit
+
 ### validation of hardware
 - check cooling issues
   - https://github.com/huggingface/gpu-fryer
