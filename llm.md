@@ -279,6 +279,12 @@ SVD and Marchenko-Pastur seem to be really useful
 
 - https://conductor.build/
 
+## harnesses / stacks
+
+- https://github.com/bytedance/UI-TARS-desktop
+- https://github.com/first-fluke/oh-my-agent
+
+
 ## verification & Testing
 
 - 10.17323/jle.2020.11046
