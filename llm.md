@@ -284,6 +284,10 @@ SVD and Marchenko-Pastur seem to be really useful
 - https://github.com/bytedance/UI-TARS-desktop
 - https://github.com/first-fluke/oh-my-agent
 
+## interesting skills/templates
+
+- https://github.com/obra/superpowers
+- https://github.com/garrytan/gstack
 
 ## verification & Testing
 
