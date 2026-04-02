@@ -284,6 +284,11 @@ SVD and Marchenko-Pastur seem to be really useful
 - https://github.com/bytedance/UI-TARS-desktop
 - https://github.com/first-fluke/oh-my-agent
 
+## memory
+
+- https://github.com/danja/semem
+- https://github.com/topoteretes/cognee
+
 ## interesting skills/templates
 
 - https://github.com/obra/superpowers
