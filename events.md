@@ -4,6 +4,7 @@
 
 - https://mini-conf.github.io
 - https://pretalx.com/p/about/
+- https://hotcrp.com/
 
 ## events
 
