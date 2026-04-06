@@ -54,6 +54,7 @@
 - https://github.com/laramies/theHarvester
 - https://github.com/j3ssie/Osmedeus
 - https://github.com/jaeles-project/jaeles
+- https://github.com/quantasci/logrip
 
 #### cloud
 
