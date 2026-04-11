@@ -445,3 +445,33 @@ constriants
 
 market research
 - https://x.com/socialwithaayan/status/2021233357514997824
+
+
+
+## stuff to explore more
+
+workflow
+
+- https://cesarferreira.com/stax/workflows/agent-worktrees/
+- https://github.com/repowise-dev/repowise
+
+security
+
+- 
+
+some stacks
+
+- https://github.com/garrytan/gstack
+- https://github.com/coreyhaines31/marketingskills
+
+data agent
+
+- https://github.com/getnao/nao
+
+legal
+
+- https://github.com/zubair-trabzada/ai-legal-claude
+
+HR & career
+
+- https://github.com/santifer/career-ops
