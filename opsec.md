@@ -18,6 +18,7 @@ burner
 
 - https://rebeccawilliams.info/burner-phone-101/ and https://news.ycombinator.com/item?id=44967543
 - https://www.youtube.com/watch?v=i0IfCfhOHN4
+- https://activistchecklist.org/secondary
 
 ## privacy preserving operating systems
 
@@ -28,6 +29,10 @@ burner
 - https://www.notrace.how/
 - https://antirepression.noblogs.org/
 - https://antirepression.noblogs.org/129-broschuere/
+
+## digital security 
+
+- https://activistchecklist.org/
 
 ## legal toolkits
 
