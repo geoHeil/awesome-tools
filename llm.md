@@ -246,6 +246,10 @@ SVD and Marchenko-Pastur seem to be really useful
 - https://github.com/morphik-org/morphik-core
 - https://github.com/timescale/pgai
 
+### chunking
+
+- https://github.com/HaroldConley/chunk-norris
+
 ### graph rag
 
 - https://github.com/Muvon/octocode
