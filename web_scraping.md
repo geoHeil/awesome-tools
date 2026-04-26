@@ -30,6 +30,7 @@
 - https://convergence.ai/proxy_lite/
 - https://github.com/unclecode/crawl4ai
 - https://github.com/D4Vinci/Scrapling
+- https://github.com/kreuzberg-dev/kreuzcrawl
 
 ### tutorials
 
