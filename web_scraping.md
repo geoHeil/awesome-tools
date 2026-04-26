@@ -48,6 +48,8 @@
 
 ## deployments
 
+- https://www.kernel.sh/
+
 ## scaling
 
 - AWS lambda (serverless)
