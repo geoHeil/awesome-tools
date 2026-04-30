@@ -346,6 +346,8 @@ on demand AI clusters
 - https://www.anyscale.com
 - https://www.fluidstack.io
 - https://www.clustermax.ai/
+- eu
+  - https://www.firebird.ai/
 
 ### selecting the right model for the hardware
 
