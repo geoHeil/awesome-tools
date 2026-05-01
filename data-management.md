@@ -573,6 +573,7 @@ databases
   - https://www.youtube.com/watch?v=PoHfh6O43uE
   - addons
     - https://query-farm.github.io/duckdb-developer-day-1-extension-workshop/6
+  - https://github.com/CITGuru/openduck
 - Starrocks
 - https://github.com/datafuselabs/databend
 - https://cratedb.com/

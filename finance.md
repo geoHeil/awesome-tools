@@ -62,3 +62,10 @@
 ## pre-ipo investment
 
 - https://fundrise.com/Venture
+
+
+## polymarket
+
+### bots
+
+- https://github.com/sterlingcrispin/nothing-ever-happens/tree/main

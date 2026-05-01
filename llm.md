@@ -481,3 +481,7 @@ legal
 HR & career
 
 - https://github.com/santifer/career-ops
+
+Agents
+
+- https://github.com/nousresearch/hermes-agent
