@@ -485,3 +485,6 @@ HR & career
 Agents
 
 - https://github.com/nousresearch/hermes-agent
+
+Design
+- https://styles.refero.design/
