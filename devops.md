@@ -58,6 +58,13 @@ local  validation
 
 ## containers
 
+### k8s
+
+virtual clusters
+
+- https://github.com/loft-sh/vcluster
+- 
+
 ### sizing
 - https://github.com/h33333333/xray
 
