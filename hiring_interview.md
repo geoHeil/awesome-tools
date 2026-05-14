@@ -15,6 +15,7 @@
   - https://www.jobscan.co
   - https://www.vmock.com/site
 - https://huyenchip.com/ml-interviews-book/
+- https://resumegrade.ai/
 
 
 # salary negotiation
