@@ -488,3 +488,17 @@ Agents
 
 Design
 - https://styles.refero.design/
+
+
+finance
+- https://github.com/TauricResearch/TradingAgents
+
+unclassified
+
+- https://github.com/yvgude/lean-ctx
+- https://github.com/router-for-me/CLIProxyAPI
+- https://github.com/Soju06/codex-lb and https://github.com/snipeship/ccflare
+- https://github.com/prakersh/codexmultiauth
+- https://github.com/juyterman1000/entroly
+- https://github.com/ruvnet/ruflo
+- https://github.com/sergebulaev/linkedin-skills
