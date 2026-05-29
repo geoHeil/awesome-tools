@@ -596,7 +596,9 @@ databases
 
 - https://www.youtube.com/watch?v=X_RFo616M_U
 - https://kuzudb.com/ replaced by https://ladybugdb.com/
-- https://grafeo.dev
+- https://grafeo.dev https://github.com/GrafeoDB/grafeo
+- https://arango.ai/
+- https://github.com/indradb/indradb
 
 ### vector
 
@@ -611,6 +613,8 @@ databases
 - duckdb inspired
   - https://github.com/Basekick-Labs/arc
 
+#### temporal immutable
+- https://xtdb.com/
 ### key-value (like)
 
 - Redis
@@ -641,6 +645,10 @@ databases
 
 - approximate
   - https://github.com/citusdata/postgresql-hll
+
+### GPU based
+
+- https://www.sirius-db.com/
 
 ## interesting message queues
 
