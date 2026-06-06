@@ -657,6 +657,8 @@ databases
 ### on basis of PostgreSQL
 - https://github.com/tembo-io/pgmq
 - https://github.com/hatchet-dev/hatchet
+- temporalio https://github.com/temporalio/sdk-python
+- https://github.com/microsoft/pg_durable
 
 ## visualization and admin
 
