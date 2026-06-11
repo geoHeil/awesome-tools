@@ -288,6 +288,9 @@ databases
 
 - https://www.youtube.com/watch?v=X_RFo616M_U
 - https://kuzudb.com/ replaced by https://ladybugdb.com/
+- https://github.com/HelixDB/helix-db/tree/main
+- https://grafeo.dev
+- https://www.puppygraph.com/
 
 ### vector
 
