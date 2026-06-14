@@ -461,6 +461,11 @@ workflow
 - https://cesarferreira.com/stax/workflows/agent-worktrees/
 - https://github.com/repowise-dev/repowise
 
+IT/coding
+
+- https://github.com/DietrichGebert/ponytail
+
+
 security
 
 - https://agent-safehouse.dev/
