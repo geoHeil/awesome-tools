@@ -507,3 +507,6 @@ unclassified
 - https://github.com/juyterman1000/entroly
 - https://github.com/ruvnet/ruflo
 - https://github.com/sergebulaev/linkedin-skills
+
+loops
+- https://cobusgreyling.github.io/loop-engineering/
