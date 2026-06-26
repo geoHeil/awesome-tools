@@ -510,3 +510,6 @@ unclassified
 
 loops
 - https://cobusgreyling.github.io/loop-engineering/
+
+routing
+- https://github.com/workweave/router
