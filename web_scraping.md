@@ -60,7 +60,11 @@
 
 ## detection / evasion
 
+alterantive browsers
 - https://camoufox.com/
+- https://github.com/h4ckf0r0day/obscura
+
+others
 - `!antibot` in discord or self hosted to check
 - https://www.wappalyzer.com/
 - https://scrapingfish.com/webscraping-benchmark
