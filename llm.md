@@ -464,6 +464,8 @@ workflow
 IT/coding
 
 - https://github.com/DietrichGebert/ponytail
+- https://x.com/anatolikopadze/status/2072308819162476892
+  - https://github.com/kunchenguid
 
 
 security
