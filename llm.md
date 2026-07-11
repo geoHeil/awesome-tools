@@ -501,6 +501,10 @@ Design
 finance
 - https://github.com/TauricResearch/TradingAgents
 - https://github.com/xbtlin/ai-berkshire
+- https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment
+- https://github.com/C00ldudeNoonan/economic-data-project
+- https://github.com/Ganador1/FenixAI_tradingBot
+
 
 unclassified
 
