@@ -488,6 +488,7 @@ legal
 HR & career
 
 - https://github.com/santifer/career-ops
+- https://github.com/MadsLorentzen/ai-job-search
 
 Agents
 
