@@ -499,6 +499,7 @@ Design
 
 finance
 - https://github.com/TauricResearch/TradingAgents
+- https://github.com/xbtlin/ai-berkshire
 
 unclassified
 
@@ -515,3 +516,6 @@ loops
 
 routing
 - https://github.com/workweave/router
+
+local AI
+- glm 5.2 https://github.com/JustVugg/colibri
