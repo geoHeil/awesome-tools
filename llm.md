@@ -468,9 +468,13 @@ IT/coding
   - https://github.com/kunchenguid
 
 
-security
+security (protection tools)
 
 - https://agent-safehouse.dev/
+
+security (red teaming)
+
+- https://github.com/elder-plinius/T3MP3ST
 
 some stacks
 
