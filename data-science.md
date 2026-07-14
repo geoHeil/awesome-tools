@@ -85,10 +85,10 @@ MLops overview: https://github.com/visenger/awesome-mlops
 
 - mlFlow
 - https://docs.bentoml.org
-- https://neptune.ai/blog/experiment-management
-- https://neptune.ai/blog/mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective
+- https://web.archive.org/web/20251012093249/https://neptune.ai/blog/experiment-management
+- https://web.archive.org/web/20211009043527/https://neptune.ai/blog/mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective
 - https://towardsdatascience.com/machine-learning-experiment-tracking-93b796e501b0
-- https://neptune.ai/blog/machine-learning-model-management
+- https://web.archive.org/web/20251005125220/https://neptune.ai/blog/machine-learning-model-management
 
 ## bayesian analyses
 
