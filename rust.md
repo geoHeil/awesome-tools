@@ -72,6 +72,11 @@
 - faster linker
   - https://blog.rust.careers/post/compile_rust_faster/
 
+#### nix
+
+- https://github.com/nix-community/fenix
+- https://github.com/nix-community/naersk
+
 ### ci-cd examples
 
 - https://gist.github.com/FedericoPonzi/873aea22b652572f5995f23b86543fdb
