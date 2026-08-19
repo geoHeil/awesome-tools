@@ -475,6 +475,8 @@ security (protection tools)
 security (red teaming)
 
 - https://github.com/elder-plinius/T3MP3ST
+- https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX
+- https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization
 
 some stacks
 
