@@ -53,6 +53,7 @@ curated list of awesome tools and libraries for specific domains
 - https://github.com/Microsoft/BlingFire
 
 ### chatbots
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 - https://rasa.com
 
 ## clustering & distances
