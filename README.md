@@ -76,6 +76,7 @@ curated list of awesome tools and libraries for specific domains
     - https://www.datadoghq.com/product/
     - https://opencensus.io
     - https://middleware.io/
+    - https://github.com/fclairamb/solidping
  - monitoring https://checkmk.com/de
  - certificates
     - https://certbot.eff.org and https://letsencrypt.org for free and automated https/ssl certificates
