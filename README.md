@@ -80,6 +80,7 @@ curated list of awesome tools and libraries for specific domains
  - monitoring https://checkmk.com/de
  - certificates
     - https://certbot.eff.org and https://letsencrypt.org for free and automated https/ssl certificates
+  - server benchmarking https://github.com/vpshostreview/vhr-vps-benchmark
 - hadoop monitoring
   - https://github.com/linkedin/dr-elephant
   - https://github.com/qubole/sparklens
