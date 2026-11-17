@@ -13,6 +13,7 @@
 
 - https://www.heise.de/hintergrund/Bewerbervorauswahl-per-Algorithmus-Wie-man-eine-KI-von-sich-ueberzeugt-6159470.html
   - https://www.jobscan.co
+  - https://withresumeai.com/ — ResumeAI free ATS checker (3/day anon, 10/day free account); State of ATS 2026 (738/704; Workday 37.9%)
   - https://www.vmock.com/site
 - https://huyenchip.com/ml-interviews-book/
 
