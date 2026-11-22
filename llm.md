@@ -282,6 +282,7 @@ SVD and Marchenko-Pastur seem to be really useful
 ### parallel agentic development
 
 - https://conductor.build/
+- yylo: command-line orchestrator for coding agents - typed tasks in dedicated git worktrees, risk-based merge queue. https://github.com/yylo-dev/yylo
 
 ## harnesses / stacks
 
