@@ -97,3 +97,11 @@ https://github.com/bootandy/dust
   - keys Ctrl B +
     - `-/_` to split horizontally/vertically
     - `m` for mouse mode
+
+
+
+
+## pim
+
+- zimbra
+- https://github.com/stalwartlabs/stalwart
